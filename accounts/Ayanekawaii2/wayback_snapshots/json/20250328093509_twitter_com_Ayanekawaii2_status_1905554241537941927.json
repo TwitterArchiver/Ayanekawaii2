@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1905554241537941927",
+    "created_at": "2025-03-28T09:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T10:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905554241537941927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677243857547960321",
+          "start": 3,
+          "username": "is_rotioki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905554241537941927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904883468313780285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @is_rotioki: 到底是谁发明的「那很xx了」句式，敷衍人的时候不知道说啥的时候太好用了，我再也不用绞尽脑汁地想回复。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1905554241537941927",
+        "created_at": "2025-03-28T09:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905554241537941927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677243857547960321",
+              "start": 3,
+              "username": "is_rotioki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905554241537941927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904883468313780285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @is_rotioki: 到底是谁发明的「那很xx了」句式，敷衍人的时候不知道说啥的时候太好用了，我再也不用绞尽脑汁地想回复。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677243857547960321",
+        "conversation_id": "1904883468313780285",
+        "created_at": "2025-03-26T13:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904883468313780285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904883468313780285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 59778,
+          "like_count": 968,
+          "quote_count": 11,
+          "reply_count": 83,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁发明的「那很xx了」句式，敷衍人的时候不知道说啥的时候太好用了，我再也不用绞尽脑汁地想回复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式/低浮上",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 103,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1167
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:11:25.000Z",
+        "description": "不要和我说话 不需要任何评价",
+        "id": "1677243857547960321",
+        "location": "不约不聊天不认识不加任何联系方式对你们所有人不感兴趣",
+        "name": "ROTIOKI",
+        "pinned_tweet_id": "1695102385398657124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677244071486824449/MbDFmphJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38834,
+          "following_count": 135,
+          "like_count": 3359,
+          "listed_count": 92,
+          "media_count": 977,
+          "tweet_count": 5648
+        },
+        "username": "is_rotioki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2051364786588553296",
+    "created_at": "2026-05-05T17:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051710599969866127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786466007495913473",
+          "start": 0,
+          "username": "RinnKitaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051710599969866127",
+    "in_reply_to_user_id": "1786466007495913473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051709812141076576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinnKitaku 是的qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2051364786588553296",
+        "created_at": "2026-05-05T17:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051710599969866127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786466007495913473",
+              "start": 0,
+              "username": "RinnKitaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051710599969866127",
+        "in_reply_to_user_id": "1786466007495913473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051709812141076576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinnKitaku 是的qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786466007495913473",
+        "conversation_id": "2051364786588553296",
+        "created_at": "2026-05-05T17:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051709812141076576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051709812141076576",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051516496518811889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 对是有点咸了所以说这个只有第一口好池！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 190,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 2270
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T18:41:11.000Z",
+        "description": "05/🇯🇵老鼠系/喜欢服设/yohji/药物💊/181 75kg/画画中",
+        "id": "1786466007495913473",
+        "location": "Toshima-ku, Tokyo",
+        "name": "lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049522626218074112/IFOt15eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "RinnKitaku",
+        "verified": false
+      }
+    ]
+  }
+}

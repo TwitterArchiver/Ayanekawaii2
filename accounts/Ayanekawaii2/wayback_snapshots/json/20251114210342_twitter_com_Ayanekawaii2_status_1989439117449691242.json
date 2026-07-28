@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1989438992945942641",
+    "created_at": "2025-11-14T21:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989439117449691242"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989439117449691242",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989438992945942641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是石板是一本字典应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1989438992945942641",
+        "created_at": "2025-11-14T21:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989439117449691242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989439117449691242",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989438992945942641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是石板是一本字典应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1989438992945942641",
+        "created_at": "2025-11-14T21:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989438992945942641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989438992945942641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像有点幻觉看到一个方块里有石板在爬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "你是比眼泪更长的河",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 97,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1452
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

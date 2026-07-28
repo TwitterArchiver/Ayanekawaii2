@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2025257928073290086",
+    "created_at": "2026-02-21T17:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025259029178778082"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025259029178778082",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025257928073290086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的好羡慕现在的小孩，痛苦的时候刷抖音看到od就可以去买od的药让自己爽一下，而不是像我以前一样一直在无尽的痛苦中觉得只有死了才能结束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2025257928073290086",
+        "created_at": "2026-02-21T17:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025259029178778082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025259029178778082",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025257928073290086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好羡慕现在的小孩，痛苦的时候刷抖音看到od就可以去买od的药让自己爽一下，而不是像我以前一样一直在无尽的痛苦中觉得只有死了才能结束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2025257928073290086",
+        "created_at": "2026-02-21T17:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025257928073290086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025257928073290086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我好难受啊，我真的有这么多精神病吗，我突然觉得在抖音上发od也挺好的，要是我初中的时候刷到这些视频，难受的时候知道去买愈美片吃，而不是一个人在房间里制造精神病，我现在就不会有这么多精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 106,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1584
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

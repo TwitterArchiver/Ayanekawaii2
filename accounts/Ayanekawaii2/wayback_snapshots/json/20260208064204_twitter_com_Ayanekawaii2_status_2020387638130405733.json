@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2019657414245773728",
+    "created_at": "2026-02-08T06:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T07:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020387638130405733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1957760064451932162",
+          "start": 0,
+          "username": "ynlabh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020387638130405733",
+    "in_reply_to_user_id": "1957760064451932162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019657414245773728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynlabh 因为喜欢聪明的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2019657414245773728",
+        "created_at": "2026-02-08T06:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020387638130405733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1957760064451932162",
+              "start": 0,
+              "username": "ynlabh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020387638130405733",
+        "in_reply_to_user_id": "1957760064451932162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019657414245773728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynlabh 因为喜欢聪明的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957760064451932162",
+        "conversation_id": "2019657414245773728",
+        "created_at": "2026-02-06T06:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019657414245773728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019657414245773728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 165280,
+          "like_count": 934,
+          "quote_count": 6,
+          "reply_count": 112,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "卡颜值卡身高我倒是能理解 卡外在形象对大家的眼睛很好  但是卡学历是为啥 学历高的也不妨碍对方是个傻逼啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 242,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1553
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T11:02:37.000Z",
+        "description": "大量废话中夹杂少许纪录片",
+        "id": "1957760064451932162",
+        "location": "➕V 388 私信非门勿扰 不卖不约再问自杀",
+        "name": "._.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005444549615968256/PmWl6pH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 69,
+          "like_count": 623,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 628
+        },
+        "username": "ynlabh",
+        "verified": false
+      }
+    ]
+  }
+}

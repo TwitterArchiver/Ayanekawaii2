@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943588582633152513"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1943588598558667055",
+    "created_at": "2025-07-11T08:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943588598558667055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1vqyP7Cgu",
+          "end": 37,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1943588598558667055/photo/1",
+          "media_key": "3_1943588582633152513",
+          "start": 14,
+          "url": "https://t.co/L1vqyP7Cgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943588598558667055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么意思😅妈的早知道不来了 https://t.co/L1vqyP7Cgu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943588598558667055].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943588598558667055",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943588598558667055"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 883,
+        "media_key": "3_1943588582633152513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkDhLFaoAEK3Zw.jpg",
+        "width": 1649
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式/低浮上...",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 98,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1179
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

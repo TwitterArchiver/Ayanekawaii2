@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2073056092880572701",
+    "created_at": "2026-07-03T15:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073060474829316104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073060474829316104",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073056092880572701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 那个石榴汁一股涩味。。我记得超市有卖小瓶的 买个小的尝尝得了 大的真的喝不下去 越喝越涩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073056084651286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT5hoUaIAA60Ov.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2073056092880572701",
+        "created_at": "2026-07-03T15:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073060474829316104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073060474829316104",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073056092880572701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 那个石榴汁一股涩味。。我记得超市有卖小瓶的 买个小的尝尝得了 大的真的喝不下去 越喝越涩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073056084651286528"
+          ]
+        },
+        "author_id": "1897913540432068608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073056092880572701",
+        "created_at": "2026-07-03T14:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073056092880572701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0StlFzchBA",
+              "end": 78,
+              "expanded_url": "https://x.com/1lc5si9/status/2073056092880572701/photo/1",
+              "media_key": "3_2073056084651286528",
+              "start": 55,
+              "url": "https://t.co/0StlFzchBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073056092880572701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我很喜欢苹果汁我在中国的时候就喜欢苹果醋但是这个石榴汁看起来有点好吃但是没试过不敢轻易尝试算了我还是决定尝试 https://t.co/0StlFzchBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 281,
+          "like_count": 826,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 2679
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "東京┊maimai┊od┊",
+        "id": "1897913540432068608",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071619605592981504/bF-BAaPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 236,
+          "like_count": 9065,
+          "listed_count": 0,
+          "media_count": 1342,
+          "tweet_count": 6882
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

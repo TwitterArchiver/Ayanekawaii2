@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054154547870973952"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2054154553554305030",
+    "created_at": "2026-05-12T10:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054154553554305030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5i8jHtDSK",
+          "end": 43,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2054154553554305030/photo/1",
+          "media_key": "3_2054154547870973952",
+          "start": 20,
+          "url": "https://t.co/n5i8jHtDSK"
+        },
+        {
+          "display_url": "x.com/ayanekawaii2/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/ayanekawaii2/status/2053282070265577850",
+          "start": 44,
+          "url": "https://t.co/qbpb9w3Ahx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054154553554305030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053282070265577850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼吗？我再说不够是不是要加到25w了 https://t.co/n5i8jHtDSK https://t.co/qbpb9w3Ahx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 213,
+        "media_key": "3_2054154547870973952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHSrYuaQAAqHzy.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054154547870973952"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2054154553554305030",
+        "created_at": "2026-05-12T10:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054154553554305030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5i8jHtDSK",
+              "end": 43,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2054154553554305030/photo/1",
+              "media_key": "3_2054154547870973952",
+              "start": 20,
+              "url": "https://t.co/n5i8jHtDSK"
+            },
+            {
+              "display_url": "x.com/ayanekawaii2/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ayanekawaii2/status/2053282070265577850",
+              "start": 44,
+              "url": "https://t.co/qbpb9w3Ahx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054154553554305030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053282070265577850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼吗？我再说不够是不是要加到25w了 https://t.co/n5i8jHtDSK https://t.co/qbpb9w3Ahx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2053282070265577850",
+        "created_at": "2026-05-10T01:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053282070265577850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053282070265577850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老爹老妈你们还有多少钱是我不知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 189,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 2321
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

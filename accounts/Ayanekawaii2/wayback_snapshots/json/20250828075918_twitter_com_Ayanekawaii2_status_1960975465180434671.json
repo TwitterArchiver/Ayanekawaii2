@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960975457215815680"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1960975465180434671",
+    "created_at": "2025-08-28T07:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T08:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960975465180434671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLxiE72LGc",
+          "end": 104,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1960975465180434671/photo/1",
+          "media_key": "3_1960975457215815680",
+          "start": 81,
+          "url": "https://t.co/JLxiE72LGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960975465180434671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在这种没窗户的地方呆着感觉好像没有时间一样，想知道是几点都要拿出手机来看，不能通过外面判断现在是几点。。也可能是因为我好久没早起了，在我的世界里没有早上和上午… https://t.co/JLxiE72LGc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960975465180434671].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960975465180434671",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960975465180434671"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960975457215815680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbIyeSboAAkRHI.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1200
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

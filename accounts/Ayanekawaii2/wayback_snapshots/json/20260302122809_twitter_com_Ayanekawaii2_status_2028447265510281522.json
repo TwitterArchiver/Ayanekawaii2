@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028447247718117376"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2028447265510281522",
+    "created_at": "2026-03-02T12:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028447265510281522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1PH8YW8gGz",
+          "end": 43,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2028447265510281522/photo/1",
+          "media_key": "3_2028447247718117376",
+          "start": 20,
+          "url": "https://t.co/1PH8YW8gGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028447265510281522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来点白兔\n先吃20t然后出去买瓶西柚汁 https://t.co/1PH8YW8gGz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028447265510281522].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028447265510281522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028447265510281522"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028447247718117376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZ-Bk3bcAAZpgy.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 109,
+          "like_count": 247,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1607
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042687424313331713"
+      ],
+      "media_source_tweet_id": [
+        "2042687440188784922"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2043358207167660223",
+    "created_at": "2026-04-12T15:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043358207167660223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796770446907748352",
+          "start": 3,
+          "username": "oodoudouoodu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EFx9IdR6Mq",
+          "end": 50,
+          "expanded_url": "https://x.com/oodoudouoodu/status/2042687440188784922/photo/1",
+          "media_key": "3_2042687424313331713",
+          "start": 27,
+          "url": "https://t.co/EFx9IdR6Mq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043358207167660223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042687440188784922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oodoudouoodu: 老公应该这样对我 https://t.co/EFx9IdR6Mq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2042687424313331713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkVY8lakAEPFnX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042687424313331713"
+          ],
+          "media_source_tweet_id": [
+            "2042687440188784922"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2043358207167660223",
+        "created_at": "2026-04-12T15:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043358207167660223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796770446907748352",
+              "start": 3,
+              "username": "oodoudouoodu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFx9IdR6Mq",
+              "end": 50,
+              "expanded_url": "https://x.com/oodoudouoodu/status/2042687440188784922/photo/1",
+              "media_key": "3_2042687424313331713",
+              "start": 27,
+              "url": "https://t.co/EFx9IdR6Mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043358207167660223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042687440188784922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oodoudouoodu: 老公应该这样对我 https://t.co/EFx9IdR6Mq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042687424313331713"
+          ]
+        },
+        "author_id": "1796770446907748352",
+        "conversation_id": "2042687440188784922",
+        "created_at": "2026-04-10T19:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042687440188784922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFx9IdR6Mq",
+              "end": 32,
+              "expanded_url": "https://x.com/oodoudouoodu/status/2042687440188784922/photo/1",
+              "media_key": "3_2042687424313331713",
+              "start": 9,
+              "url": "https://t.co/EFx9IdR6Mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042687440188784922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 76718,
+          "like_count": 2570,
+          "quote_count": 42,
+          "reply_count": 29,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "老公应该这样对我 https://t.co/EFx9IdR6Mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 135,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1999
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T05:07:21.000Z",
+        "description": "我是那种坐在沙发上 眼泪哗哗流 但是不出声的那种 就是很唯美的 童话类型",
+        "id": "1796770446907748352",
+        "name": "比香奈儿还香的女人",
+        "pinned_tweet_id": "2025390060544331842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040230659437068288/rP22CxR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 76,
+          "like_count": 4029,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1257
+        },
+        "username": "oodoudouoodu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2065767077189927086",
+    "created_at": "2026-06-14T16:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066200819301818835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060627239654629376",
+          "start": 0,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066200819301818835",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065767077189927086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashdieds 墙内都是一群傻逼喝个碘伏以为自己可消肿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2065767077189927086",
+        "created_at": "2026-06-14T16:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066200819301818835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060627239654629376",
+              "start": 0,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066200819301818835",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065767077189927086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashdieds 墙内都是一群傻逼喝个碘伏以为自己可消肿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065767077189927086",
+        "created_at": "2026-06-13T12:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065767077189927086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065767077189927086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10751,
+          "like_count": 119,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内怎么一堆喝碘伏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 255,
+          "like_count": 616,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2592
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 142,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

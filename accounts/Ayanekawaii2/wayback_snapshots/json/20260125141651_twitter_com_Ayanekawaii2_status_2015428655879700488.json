@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015428646962700288"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2015428655879700488",
+    "created_at": "2026-01-25T14:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015428655879700488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SK7qW0Ks5",
+          "end": 45,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2015428655879700488/photo/1",
+          "media_key": "3_2015428646962700288",
+          "start": 22,
+          "url": "https://t.co/9SK7qW0Ks5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015428655879700488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝子你继续吃吧你的肝肾一点也不苦不累不难受 https://t.co/9SK7qW0Ks5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015428655879700488].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015428655879700488",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015428655879700488"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015428646962700288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g9rRxboAAcqJn.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 104,
+          "like_count": 235,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1526
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

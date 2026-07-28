@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2049475915143680462",
+    "created_at": "2026-04-29T13:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049487049670152474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049409112556126209",
+          "start": 0,
+          "username": "yuqinz_pf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049487049670152474",
+    "in_reply_to_user_id": "2049409112556126209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049486295592997225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqinz_pf そうですね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2049475915143680462",
+        "created_at": "2026-04-29T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049487049670152474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049409112556126209",
+              "start": 0,
+              "username": "yuqinz_pf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049487049670152474",
+        "in_reply_to_user_id": "2049409112556126209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049486295592997225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqinz_pf そうですね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049409112556126209",
+        "conversation_id": "2049475915143680462",
+        "created_at": "2026-04-29T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049486295592997225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049486295592997225",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049483671690993819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 なるほど...\n色々難しいですね笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 179,
+          "like_count": 354,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2196
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T08:45:06.000Z",
+        "description": "病み垢‼️2026-04-29〜\n溶けていきたい/18↓/89鍵目/💊/🔪",
+        "id": "2049409112556126209",
+        "name": "ゆう",
+        "pinned_tweet_id": "2049419287660769586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049411447915225088/UGFLvy9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 119,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "yuqinz_pf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1986691912800346211",
+    "created_at": "2025-11-07T18:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T19:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986856558312194555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "TangYuwenMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986856558312194555",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986691912800346211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangYuwenMTF 顺直起号就这么不择手段😅本来性少数群体在社会上已经受到很多歧视了，还要被这样丑化"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986691906328576000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ilw0rbwAA47ag.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986691906341117952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ilw0ubIAAJKHP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1986691912800346211",
+        "created_at": "2025-11-07T18:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986856558312194555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "TangYuwenMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986856558312194555",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986691912800346211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangYuwenMTF 顺直起号就这么不择手段😅本来性少数群体在社会上已经受到很多歧视了，还要被这样丑化"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986691906328576000",
+            "3_1986691906341117952"
+          ]
+        },
+        "author_id": "1973585079852257280",
+        "conversation_id": "1986691912800346211",
+        "created_at": "2025-11-07T07:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986691912800346211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2oQv5NjpJ",
+              "end": 38,
+              "expanded_url": "https://x.com/TangYuwenMTF/status/1986691912800346211/photo/1",
+              "media_key": "3_1986691906328576000",
+              "start": 15,
+              "url": "https://t.co/o2oQv5NjpJ"
+            },
+            {
+              "display_url": "pic.x.com/o2oQv5NjpJ",
+              "end": 38,
+              "expanded_url": "https://x.com/TangYuwenMTF/status/1986691912800346211/photo/1",
+              "media_key": "3_1986691906341117952",
+              "start": 15,
+              "url": "https://t.co/o2oQv5NjpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986691912800346211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 35055,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别名声臭就是因为这种耳鼻 https://t.co/o2oQv5NjpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "我珍惜你的方式错了吗",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 98,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1427
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "传奇耐封王\n对象：@zhishi_cook和@wowo_yz\nMTF hrt started : 2025.6.30\n抽象多边\nmtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1975717214742626772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 121,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      }
+    ]
+  }
+}

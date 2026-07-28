@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857090838024609792"
+      ],
+      "media_source_tweet_id": [
+        "1857090841044496589"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1857361049676374513",
+    "created_at": "2024-11-15T09:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T10:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857361049676374513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1325720943948300290",
+          "start": 3,
+          "username": "puyoyama_puyux2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IEJ0M5YH4e",
+          "end": 51,
+          "expanded_url": "https://x.com/puyoyama_puyux2/status/1857090841044496589/photo/1",
+          "media_key": "3_1857090838024609792",
+          "start": 28,
+          "url": "https://t.co/IEJ0M5YH4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857361049676374513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857090841044496589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puyoyama_puyux2: 割に合わない https://t.co/IEJ0M5YH4e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_1857090838024609792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcW2RyQW4AAy597.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857090838024609792"
+          ],
+          "media_source_tweet_id": [
+            "1857090841044496589"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1857361049676374513",
+        "created_at": "2024-11-15T09:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T10:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857361049676374513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1325720943948300290",
+              "start": 3,
+              "username": "puyoyama_puyux2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEJ0M5YH4e",
+              "end": 51,
+              "expanded_url": "https://x.com/puyoyama_puyux2/status/1857090841044496589/photo/1",
+              "media_key": "3_1857090838024609792",
+              "start": 28,
+              "url": "https://t.co/IEJ0M5YH4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857361049676374513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857090841044496589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puyoyama_puyux2: 割に合わない https://t.co/IEJ0M5YH4e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857090838024609792"
+          ]
+        },
+        "author_id": "1325720943948300290",
+        "conversation_id": "1857090841044496589",
+        "created_at": "2024-11-14T15:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857090841044496589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEJ0M5YH4e",
+              "end": 30,
+              "expanded_url": "https://x.com/puyoyama_puyux2/status/1857090841044496589/photo/1",
+              "media_key": "3_1857090838024609792",
+              "start": 7,
+              "url": "https://t.co/IEJ0M5YH4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857090841044496589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 11573,
+          "like_count": 1053,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "割に合わない https://t.co/IEJ0M5YH4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 107,
+          "like_count": 214,
+          "listed_count": 0,
+          "tweet_count": 970
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-09T08:45:08.000Z",
+        "description": "にょん",
+        "id": "1325720943948300290",
+        "name": "ドブ",
+        "pinned_tweet_id": "1840424908045811761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626998346023067648/Z0m9tLpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 310,
+          "like_count": 30133,
+          "listed_count": 83,
+          "tweet_count": 3018
+        },
+        "username": "puyoyama_puyux2",
+        "verified": false
+      }
+    ]
+  }
+}

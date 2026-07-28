@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1960784245263360125",
+    "created_at": "2025-08-29T10:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T11:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961375414200438829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675431371848945664",
+          "start": 0,
+          "username": "Gr13f_of_Xhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961375414200438829",
+    "in_reply_to_user_id": "1675431371848945664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961131397126766616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr13f_of_Xhan 确实 感觉线下谷店也没啥好逛的 种类也不如在网上买多 但是不用付邮费而且能很快的拿到（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1960784245263360125",
+        "created_at": "2025-08-29T10:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961375414200438829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675431371848945664",
+              "start": 0,
+              "username": "Gr13f_of_Xhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961375414200438829",
+        "in_reply_to_user_id": "1675431371848945664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961131397126766616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr13f_of_Xhan 确实 感觉线下谷店也没啥好逛的 种类也不如在网上买多 但是不用付邮费而且能很快的拿到（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675431371848945664",
+        "conversation_id": "1960784245263360125",
+        "created_at": "2025-08-28T18:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961131397126766616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961131397126766616",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960784245263360125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 方所真几把贵（设定集很多 但是书也很贵不如上网买）其他地方给我的印象就是国谷➕自印 日谷能翻一倍价格卖 逛一遍就再也不想去了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1201
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T09:09:20.000Z",
+        "description": "原来健忘是善感人类的天赋 🩵INFJ-T/双相情感障碍/重抑重焦/服药/割手/负面/单亲/8.27起戒od/渴望死亡/也许是ftmtx/互fo欢迎 如果没在置顶留一下❕泛性恋-希望被爱但又推开-如果可以抱抱我——下辈子也喜欢你@ZhizhiziOsward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "ZhizhiziOsward"
+              }
+            ]
+          }
+        },
+        "id": "1675431371848945664",
+        "location": "冰冷的 被包裹住仅有的温暖的裂缝",
+        "name": "Gr13f_Inelaio雨",
+        "pinned_tweet_id": "1858831733841686834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857766547416297476/no1iVI_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 148,
+          "like_count": 3735,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 1580
+        },
+        "username": "Gr13f_of_Xhan",
+        "verified": false
+      }
+    ]
+  }
+}

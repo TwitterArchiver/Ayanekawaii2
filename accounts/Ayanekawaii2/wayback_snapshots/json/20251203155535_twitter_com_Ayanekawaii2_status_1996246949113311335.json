@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1996013855617810800",
+    "created_at": "2025-12-03T15:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996246949113311335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1511559008808669184",
+          "start": 0,
+          "username": "egoneg3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996246949113311335",
+    "in_reply_to_user_id": "1511559008808669184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996013855617810800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@egoneg3000 对啊好恶心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1996013855617810800",
+        "created_at": "2025-12-03T15:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996246949113311335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1511559008808669184",
+              "start": 0,
+              "username": "egoneg3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996246949113311335",
+        "in_reply_to_user_id": "1511559008808669184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996013855617810800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@egoneg3000 对啊好恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511559008808669184",
+        "conversation_id": "1996013855617810800",
+        "created_at": "2025-12-03T00:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996013855617810800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996013855617810800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 121352,
+          "like_count": 837,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "看到男网黄拍视频起名字全是对女生极致物化 我觉得约炮多伴侣都可以接受了前提是有尊重 炮友代号全是07留学母狗什么的 还有一群女的上赶着叫老公 简直太吓人了 \n无法想象人能喜欢一根大一点几把 怎么就连同着上面长得不怎么样的人一起爱上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "你是比眼泪更长的河",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 99,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1476
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T04:18:50.000Z",
+        "description": "我是一名公狗人夫账号皮下女 不是真的是",
+        "id": "1511559008808669184",
+        "name": "06/185大胸肌留学公狗人夫",
+        "pinned_tweet_id": "1594182215545786368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989987965347786752/_yZJrjg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 142,
+          "like_count": 10652,
+          "listed_count": 2,
+          "media_count": 1821,
+          "tweet_count": 12606
+        },
+        "username": "egoneg3000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1889347463485829479",
+    "created_at": "2025-02-11T16:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T17:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889347463485829479"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889347463485829479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "强迫自己过了几天正常人的生活（一天上五个小时的课😄）好像还挺开心的也能接受…又开始怀疑我之前那些痛苦都是装的玩手机玩的对自己不严格要求的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1889347463485829479",
+        "created_at": "2025-02-11T16:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T17:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889347463485829479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889347463485829479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强迫自己过了几天正常人的生活（一天上五个小时的课😄）好像还挺开心的也能接受…又开始怀疑我之前那些痛苦都是装的玩手机玩的对自己不严格要求的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式/低浮上",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 102,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1156
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

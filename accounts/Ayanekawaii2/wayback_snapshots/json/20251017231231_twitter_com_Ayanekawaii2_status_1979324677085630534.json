@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1979324677085630534",
+    "created_at": "2025-10-17T23:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T00:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979324677085630534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1939600730329059328",
+          "start": 3,
+          "username": "ebJchX0bbw27368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979324677085630534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978989343243919405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ebJchX0bbw27368: リスカもodも死ぬよりましなんだから許してよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1979324677085630534",
+        "created_at": "2025-10-17T23:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T00:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979324677085630534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1939600730329059328",
+              "start": 3,
+              "username": "ebJchX0bbw27368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979324677085630534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978989343243919405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ebJchX0bbw27368: リスカもodも死ぬよりましなんだから許してよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939600730329059328",
+        "conversation_id": "1978989343243919405",
+        "created_at": "2025-10-17T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978989343243919405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978989343243919405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6742,
+          "like_count": 472,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "リスカもodも死ぬよりましなんだから許してよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手qwq",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1357
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T08:23:59.000Z",
+        "description": "ADHD|ASD|軽度知的障害|抑うつ|社会不安症|08|🚺|メンヘラ|基本塩時々甘々 |自発苦手|絵@Unhappyset_ | リスカ垢@x4xRQaDmFm31453|DMリプ大歓迎です ⚠️お隣存在するらしい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Unhappyset_"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "x4xRQaDmFm31453"
+              }
+            ]
+          }
+        },
+        "id": "1939600730329059328",
+        "location": "死ぬ死ぬ詐欺",
+        "name": "かな",
+        "pinned_tweet_id": "1975136381711327563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969718433756663808/AdXhSYSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 574,
+          "like_count": 4459,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 3088
+        },
+        "username": "ebJchX0bbw27368",
+        "verified": false
+      }
+    ]
+  }
+}

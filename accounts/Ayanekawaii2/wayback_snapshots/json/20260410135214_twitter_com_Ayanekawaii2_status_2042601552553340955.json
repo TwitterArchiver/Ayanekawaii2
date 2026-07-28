@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042601547247632384"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042601552553340955",
+    "created_at": "2026-04-10T13:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042601552553340955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pN06e9oNjp",
+          "end": 78,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042601552553340955/photo/1",
+          "media_key": "3_2042601547247632384",
+          "start": 55,
+          "url": "https://t.co/pN06e9oNjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042601552553340955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么又又又又让我碰到这种事进了互关的一个只有四五个人的sps里面就有一个人是塾里的同学。我的后背真的凉凉的吧 https://t.co/pN06e9oNjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042601547247632384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjHSPlbwAA83m0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042601547247632384"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042601552553340955",
+        "created_at": "2026-04-10T13:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042601552553340955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pN06e9oNjp",
+              "end": 78,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042601552553340955/photo/1",
+              "media_key": "3_2042601547247632384",
+              "start": 55,
+              "url": "https://t.co/pN06e9oNjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042601552553340955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又又又又让我碰到这种事进了互关的一个只有四五个人的sps里面就有一个人是塾里的同学。我的后背真的凉凉的吧 https://t.co/pN06e9oNjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 134,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1974
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

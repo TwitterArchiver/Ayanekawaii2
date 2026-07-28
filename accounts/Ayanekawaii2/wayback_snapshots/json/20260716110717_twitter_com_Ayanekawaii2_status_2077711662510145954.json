@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2077710344500494472",
+    "created_at": "2026-07-16T11:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077711662510145954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170514701496668160",
+          "start": 0,
+          "username": "Hungry_Humble11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077711662510145954",
+    "in_reply_to_user_id": "1170514701496668160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077711582470218007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hungry_Humble11 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2077710344500494472",
+        "created_at": "2026-07-16T11:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077711662510145954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170514701496668160",
+              "start": 0,
+              "username": "Hungry_Humble11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077711662510145954",
+        "in_reply_to_user_id": "1170514701496668160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077711582470218007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hungry_Humble11 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170514701496668160",
+        "conversation_id": "2077710344500494472",
+        "created_at": "2026-07-16T11:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077711582470218007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077711582470218007",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077710344500494472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 🫂 🫂 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 280,
+          "like_count": 1100,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-08T01:50:34.000Z",
+        "description": "平行线不应该有交点。",
+        "id": "1170514701496668160",
+        "location": "闇",
+        "name": "圆",
+        "pinned_tweet_id": "1999486720321130796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831382546233614336/MraiSf68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 481,
+          "like_count": 4801,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1619
+        },
+        "url": "",
+        "username": "Hungry_Humble11",
+        "verified": false
+      }
+    ]
+  }
+}

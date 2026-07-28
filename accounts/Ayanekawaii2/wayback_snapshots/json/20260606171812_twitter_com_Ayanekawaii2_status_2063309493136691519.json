@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2063309493136691519",
+    "created_at": "2026-06-06T17:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063309493136691519"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063309493136691519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考前一晚的微信朋友圈好猎奇呀回忆一下青春也就算了还有不打码发血图试图吓死高考生的其他的我都懒得喷了这就是我不喜欢刷朋友圈的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2063309493136691519",
+        "created_at": "2026-06-06T17:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063309493136691519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063309493136691519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考前一晚的微信朋友圈好猎奇呀回忆一下青春也就算了还有不打码发血图试图吓死高考生的其他的我都懒得喷了这就是我不喜欢刷朋友圈的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 241,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 2536
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

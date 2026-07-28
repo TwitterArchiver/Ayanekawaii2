@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922680751675371521",
+        "3_1922680751708852226"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1922680764019183988",
+    "created_at": "2025-05-14T15:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922680764019183988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWtit0Dt4w",
+          "end": 173,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1922680764019183988/photo/1",
+          "media_key": "3_1922680751675371521",
+          "start": 150,
+          "url": "https://t.co/iWtit0Dt4w"
+        },
+        {
+          "display_url": "pic.x.com/iWtit0Dt4w",
+          "end": 173,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1922680764019183988/photo/1",
+          "media_key": "3_1922680751708852226",
+          "start": 150,
+          "url": "https://t.co/iWtit0Dt4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922680764019183988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "18t普瑞\n新手机没法翻墙好烦 又不能发在墙内 更烦了 现在旧手机已经当做翻墙和拍照专用手机了 这个手机拍照真的好看\n先吃了8t 好喜欢解离的感觉 日语托福数理化和其他的一切都远离了 还有凭空生成的幸福 只有药才能带给我的幸福\n我不想打字了 我要躺着感受药效 一直打字脑子好难受 而且我很迷总是打错 https://t.co/iWtit0Dt4w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922680764019183988].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922680764019183988",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922680764019183988"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922680751675371521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq679PQXcAECjGP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922680751708852226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq679PYWUAIgPTu.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式/低浮上",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 101,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1172
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

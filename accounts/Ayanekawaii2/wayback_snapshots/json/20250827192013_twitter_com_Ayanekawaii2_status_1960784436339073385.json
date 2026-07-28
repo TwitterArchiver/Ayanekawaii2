@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960784428185346049"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1960784245263360125",
+    "created_at": "2025-08-27T19:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T20:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960784436339073385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Lf7iluWCg",
+          "end": 34,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1960784436339073385/photo/1",
+          "media_key": "3_1960784428185346049",
+          "start": 11,
+          "url": "https://t.co/8Lf7iluWCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960784436339073385",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960784245263360125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的有这些店吗？？？ https://t.co/8Lf7iluWCg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960784436339073385].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960784436339073385",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960784436339073385"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960784428185346049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzYbDHsa4AENW-E.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1960784245263360125",
+        "created_at": "2025-08-27T19:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T20:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960784245263360125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960784245263360125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万象城怎么有这么多卖谷子的地方 天天去万象城我都感觉万象城很无聊了 但明天休息也不想去那边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1195
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

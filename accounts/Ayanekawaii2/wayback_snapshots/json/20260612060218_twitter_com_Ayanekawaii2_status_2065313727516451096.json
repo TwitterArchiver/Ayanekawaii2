@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065313721648627712",
+        "3_2065313721644367873",
+        "3_2065313721644367872",
+        "3_2065313721635987456"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065313727516451096",
+    "created_at": "2026-06-12T06:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065313727516451096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 75,
+          "id": "1821312171923644416",
+          "start": 63,
+          "username": "jagaimo6681"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9eXdH3VHS",
+          "end": 99,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+          "media_key": "3_2065313721648627712",
+          "start": 76,
+          "url": "https://t.co/E9eXdH3VHS"
+        },
+        {
+          "display_url": "pic.x.com/E9eXdH3VHS",
+          "end": 99,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+          "media_key": "3_2065313721644367873",
+          "start": 76,
+          "url": "https://t.co/E9eXdH3VHS"
+        },
+        {
+          "display_url": "pic.x.com/E9eXdH3VHS",
+          "end": 99,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+          "media_key": "3_2065313721644367872",
+          "start": 76,
+          "url": "https://t.co/E9eXdH3VHS"
+        },
+        {
+          "display_url": "pic.x.com/E9eXdH3VHS",
+          "end": 99,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+          "media_key": "3_2065313721635987456",
+          "start": 76,
+          "url": "https://t.co/E9eXdH3VHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065313727516451096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天和96年已婚人妻偷情了🥰摸着人妻的巨乳逛街。会不会有点太保守了？还吃了美味的支餐，买了两个猫猫虫咖波，好幸福的一个晚上☺️@jagaimo6681 https://t.co/E9eXdH3VHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065313721648627712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl34yibQAAsLua.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065313721644367873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl34yhaQAEIgK4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065313721644367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl34yhaQAAnaca.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065313721635987456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl34yfaYAAzBDh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065313721648627712",
+            "3_2065313721644367873",
+            "3_2065313721644367872",
+            "3_2065313721635987456"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065313727516451096",
+        "created_at": "2026-06-12T06:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065313727516451096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1821312171923644416",
+              "start": 63,
+              "username": "jagaimo6681"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9eXdH3VHS",
+              "end": 99,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+              "media_key": "3_2065313721648627712",
+              "start": 76,
+              "url": "https://t.co/E9eXdH3VHS"
+            },
+            {
+              "display_url": "pic.x.com/E9eXdH3VHS",
+              "end": 99,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+              "media_key": "3_2065313721644367873",
+              "start": 76,
+              "url": "https://t.co/E9eXdH3VHS"
+            },
+            {
+              "display_url": "pic.x.com/E9eXdH3VHS",
+              "end": 99,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+              "media_key": "3_2065313721644367872",
+              "start": 76,
+              "url": "https://t.co/E9eXdH3VHS"
+            },
+            {
+              "display_url": "pic.x.com/E9eXdH3VHS",
+              "end": 99,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2065313727516451096/photo/1",
+              "media_key": "3_2065313721635987456",
+              "start": 76,
+              "url": "https://t.co/E9eXdH3VHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065313727516451096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天和96年已婚人妻偷情了🥰摸着人妻的巨乳逛街。会不会有点太保守了？还吃了美味的支餐，买了两个猫猫虫咖波，好幸福的一个晚上☺️@jagaimo6681 https://t.co/E9eXdH3VHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 249,
+          "like_count": 564,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 2584
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "location": "東京は愛せど何もない",
+        "name": "にゃがいも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056609085261590528/PSEeSYHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 697,
+          "like_count": 48445,
+          "listed_count": 7,
+          "media_count": 732,
+          "tweet_count": 14205
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

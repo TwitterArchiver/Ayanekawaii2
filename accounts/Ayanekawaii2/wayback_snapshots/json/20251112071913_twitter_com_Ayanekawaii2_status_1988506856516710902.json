@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1988506856516710902",
+    "created_at": "2025-11-12T07:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988506856516710902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954196219577950208",
+          "start": 3,
+          "username": "djllsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988506856516710902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987320878498259362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djllsr: 说健全逼不是说你是正常人的意思好吗？你是死全家顺直恶毒蛆懂了吗？正常人是有同理心和同情心的，不想看这种只会屏蔽和隐藏，而不是说这种人割腕的人快点去自杀不自爱好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1988506856516710902",
+        "created_at": "2025-11-12T07:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988506856516710902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954196219577950208",
+              "start": 3,
+              "username": "djllsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988506856516710902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987320878498259362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @djllsr: 说健全逼不是说你是正常人的意思好吗？你是死全家顺直恶毒蛆懂了吗？正常人是有同理心和同情心的，不想看这种只会屏蔽和隐藏，而不是说这种人割腕的人快点去自杀不自爱好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954196219577950208",
+        "conversation_id": "1987320878498259362",
+        "created_at": "2025-11-09T00:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987320878498259362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987320878498259362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 49974,
+          "like_count": 369,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "说健全逼不是说你是正常人的意思好吗？你是死全家顺直恶毒蛆懂了吗？正常人是有同理心和同情心的，不想看这种只会屏蔽和隐藏，而不是说这种人割腕的人快点去自杀不自爱好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "我珍惜你的方式错了吗",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 97,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1434
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:01:09.000Z",
+        "description": "情绪想法瞬息万变",
+        "id": "1954196219577950208",
+        "location": "Auckland, New Zealand",
+        "name": "别吃我屎反正我不负责",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988297766658011136/FswhaBXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1694
+        },
+        "username": "djllsr",
+        "verified": false
+      }
+    ]
+  }
+}

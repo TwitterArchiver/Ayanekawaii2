@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2042905379848491159",
+    "created_at": "2026-05-01T01:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050024273658667302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758117694170091520",
+          "start": 0,
+          "username": "shen_hou45924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050024273658667302",
+    "in_reply_to_user_id": "1758117694170091520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049555585922920718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shen_hou45924 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2042905379848491159",
+        "created_at": "2026-05-01T01:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050024273658667302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758117694170091520",
+              "start": 0,
+              "username": "shen_hou45924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050024273658667302",
+        "in_reply_to_user_id": "1758117694170091520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049555585922920718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shen_hou45924 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758117694170091520",
+        "conversation_id": "2042905379848491159",
+        "created_at": "2026-04-29T18:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049555585922920718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049555585922920718",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042905379848491159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 叫爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 183,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2215
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T13:15:10.000Z",
+        "description": "",
+        "id": "1758117694170091520",
+        "name": "什么时候才能此为泡影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048660319631974400/K-zOlAVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "shen_hou45924",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2036558510692114470",
+    "created_at": "2026-03-24T21:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T22:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036558510692114470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1826722103305084928",
+          "start": 3,
+          "username": "qngxiomo188612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036558510692114470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036504004705001525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qngxiomo188612: 我真的很需要朋友 可以陪我说很多恶劣言论的 能经常见面一起玩的 陪我一起哭一起磕药一起自残的 可以陪我拍色情照片的 我们就这样一直堕落下去好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2036558510692114470",
+        "created_at": "2026-03-24T21:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T22:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036558510692114470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1826722103305084928",
+              "start": 3,
+              "username": "qngxiomo188612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036558510692114470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036504004705001525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qngxiomo188612: 我真的很需要朋友 可以陪我说很多恶劣言论的 能经常见面一起玩的 陪我一起哭一起磕药一起自残的 可以陪我拍色情照片的 我们就这样一直堕落下去好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826722103305084928",
+        "conversation_id": "2036504004705001525",
+        "created_at": "2026-03-24T18:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036504004705001525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036504004705001525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1407,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很需要朋友 可以陪我说很多恶劣言论的 能经常见面一起玩的 陪我一起哭一起磕药一起自残的 可以陪我拍色情照片的 我们就这样一直堕落下去好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 116,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1771
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T20:44:58.000Z",
+        "description": "🚪 私信只回复口令红包",
+        "id": "1826722103305084928",
+        "name": "坏",
+        "pinned_tweet_id": "2024807133427184065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929301021756645376/MtbMOtDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20813,
+          "following_count": 20,
+          "like_count": 4269,
+          "listed_count": 59,
+          "media_count": 71,
+          "tweet_count": 139
+        },
+        "username": "qngxiomo188612",
+        "verified": false
+      }
+    ]
+  }
+}

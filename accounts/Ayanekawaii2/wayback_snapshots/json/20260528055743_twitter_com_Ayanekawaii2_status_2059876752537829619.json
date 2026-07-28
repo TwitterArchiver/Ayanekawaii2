@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059857336823619903",
+    "created_at": "2026-05-28T05:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059876752537829619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        },
+        {
+          "end": 21,
+          "id": "1897913540432068608",
+          "start": 13,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059876752537829619",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059876263402275024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@bocchi1chan @1lc5si9 我去欧美就成不舍得去外面吃饭不舍得租大房子的鼠留了还是在日本舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059857336823619903",
+        "created_at": "2026-05-28T05:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059876752537829619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            },
+            {
+              "end": 21,
+              "id": "1897913540432068608",
+              "start": 13,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059876752537829619",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059876263402275024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@bocchi1chan @1lc5si9 我去欧美就成不舍得去外面吃饭不舍得租大房子的鼠留了还是在日本舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "2059857336823619903",
+        "created_at": "2026-05-28T05:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059876263402275024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            },
+            {
+              "end": 22,
+              "id": "1897913540432068608",
+              "start": 14,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059876263402275024",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872196726849607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ayanekawaii2 @1lc5si9 最后一个是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 214,
+          "like_count": 401,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2445
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/zSozYuFfcL"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13553,
+          "following_count": 2930,
+          "like_count": 37106,
+          "listed_count": 20,
+          "media_count": 2344,
+          "tweet_count": 5340
+        },
+        "url": "https://t.co/zSozYuFfcL",
+        "username": "bocchi1chan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "宝宝@nisierbaiwu\n学习号@q104829",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "nisierbaiwu"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "q104829"
+              }
+            ]
+          }
+        },
+        "id": "1897913540432068608",
+        "location": "東京",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952060927265873920/m2Roxxtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 203,
+          "like_count": 7393,
+          "listed_count": 0,
+          "media_count": 666,
+          "tweet_count": 4157
+        },
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

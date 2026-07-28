@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2029208175845753136",
+    "created_at": "2026-03-04T14:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029208175845753136"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029208175845753136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的善良人格都要消失了。。。我难道还不够善良吗 就算真的很难受很想死我也不会用再xx我就去死我就自杀这种话来威胁这个傻逼生物爹妈甚至连我是精神病这个事实都很少提 还要我怎么样我本来就是个精神病你们是真不知道还是装不知道。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029208175845753136",
+        "created_at": "2026-03-04T14:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029208175845753136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029208175845753136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的善良人格都要消失了。。。我难道还不够善良吗 就算真的很难受很想死我也不会用再xx我就去死我就自杀这种话来威胁这个傻逼生物爹妈甚至连我是精神病这个事实都很少提 还要我怎么样我本来就是个精神病你们是真不知道还是装不知道。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 108,
+          "like_count": 249,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1615
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

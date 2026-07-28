@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2017290899513086175",
+    "created_at": "2026-01-30T17:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017292158961893679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017292158961893679",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017290899513086175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在地铁站门口打车的时候闻到一股淡淡的香味夹杂着烟味 问了一下说是中南海蓝莓味还邀请我来一根 她打不到车但是她家在地铁站和我订的酒店之间所以就坐了我打的车 加微信付钱的时候看到她的朋友圈完全是我羡慕的那种文艺逼的生活…穿的衣服也好好品 我好想过一种这样的生活呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2017290899513086175",
+        "created_at": "2026-01-30T17:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017292158961893679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017292158961893679",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017290899513086175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在地铁站门口打车的时候闻到一股淡淡的香味夹杂着烟味 问了一下说是中南海蓝莓味还邀请我来一根 她打不到车但是她家在地铁站和我订的酒店之间所以就坐了我打的车 加微信付钱的时候看到她的朋友圈完全是我羡慕的那种文艺逼的生活…穿的衣服也好好品 我好想过一种这样的生活呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2017290899513086175",
+        "created_at": "2026-01-30T17:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017290899513086175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017290899513086175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想当一个上海的文艺逼呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 103,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1537
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

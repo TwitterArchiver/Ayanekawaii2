@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1976769384925610133",
+    "created_at": "2025-10-10T21:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T22:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976769384925610133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783811548345171968",
+          "start": 3,
+          "username": "01aoakachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976769384925610133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976250988324585679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @01aoakachan: ODして救急搬送された時とか腕切って縫ってもらってる時に「がんばったね、しんどかったね、もう大丈夫だよ、ひとりじゃないよ」って言われた時は泣いてしまった、死にたいはずなのに優しい人の優しい言葉で生きようとしてしまう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1976769384925610133",
+        "created_at": "2025-10-10T21:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976769384925610133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783811548345171968",
+              "start": 3,
+              "username": "01aoakachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976769384925610133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976250988324585679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @01aoakachan: ODして救急搬送された時とか腕切って縫ってもらってる時に「がんばったね、しんどかったね、もう大丈夫だよ、ひとりじゃないよ」って言われた時は泣いてしまった、死にたいはずなのに優しい人の優しい言葉で生きようとしてしまう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783811548345171968",
+        "conversation_id": "1976250988324585679",
+        "created_at": "2025-10-09T11:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976250988324585679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976250988324585679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 28220,
+          "like_count": 1936,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "ODして救急搬送された時とか腕切って縫ってもらってる時に「がんばったね、しんどかったね、もう大丈夫だよ、ひとりじゃないよ」って言われた時は泣いてしまった、死にたいはずなのに優しい人の優しい言葉で生きようとしてしまう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1342
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:53:30.000Z",
+        "description": "01 ￤ P ￤ 精神科通院中 ￤ 社交不安障害 ￤ PTSD ￤ 双極性障害 ￤ 摂食障害(拒⇔過) ￤ 境界性パーソナリティ障害 ￤ 市販薬依存 ￤ 自傷OD ￤ 救急搬送 , 縫合 , 胃洗浄 , 入院歴有 ￤ 手帳２級",
+        "id": "1783811548345171968",
+        "name": "あお",
+        "pinned_tweet_id": "1956659595503403078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795016471682404352/x1HaXD51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 276,
+          "like_count": 503,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 743
+        },
+        "username": "01aoakachan",
+        "verified": false
+      }
+    ]
+  }
+}

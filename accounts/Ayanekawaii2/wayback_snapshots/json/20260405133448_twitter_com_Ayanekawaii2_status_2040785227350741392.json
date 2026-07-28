@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2040785227350741392",
+    "created_at": "2026-04-05T13:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040785227350741392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qinioo/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/qinioo/status/2040750269475242025",
+          "start": 7,
+          "url": "https://t.co/SLiJ1zbSCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040785227350741392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040750269475242025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✝️升天✝️ https://t.co/SLiJ1zbSCc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2040785227350741392",
+        "created_at": "2026-04-05T13:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040785227350741392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qinioo/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/qinioo/status/2040750269475242025",
+              "start": 7,
+              "url": "https://t.co/SLiJ1zbSCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040785227350741392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040750269475242025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✝️升天✝️ https://t.co/SLiJ1zbSCc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621259482704625671",
+        "conversation_id": "2040750269475242025",
+        "created_at": "2026-04-05T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040750269475242025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040750269475242025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7684,
+          "like_count": 191,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被带走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2040315738628759992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 127,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1911
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2363,
+          "like_count": 36839,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      }
+    ]
+  }
+}

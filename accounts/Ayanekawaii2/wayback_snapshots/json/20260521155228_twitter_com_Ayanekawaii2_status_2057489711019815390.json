@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057489705193893888",
+        "3_2057489705189752832",
+        "3_2057489705185550338",
+        "3_2057489705193918464"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057489711019815390",
+    "created_at": "2026-05-21T15:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057489711019815390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXWCK1X89x",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+          "media_key": "3_2057489705193893888",
+          "start": 28,
+          "url": "https://t.co/sXWCK1X89x"
+        },
+        {
+          "display_url": "pic.x.com/sXWCK1X89x",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+          "media_key": "3_2057489705189752832",
+          "start": 28,
+          "url": "https://t.co/sXWCK1X89x"
+        },
+        {
+          "display_url": "pic.x.com/sXWCK1X89x",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+          "media_key": "3_2057489705185550338",
+          "start": 28,
+          "url": "https://t.co/sXWCK1X89x"
+        },
+        {
+          "display_url": "pic.x.com/sXWCK1X89x",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+          "media_key": "3_2057489705193918464",
+          "start": 28,
+          "url": "https://t.co/sXWCK1X89x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057489711019815390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然发现现在我生活的城市是很多人朝思暮想都想来的地方 https://t.co/sXWCK1X89x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2057489705193893888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r_F8a8AAs72C.jpg",
+        "width": 211
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057489705189752832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r_F7bwAA-7l7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057489705185550338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r_F6boAIVD_z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057489705193918464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r_F8bUAAwQf2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057489705193893888",
+            "3_2057489705189752832",
+            "3_2057489705185550338",
+            "3_2057489705193918464"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057489711019815390",
+        "created_at": "2026-05-21T15:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057489711019815390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXWCK1X89x",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+              "media_key": "3_2057489705193893888",
+              "start": 28,
+              "url": "https://t.co/sXWCK1X89x"
+            },
+            {
+              "display_url": "pic.x.com/sXWCK1X89x",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+              "media_key": "3_2057489705189752832",
+              "start": 28,
+              "url": "https://t.co/sXWCK1X89x"
+            },
+            {
+              "display_url": "pic.x.com/sXWCK1X89x",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+              "media_key": "3_2057489705185550338",
+              "start": 28,
+              "url": "https://t.co/sXWCK1X89x"
+            },
+            {
+              "display_url": "pic.x.com/sXWCK1X89x",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2057489711019815390/photo/1",
+              "media_key": "3_2057489705193918464",
+              "start": 28,
+              "url": "https://t.co/sXWCK1X89x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057489711019815390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然发现现在我生活的城市是很多人朝思暮想都想来的地方 https://t.co/sXWCK1X89x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 191,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2381
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

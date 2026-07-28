@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2015484871033098527",
+    "created_at": "2026-01-25T18:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015484871033098527"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015484871033098527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想和我喜欢的人永远在一起 不管外面发生什么我们都能停留在那个美好的时间线里一直循环 在我17岁的一个温暖的午后望着你 和你牵手拥抱对视被你安慰靠着你睡觉醒来看到你有你陪着 不用面对命运\n就算是以前喜欢的人回心转意了想和我在一起我也会答应是吧 在我心里重要的留下痕迹的人等你多久我都愿意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2015484871033098527",
+        "created_at": "2026-01-25T18:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015484871033098527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015484871033098527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想和我喜欢的人永远在一起 不管外面发生什么我们都能停留在那个美好的时间线里一直循环 在我17岁的一个温暖的午后望着你 和你牵手拥抱对视被你安慰靠着你睡觉醒来看到你有你陪着 不用面对命运\n就算是以前喜欢的人回心转意了想和我在一起我也会答应是吧 在我心里重要的留下痕迹的人等你多久我都愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 104,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1527
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

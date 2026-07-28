@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2077404148417630345",
+    "created_at": "2026-07-15T14:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077404148417630345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uraolt/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/uraolt/status/2077294532975292766",
+          "start": 8,
+          "url": "https://t.co/njMELkbMIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077404148417630345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077294532975292766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于进入人频了 https://t.co/njMELkbMIs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2077404148417630345",
+        "created_at": "2026-07-15T14:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077404148417630345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uraolt/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/uraolt/status/2077294532975292766",
+              "start": 8,
+              "url": "https://t.co/njMELkbMIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077404148417630345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077294532975292766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于进入人频了 https://t.co/njMELkbMIs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2077294532975292766",
+        "created_at": "2026-07-15T07:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077294532975292766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laceyuicobi/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/laceyuicobi/status/2077240594091647244",
+              "start": 78,
+              "url": "https://t.co/J7M3gwSGeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077294532975292766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077240594091647244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用坐轮椅代替游戏简单难度，明明可以使用不歧视的说法，但被人指出是歧视还不承认，旧的融入日常用语的歧视表达已经如此泛滥，新的歧视词汇又在被源源不断地创造出来 https://t.co/J7M3gwSGeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 282,
+          "like_count": 1098,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "天澹无情 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060944742486274048/XFk2oB01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 436,
+          "like_count": 224052,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 14290
+        },
+        "url": "",
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

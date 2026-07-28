@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2049074723800449095",
+    "created_at": "2026-04-28T13:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049113268866932885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049113268866932885",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049106677216219171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2049074723800449095",
+        "created_at": "2026-04-28T13:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049113268866932885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049113268866932885",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049106677216219171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006896037412352000",
+        "conversation_id": "2049074723800449095",
+        "created_at": "2026-04-28T12:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049106677216219171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049106677216219171",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049074723800449095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 158,
+          "like_count": 351,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2164
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "好好活着/重度抑郁症转双相情感障碍和精神分裂/住院休学中/虚无主义/臭看番的/fo互关/🈷️的别来/臭吃药的/怒气重的赶紧滚别天天跟白痴一样骂人没点家教吗？/",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048765550151770112/Gueb8S9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 169,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 291
+        },
+        "username": "plh1649513",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052775433079504896",
+        "3_2052775433071185921",
+        "3_2052775433079541760",
+        "3_2052775433079554048"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052775443531801029",
+    "created_at": "2026-05-08T15:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052775443531801029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1uj39Fnxb",
+          "end": 109,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+          "media_key": "3_2052775433079504896",
+          "start": 86,
+          "url": "https://t.co/n1uj39Fnxb"
+        },
+        {
+          "display_url": "pic.x.com/n1uj39Fnxb",
+          "end": 109,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+          "media_key": "3_2052775433071185921",
+          "start": 86,
+          "url": "https://t.co/n1uj39Fnxb"
+        },
+        {
+          "display_url": "pic.x.com/n1uj39Fnxb",
+          "end": 109,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+          "media_key": "3_2052775433079541760",
+          "start": 86,
+          "url": "https://t.co/n1uj39Fnxb"
+        },
+        {
+          "display_url": "pic.x.com/n1uj39Fnxb",
+          "end": 109,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+          "media_key": "3_2052775433079554048",
+          "start": 86,
+          "url": "https://t.co/n1uj39Fnxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052775443531801029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天去了主女的快闪呀然后今天发一下吧 东京虽然热但是天气是真好 我在青岛一个夏天都拍不到一张这么好看的天空 但是在东京感觉每天都天空都很美 落日的时候总是粉色的或者橘色的 https://t.co/n1uj39Fnxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052775433079504896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzsYVxaQAAwCgk.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052775433071185921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzsYVvbUAESr6I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052775433079541760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzsYVxa0AAmpm1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052775433079554048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzsYVxbAAAEhu9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052775433079504896",
+            "3_2052775433071185921",
+            "3_2052775433079541760",
+            "3_2052775433079554048"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052775443531801029",
+        "created_at": "2026-05-08T15:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052775443531801029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1uj39Fnxb",
+              "end": 109,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+              "media_key": "3_2052775433079504896",
+              "start": 86,
+              "url": "https://t.co/n1uj39Fnxb"
+            },
+            {
+              "display_url": "pic.x.com/n1uj39Fnxb",
+              "end": 109,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+              "media_key": "3_2052775433071185921",
+              "start": 86,
+              "url": "https://t.co/n1uj39Fnxb"
+            },
+            {
+              "display_url": "pic.x.com/n1uj39Fnxb",
+              "end": 109,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+              "media_key": "3_2052775433079541760",
+              "start": 86,
+              "url": "https://t.co/n1uj39Fnxb"
+            },
+            {
+              "display_url": "pic.x.com/n1uj39Fnxb",
+              "end": 109,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052775443531801029/photo/1",
+              "media_key": "3_2052775433079554048",
+              "start": 86,
+              "url": "https://t.co/n1uj39Fnxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052775443531801029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天去了主女的快闪呀然后今天发一下吧 东京虽然热但是天气是真好 我在青岛一个夏天都拍不到一张这么好看的天空 但是在东京感觉每天都天空都很美 落日的时候总是粉色的或者橘色的 https://t.co/n1uj39Fnxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 190,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2303
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

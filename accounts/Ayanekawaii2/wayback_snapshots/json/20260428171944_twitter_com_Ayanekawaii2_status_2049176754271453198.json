@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2049176754271453198",
+    "created_at": "2026-04-28T17:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049176754271453198"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049176754271453198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃啊不想od了…感觉我望右美沙芬止渴就行了 其实买一堆药是我戒药的方法吧 我总是这样 买一堆谷子之后就不想再推这个角色了 买一个好的账号或者打到一个很高的段位以后就不想再玩这个游戏了 这是什么物极必反吗 还是最接近幸福的时候最幸福 昨天还想着等买的药今天到了以后可以大吃一顿了反正明天放假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2049176754271453198",
+        "created_at": "2026-04-28T17:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049176754271453198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049176754271453198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊不想od了…感觉我望右美沙芬止渴就行了 其实买一堆药是我戒药的方法吧 我总是这样 买一堆谷子之后就不想再推这个角色了 买一个好的账号或者打到一个很高的段位以后就不想再玩这个游戏了 这是什么物极必反吗 还是最接近幸福的时候最幸福 昨天还想着等买的药今天到了以后可以大吃一顿了反正明天放假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 165,
+          "like_count": 354,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2169
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

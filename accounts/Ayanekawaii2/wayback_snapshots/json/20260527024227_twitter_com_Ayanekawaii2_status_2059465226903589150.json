@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059465226903589150",
+    "created_at": "2026-05-27T02:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059465226903589150"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059465226903589150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得男人出卖自己没什么不好的，男性也需要打破刻板印象，找到自己的生活方式，现在社会上对于男性的规训很多，比如要求男性必须顶天立地，靠努力工作赚很多钱，但是男性也有找金主接援交的自由，而且现在社会都男女平等了，为什么只能女的卖不让男的卖？这是否是在耽误男性赚钱，是对男性的歧视？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059465226903589150",
+        "created_at": "2026-05-27T02:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059465226903589150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059465226903589150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得男人出卖自己没什么不好的，男性也需要打破刻板印象，找到自己的生活方式，现在社会上对于男性的规训很多，比如要求男性必须顶天立地，靠努力工作赚很多钱，但是男性也有找金主接援交的自由，而且现在社会都男女平等了，为什么只能女的卖不让男的卖？这是否是在耽误男性赚钱，是对男性的歧视？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 207,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2431
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

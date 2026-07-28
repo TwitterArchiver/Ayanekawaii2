@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061801773858459649"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2061801777419460664",
+    "created_at": "2026-06-02T13:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061801777419460664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6Thh7paeE",
+          "end": 81,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2061801777419460664/photo/1",
+          "media_key": "3_2061801773858459649",
+          "start": 58,
+          "url": "https://t.co/y6Thh7paeE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061801777419460664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们并不知道您这是怎么了\n以及在一个70%中国人的学校里用六种语言发通知都不用中文发的意思是中国人可以不用上学吗🤣 https://t.co/y6Thh7paeE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2061801773858459649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz9yhgakAEv1Oy.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061801773858459649"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2061801777419460664",
+        "created_at": "2026-06-02T13:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061801777419460664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6Thh7paeE",
+              "end": 81,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2061801777419460664/photo/1",
+              "media_key": "3_2061801773858459649",
+              "start": 58,
+              "url": "https://t.co/y6Thh7paeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061801777419460664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们并不知道您这是怎么了\n以及在一个70%中国人的学校里用六种语言发通知都不用中文发的意思是中国人可以不用上学吗🤣 https://t.co/y6Thh7paeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 219,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 2482
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

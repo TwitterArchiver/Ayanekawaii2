@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2052091883959251003",
+    "created_at": "2026-05-06T18:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052092889375846444"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052092889375846444",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052091883959251003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一点像之前在云南芒市喝过的加了炼乳的牛油果饮品 怎么这么好喝呢 下次我要尝一下荔枝的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052091878087303168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp-sM_boAAsAEc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052091878095671296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp-sNBbUAAHTDI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1281,
+        "media_key": "3_2052091878091419648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp-sNAacAACe9q.jpg",
+        "width": 1012
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052091878099804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp-sNCaYAA5592.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2052091883959251003",
+        "created_at": "2026-05-06T18:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052092889375846444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052092889375846444",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052091883959251003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一点像之前在云南芒市喝过的加了炼乳的牛油果饮品 怎么这么好喝呢 下次我要尝一下荔枝的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052091878087303168",
+            "3_2052091878095671296",
+            "3_2052091878091419648",
+            "3_2052091878099804160"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052091883959251003",
+        "created_at": "2026-05-06T18:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052091883959251003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4joV3YJil",
+              "end": 165,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052091883959251003/photo/1",
+              "media_key": "3_2052091878087303168",
+              "start": 142,
+              "url": "https://t.co/H4joV3YJil"
+            },
+            {
+              "display_url": "pic.x.com/H4joV3YJil",
+              "end": 165,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052091883959251003/photo/1",
+              "media_key": "3_2052091878095671296",
+              "start": 142,
+              "url": "https://t.co/H4joV3YJil"
+            },
+            {
+              "display_url": "pic.x.com/H4joV3YJil",
+              "end": 165,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052091883959251003/photo/1",
+              "media_key": "3_2052091878091419648",
+              "start": 142,
+              "url": "https://t.co/H4joV3YJil"
+            },
+            {
+              "display_url": "pic.x.com/H4joV3YJil",
+              "end": 165,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2052091883959251003/photo/1",
+              "media_key": "3_2052091878099804160",
+              "start": 142,
+              "url": "https://t.co/H4joV3YJil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052091883959251003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去吃了网红店但没点网上推荐的菜结果有点踩雷了 但不得不说这个奶昔真的太好喝了 是茉酸奶奶昔的味道但没有那么重的冰沙感 口感有一点接近贵州冰浆但没有那里面又硬又粘牙的糯米 还在罗森买了前几天吃到的可露丽 我才发现昨天没找到是因为我把放它的冰箱给忽略了 我还以为也是放在冰淇淋的冰柜里呢 https://t.co/H4joV3YJil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 189,
+          "like_count": 369,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2284
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

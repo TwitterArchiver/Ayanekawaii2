@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063230025420382208",
+        "3_2063230025420443648",
+        "3_2063230025428795392",
+        "3_2063230025453961216"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063230035730014447",
+    "created_at": "2026-06-06T12:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063230035730014447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXoKtR2uoy",
+          "end": 156,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+          "media_key": "3_2063230025420382208",
+          "start": 133,
+          "url": "https://t.co/tXoKtR2uoy"
+        },
+        {
+          "display_url": "pic.x.com/tXoKtR2uoy",
+          "end": 156,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+          "media_key": "3_2063230025420443648",
+          "start": 133,
+          "url": "https://t.co/tXoKtR2uoy"
+        },
+        {
+          "display_url": "pic.x.com/tXoKtR2uoy",
+          "end": 156,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+          "media_key": "3_2063230025428795392",
+          "start": 133,
+          "url": "https://t.co/tXoKtR2uoy"
+        },
+        {
+          "display_url": "pic.x.com/tXoKtR2uoy",
+          "end": 156,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+          "media_key": "3_2063230025453961216",
+          "start": 133,
+          "url": "https://t.co/tXoKtR2uoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063230035730014447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很美味的汤咖喱…鸡腿脆脆的 里面看着很奇怪的蔬菜（应该是笋？但为什么最外层是黑色的）尝起来也很好吃！但是汤的分量特别少 连蘸鸡腿都不够的程度 更别说喝了 你作为一个汤咖喱只给这么一点汤真的合理吗 还好我发现了汤大盛的选项 下次来吃的时候必须选一个汤大盛才够我吃的🫪 https://t.co/tXoKtR2uoy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063230025420382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQxtMaIAAqV7-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063230025420443648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQxtMbEAAjk4u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063230025428795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQxtOagAA5X2-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063230025453961216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQxtUagAAhICw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063230025420382208",
+            "3_2063230025420443648",
+            "3_2063230025428795392",
+            "3_2063230025453961216"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063230035730014447",
+        "created_at": "2026-06-06T12:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063230035730014447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXoKtR2uoy",
+              "end": 156,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+              "media_key": "3_2063230025420382208",
+              "start": 133,
+              "url": "https://t.co/tXoKtR2uoy"
+            },
+            {
+              "display_url": "pic.x.com/tXoKtR2uoy",
+              "end": 156,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+              "media_key": "3_2063230025420443648",
+              "start": 133,
+              "url": "https://t.co/tXoKtR2uoy"
+            },
+            {
+              "display_url": "pic.x.com/tXoKtR2uoy",
+              "end": 156,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+              "media_key": "3_2063230025428795392",
+              "start": 133,
+              "url": "https://t.co/tXoKtR2uoy"
+            },
+            {
+              "display_url": "pic.x.com/tXoKtR2uoy",
+              "end": 156,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2063230035730014447/photo/1",
+              "media_key": "3_2063230025453961216",
+              "start": 133,
+              "url": "https://t.co/tXoKtR2uoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230035730014447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很美味的汤咖喱…鸡腿脆脆的 里面看着很奇怪的蔬菜（应该是笋？但为什么最外层是黑色的）尝起来也很好吃！但是汤的分量特别少 连蘸鸡腿都不够的程度 更别说喝了 你作为一个汤咖喱只给这么一点汤真的合理吗 还好我发现了汤大盛的选项 下次来吃的时候必须选一个汤大盛才够我吃的🫪 https://t.co/tXoKtR2uoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 237,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 2529
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

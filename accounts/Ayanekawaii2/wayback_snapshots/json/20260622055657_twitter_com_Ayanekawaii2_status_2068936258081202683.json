@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2068714094333735240",
+    "created_at": "2026-06-22T05:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068936258081202683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678496857339703296",
+          "start": 0,
+          "username": "Neko4086521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068936258081202683",
+    "in_reply_to_user_id": "1678496857339703296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068763177857524063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko4086521 西武新宿线西柳泽站那边！叫「壹碗粉」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2068714094333735240",
+        "created_at": "2026-06-22T05:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068936258081202683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678496857339703296",
+              "start": 0,
+              "username": "Neko4086521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068936258081202683",
+        "in_reply_to_user_id": "1678496857339703296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068763177857524063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko4086521 西武新宿线西柳泽站那边！叫「壹碗粉」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678496857339703296",
+        "conversation_id": "2068714094333735240",
+        "created_at": "2026-06-21T18:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068763177857524063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068763177857524063",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714094333735240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 螺蛳粉在哪里呀？好吃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 269,
+          "like_count": 633,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T20:10:22.000Z",
+        "description": "in Tokyo 逢坂咲子です",
+        "id": "1678496857339703296",
+        "location": "Tokyo-to, Japan",
+        "name": "Stocking✟♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948975328153796609/mfmcLTxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 597,
+          "like_count": 22116,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "Neko4086521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2029855511450198445",
+    "created_at": "2026-03-06T09:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029855511450198445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1212683181029068800",
+          "start": 3,
+          "username": "Cigamipcy1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029855511450198445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029392619273429316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cigamipcy1124: 以为自己是控制狂其实是一条有分离焦虑的狗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029855511450198445",
+        "created_at": "2026-03-06T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029855511450198445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1212683181029068800",
+              "start": 3,
+              "username": "Cigamipcy1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029855511450198445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029392619273429316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cigamipcy1124: 以为自己是控制狂其实是一条有分离焦虑的狗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212683181029068800",
+        "conversation_id": "2029392619273429316",
+        "created_at": "2026-03-05T03:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029392619273429316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029392619273429316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13928,
+          "like_count": 540,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "以为自己是控制狂其实是一条有分离焦虑的狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 110,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1639
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "4i/sub/v9爱丽/B2uty/碎碎念清水做饭吐槽推/爱香水爱做甜点爱做饭/阿米和跑三粉请绕道^ 本人是男孩子且直的要命，呼。找姐姐。https://t.co/gcaMsyq9bG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxin_offcial",
+                "end": 92,
+                "expanded_url": "https://ngl.link/xinxin_offcial",
+                "start": 69,
+                "url": "https://t.co/gcaMsyq9bG"
+              }
+            ]
+          }
+        },
+        "id": "1212683181029068800",
+        "location": "我很可爱请给我钱。陌生人加v想都别想！/ 互关直接私我好吧！",
+        "name": "呆萌小鹿鹿",
+        "pinned_tweet_id": "2021465283605733417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 182,
+          "like_count": 12053,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 6108
+        },
+        "username": "Cigamipcy1124",
+        "verified": false
+      }
+    ]
+  }
+}

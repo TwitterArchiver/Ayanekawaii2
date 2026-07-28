@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2055318423459217733",
+    "created_at": "2026-05-16T04:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055507289516433551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786466007495913473",
+          "start": 0,
+          "username": "RinnKitaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055507289516433551",
+    "in_reply_to_user_id": "1786466007495913473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055347795184537834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinnKitaku 菠萝包好吃捏…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2055318423459217733",
+        "created_at": "2026-05-16T04:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055507289516433551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786466007495913473",
+              "start": 0,
+              "username": "RinnKitaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055507289516433551",
+        "in_reply_to_user_id": "1786466007495913473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055347795184537834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinnKitaku 菠萝包好吃捏…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786466007495913473",
+        "conversation_id": "2055318423459217733",
+        "created_at": "2026-05-15T18:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055347795184537834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055347795184537834",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055318967305245117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 菠萝包赛高！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 190,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2340
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T18:41:11.000Z",
+        "description": "05/常驻🇯🇵/老鼠系/服设/喜yohji/overdose💊/181 75kg/日本デッサンと色彩構成勉強中",
+        "id": "1786466007495913473",
+        "location": "Toshima-ku, Tokyo",
+        "name": "lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049522626218074112/IFOt15eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "RinnKitaku",
+        "verified": false
+      }
+    ]
+  }
+}

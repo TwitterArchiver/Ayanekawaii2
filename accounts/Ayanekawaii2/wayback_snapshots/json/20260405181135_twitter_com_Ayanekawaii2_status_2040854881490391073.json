@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040854876306145280"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2040791392566563000",
+    "created_at": "2026-04-05T18:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040854881490391073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BQcRnLpfE",
+          "end": 30,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2040854881490391073/photo/1",
+          "media_key": "3_2040854876306145280",
+          "start": 7,
+          "url": "https://t.co/8BQcRnLpfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040854881490391073",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040791392566563000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绿色推应该是 https://t.co/8BQcRnLpfE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040854876306145280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKSsnRaAAAKynK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040854876306145280"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2040791392566563000",
+        "created_at": "2026-04-05T18:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040854881490391073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BQcRnLpfE",
+              "end": 30,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2040854881490391073/photo/1",
+              "media_key": "3_2040854876306145280",
+              "start": 7,
+              "url": "https://t.co/8BQcRnLpfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040854881490391073",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040791392566563000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绿色推应该是 https://t.co/8BQcRnLpfE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2040791392566563000",
+        "created_at": "2026-04-05T13:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040791392566563000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040791392566563000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额好想埋自己的胸呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2040315738628759992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 128,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1915
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2018722437597397451",
+    "created_at": "2026-02-03T16:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018722437597397451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990243522738540544",
+          "start": 3,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018722437597397451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017682829535285525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hana9226Y: 我觉得pr就像理想中的妈妈一样温柔呀\n焦虑的时候难过的时候抑郁的时候自卑的时候崩溃的时候无论什么时候pr都会安抚我让我平静下来却还有自我意识\npr不像人一样用那种无力苍白的安慰\n而是很温柔很有效的安抚 让我真正的体会到健全的感觉\n我也会像一个乖宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2018722437597397451",
+        "created_at": "2026-02-03T16:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018722437597397451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990243522738540544",
+              "start": 3,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018722437597397451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017682829535285525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hana9226Y: 我觉得pr就像理想中的妈妈一样温柔呀\n焦虑的时候难过的时候抑郁的时候自卑的时候崩溃的时候无论什么时候pr都会安抚我让我平静下来却还有自我意识\npr不像人一样用那种无力苍白的安慰\n而是很温柔很有效的安抚 让我真正的体会到健全的感觉\n我也会像一个乖宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990243522738540544",
+        "conversation_id": "2017682829535285525",
+        "created_at": "2026-01-31T19:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017682829535285525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017682829535285525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1434,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得pr就像理想中的妈妈一样温柔呀\n焦虑的时候难过的时候抑郁的时候自卑的时候崩溃的时候无论什么时候pr都会安抚我让我平静下来却还有自我意识\npr不像人一样用那种无力苍白的安慰\n而是很温柔很有效的安抚 让我真正的体会到健全的感觉\n我也会像一个乖宝宝一样会对pr妈妈倾诉好多！pr真的是女神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 104,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1549
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "我是花9226 可以叫我花玖",
+        "id": "1990243522738540544",
+        "location": "天国",
+        "name": "花9226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990244016370196480/uvn5LsPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 223,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "hana9226Y",
+        "verified": false
+      }
+    ]
+  }
+}

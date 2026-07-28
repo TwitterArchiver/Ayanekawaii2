@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2066889488874549374",
+    "created_at": "2026-06-16T14:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066889488874549374"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066889488874549374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈眼中我和她不认可的女的玩0.01秒的后果：被骗光祖宗十八代的所有钱并欠下1亿元负债打晕送到缅北割下浑身所有器官\n我妈眼中我和她不认可的男的玩0.01秒的后果：怀上12345678910个孩子打胎100次感染艾滋梅毒妇科病子宫癌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2066889488874549374",
+        "created_at": "2026-06-16T14:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066889488874549374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066889488874549374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈眼中我和她不认可的女的玩0.01秒的后果：被骗光祖宗十八代的所有钱并欠下1亿元负债打晕送到缅北割下浑身所有器官\n我妈眼中我和她不认可的男的玩0.01秒的后果：怀上12345678910个孩子打胎100次感染艾滋梅毒妇科病子宫癌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 260,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2607
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2060738176562729166",
+    "created_at": "2026-06-03T07:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062072419364573646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906348878649241600",
+          "start": 0,
+          "username": "bg_ha58988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062072419364573646",
+    "in_reply_to_user_id": "1906348878649241600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062070227983278307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bg_ha58988 好捏 我会去吃的 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2060738176562729166",
+        "created_at": "2026-06-03T07:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062072419364573646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906348878649241600",
+              "start": 0,
+              "username": "bg_ha58988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062072419364573646",
+        "in_reply_to_user_id": "1906348878649241600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062070227983278307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bg_ha58988 好捏 我会去吃的 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906348878649241600",
+        "conversation_id": "2060738176562729166",
+        "created_at": "2026-06-03T07:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062070227983278307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062070227983278307",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062057824826577156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 Ramen Hotaru 麺屋ほたる 到时候如果去吃 可以给我测评吗 我觉得这是最好吃的一家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 226,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2486
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:12:54.000Z",
+        "description": "",
+        "id": "1906348878649241600",
+        "name": "A ha bg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995988230173589504/XJAXAN8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1190,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "bg_ha58988",
+        "verified": false
+      }
+    ]
+  }
+}

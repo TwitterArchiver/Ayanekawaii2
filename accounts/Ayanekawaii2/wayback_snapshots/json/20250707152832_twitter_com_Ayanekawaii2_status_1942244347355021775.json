@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1942244347355021775",
+    "created_at": "2025-07-07T15:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942244347355021775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/furinadf/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/furinadf/status/1940632469168181581",
+          "start": 10,
+          "url": "https://t.co/YM9rv9meGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942244347355021775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940632469168181581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恶心啊我在看什么 https://t.co/YM9rv9meGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30229,
+        "height": 480,
+        "media_key": "7_1940632430425014272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940632430425014272/pu/img/OKFU26hOVNnqslBz.jpg",
+        "public_metrics": {
+          "view_count": 208911
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940632430425014272/pu/vid/avc1/478x270/K1OnQ7xalNLWtR3l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940632430425014272/pu/vid/avc1/638x360/JrOishwmkSh8mbGG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940632430425014272/pu/vid/avc1/852x480/LbepxxjeFKldWq0d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940632430425014272/pu/pl/GNZFLYImrBjvF3y4.m3u8?tag=12&v=83b"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1942244347355021775",
+        "created_at": "2025-07-07T15:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942244347355021775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furinadf/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/furinadf/status/1940632469168181581",
+              "start": 10,
+              "url": "https://t.co/YM9rv9meGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942244347355021775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940632469168181581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恶心啊我在看什么 https://t.co/YM9rv9meGL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1940632430425014272"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1940632469168181581",
+        "created_at": "2025-07-03T04:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940632469168181581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkNkZaf1U3",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1940632469168181581/video/1",
+              "media_key": "7_1940632430425014272",
+              "start": 0,
+              "url": "https://t.co/LkNkZaf1U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940632469168181581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 459,
+          "impression_count": 509083,
+          "like_count": 2389,
+          "quote_count": 51,
+          "reply_count": 134,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LkNkZaf1U3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式/低浮上...",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 97,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1177
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realRoninNews",
+                "end": 23,
+                "expanded_url": "http://t.me/realRoninNews",
+                "start": 0,
+                "url": "https://t.co/nHbDzdtdX8"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1942231434250551799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34744,
+          "following_count": 2246,
+          "like_count": 26966,
+          "listed_count": 78,
+          "media_count": 5528,
+          "tweet_count": 9785
+        },
+        "url": "https://t.co/nHbDzdtdX8",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

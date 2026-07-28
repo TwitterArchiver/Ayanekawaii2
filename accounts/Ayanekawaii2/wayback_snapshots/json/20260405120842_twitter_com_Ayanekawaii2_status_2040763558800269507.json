@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040763552362094592"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2040763558800269507",
+    "created_at": "2026-04-05T12:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040763558800269507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cR0PW1b903",
+          "end": 108,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2040763558800269507/photo/1",
+          "media_key": "3_2040763552362094592",
+          "start": 85,
+          "url": "https://t.co/cR0PW1b903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040763558800269507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "门槛妹可以让日本的店员量一下内衣尺寸了 我按照国内的标准是E cup来着去了店员一给我量就是G了 而且穿着还真合适？看得出来是为了让客户开心地买内衣而使用这种小花招了。 https://t.co/cR0PW1b903"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040763552362094592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI_o3EbYAAOC46.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040763552362094592"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2040763558800269507",
+        "created_at": "2026-04-05T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040763558800269507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cR0PW1b903",
+              "end": 108,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2040763558800269507/photo/1",
+              "media_key": "3_2040763552362094592",
+              "start": 85,
+              "url": "https://t.co/cR0PW1b903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040763558800269507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "门槛妹可以让日本的店员量一下内衣尺寸了 我按照国内的标准是E cup来着去了店员一给我量就是G了 而且穿着还真合适？看得出来是为了让客户开心地买内衣而使用这种小花招了。 https://t.co/cR0PW1b903"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2040315738628759992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 127,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1909
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

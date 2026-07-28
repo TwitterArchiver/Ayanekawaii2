@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032098544308662272"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2032098551187325299",
+    "created_at": "2026-03-12T14:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032098551187325299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JM4rvirVTU",
+          "end": 61,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2032098551187325299/photo/1",
+          "media_key": "3_2032098544308662272",
+          "start": 38,
+          "url": "https://t.co/JM4rvirVTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032098551187325299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卖个惨就能得到电脑真是太好了但是电脑这种必需品竟然要卖惨才能得到也太可怜了 https://t.co/JM4rvirVTU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032098551187325299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032098551187325299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032098551187325299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2032098544308662272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDN23AobMAAmIV4.jpg",
+        "width": 1205
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 110,
+          "like_count": 252,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1688
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

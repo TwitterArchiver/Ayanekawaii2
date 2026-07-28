@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1969773301527617821",
+    "created_at": "2025-09-21T14:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T15:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969773301527617821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayanekawaii2/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ayanekawaii2/status/1965467136094347296",
+          "start": 5,
+          "url": "https://t.co/CDQ77H1nLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969773301527617821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965467136094347296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情： https://t.co/CDQ77H1nLg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1965467136094347296].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965467136094347296",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965467136094347296"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1969773301527617821",
+        "created_at": "2025-09-21T14:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969773301527617821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayanekawaii2/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ayanekawaii2/status/1965467136094347296",
+              "start": 5,
+              "url": "https://t.co/CDQ77H1nLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969773301527617821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965467136094347296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情： https://t.co/CDQ77H1nLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 97,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1291
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

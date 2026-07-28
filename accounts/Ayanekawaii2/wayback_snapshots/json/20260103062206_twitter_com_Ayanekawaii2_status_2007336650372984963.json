@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2007137098684608653",
+    "created_at": "2026-01-03T06:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007336650372984963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007336650372984963",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007137098684608653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我珍惜的人总是离我好远"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007137041990176768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rIgWNaUAAU1lK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007137041998589957",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rIgWPasAU5vNM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007137041994420225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rIgWObEAEXq1y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007137041990201350",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rIgWNasAYPqCc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2007137098684608653",
+        "created_at": "2026-01-03T06:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007336650372984963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007336650372984963",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007137098684608653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我珍惜的人总是离我好远"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007137041990176768",
+            "3_2007137041998589957",
+            "3_2007137041994420225",
+            "3_2007137041990201350"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007137098684608653",
+        "created_at": "2026-01-02T17:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007137098684608653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQ2F9C0a2L",
+              "end": 42,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2007137098684608653/photo/1",
+              "media_key": "3_2007137041990176768",
+              "start": 19,
+              "url": "https://t.co/UQ2F9C0a2L"
+            },
+            {
+              "display_url": "pic.x.com/UQ2F9C0a2L",
+              "end": 42,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2007137098684608653/photo/1",
+              "media_key": "3_2007137041998589957",
+              "start": 19,
+              "url": "https://t.co/UQ2F9C0a2L"
+            },
+            {
+              "display_url": "pic.x.com/UQ2F9C0a2L",
+              "end": 42,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2007137098684608653/photo/1",
+              "media_key": "3_2007137041994420225",
+              "start": 19,
+              "url": "https://t.co/UQ2F9C0a2L"
+            },
+            {
+              "display_url": "pic.x.com/UQ2F9C0a2L",
+              "end": 42,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2007137098684608653/photo/1",
+              "media_key": "3_2007137041990201350",
+              "start": 19,
+              "url": "https://t.co/UQ2F9C0a2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007137098684608653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天我看了你很久，在想我们还能见几面 https://t.co/UQ2F9C0a2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 96,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1502
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

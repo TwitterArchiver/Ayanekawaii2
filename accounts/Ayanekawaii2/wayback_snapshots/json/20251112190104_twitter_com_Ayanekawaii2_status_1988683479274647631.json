@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1988683479274647631",
+    "created_at": "2025-11-12T19:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T20:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988683479274647631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gio70541405094…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/gio705414050944/status/1988464584664248374",
+          "start": 35,
+          "url": "https://t.co/CcQOolUido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988683479274647631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988464584664248374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草怎么日本也😭😭不过就算这样也比国内容易获得吧。。毕竟在药店就能买 https://t.co/CcQOolUido"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988464581547872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hyAGebUAAfoP5.jpg",
+        "width": 979
+      },
+      {
+        "height": 793,
+        "media_key": "3_1988464582608998400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hyAKba0AA97VR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1988683479274647631",
+        "created_at": "2025-11-12T19:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988683479274647631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gio70541405094…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/gio705414050944/status/1988464584664248374",
+              "start": 35,
+              "url": "https://t.co/CcQOolUido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988683479274647631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988464584664248374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草怎么日本也😭😭不过就算这样也比国内容易获得吧。。毕竟在药店就能买 https://t.co/CcQOolUido"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988464581547872256",
+            "3_1988464582608998400"
+          ]
+        },
+        "author_id": "1980778904190377984",
+        "conversation_id": "1988464584664248374",
+        "created_at": "2025-11-12T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988464584664248374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "歌舞伎"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "歌舞伎町"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "トー横界隈"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "トー横"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "新宿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmmUNLN50L",
+              "end": 155,
+              "expanded_url": "https://x.com/GIO705414050944/status/1988464584664248374/photo/1",
+              "media_key": "3_1988464581547872256",
+              "start": 132,
+              "url": "https://t.co/jmmUNLN50L"
+            },
+            {
+              "display_url": "pic.x.com/jmmUNLN50L",
+              "end": 155,
+              "expanded_url": "https://x.com/GIO705414050944/status/1988464584664248374/photo/1",
+              "media_key": "3_1988464582608998400",
+              "start": 132,
+              "url": "https://t.co/jmmUNLN50L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988464584664248374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5883,
+          "like_count": 57,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】\n若者こオーバードーズに来年の\n5月から規制がかかります。\nネットでも買えなくなることに。\n以前からお店での確認などは、\n実施されているお店があります。\n主に大手の薬局はそうしていました。\n #歌舞伎  #歌舞伎町  #トー横界隈  #トー横   #新宿 https://t.co/jmmUNLN50L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "我珍惜你的方式错了吗",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 97,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1435
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T23:31:21.000Z",
+        "description": "歌舞伎町の日常等をメインに発信して行きます         【再始動】                                         情報提供 (メンコン コンカフェ キャバ ホスト 事故 事件等の情報)してくれた方は報奨金が与えられます。(固ツイ参照)\n元垢6000人フォロワー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kabukizyouhou_…",
+                "end": 23,
+                "expanded_url": "https://note.com/kabukizyouhou_0/portal",
+                "start": 0,
+                "url": "https://t.co/yjPjCg4aFZ"
+              }
+            ]
+          }
+        },
+        "id": "1980778904190377984",
+        "location": "⬇noteで記事書いてます⬇ガスマスク情報組織【GIO】",
+        "name": "GIO 歌舞伎町情報通信",
+        "pinned_tweet_id": "1980781998559096880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980779184675823616/8YMmIkgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 19,
+          "like_count": 646,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/yjPjCg4aFZ",
+        "username": "GIO705414050944",
+        "verified": false
+      }
+    ]
+  }
+}

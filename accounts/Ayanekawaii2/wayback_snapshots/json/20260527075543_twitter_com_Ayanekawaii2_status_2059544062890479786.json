@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059537171577733233",
+    "created_at": "2026-05-27T07:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059544062890479786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1645464160099266561",
+          "start": 0,
+          "username": "mio_chan_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059544062890479786",
+    "in_reply_to_user_id": "1645464160099266561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059543972679471457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_chan_qwq 😇我永远是芝麻🐷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059537171577733233",
+        "created_at": "2026-05-27T07:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059544062890479786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1645464160099266561",
+              "start": 0,
+              "username": "mio_chan_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059544062890479786",
+        "in_reply_to_user_id": "1645464160099266561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059543972679471457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_chan_qwq 😇我永远是芝麻🐷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645464160099266561",
+        "conversation_id": "2059537171577733233",
+        "created_at": "2026-05-27T07:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059543972679471457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059543972679471457",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059543081121357939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 没关系，我刚到日本的时候也是这样，你很快就会觉醒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 206,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2435
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T16:30:11.000Z",
+        "description": "主要发碎碎念，想到啥就发啥。\n早大4年/会六个语言，单板滑雪，高尔夫，花剑。喜欢可爱的东西讨厌入门难度低的东西\n大号只发日语内容，不经常发帖@Carolus15071678\nAuDHD/双相\n喜欢我的最好方式是给我钱。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Carolus15071678"
+              }
+            ]
+          }
+        },
+        "id": "1645464160099266561",
+        "name": "鈴原澪🐱",
+        "pinned_tweet_id": "2056037738663804929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056094606811676672/tadB-uUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 92,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 313
+        },
+        "username": "mio_chan_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

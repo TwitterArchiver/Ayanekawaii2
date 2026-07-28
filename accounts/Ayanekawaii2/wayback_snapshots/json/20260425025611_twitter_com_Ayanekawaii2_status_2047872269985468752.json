@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2046913640667001341",
+    "created_at": "2026-04-25T02:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047872269985468752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1968278731212070912",
+          "start": 0,
+          "username": "xaksohd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047872269985468752",
+    "in_reply_to_user_id": "1968278731212070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047863774993117279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaksohd 那比国内卖的便宜！我也要去买一个了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2046913640667001341",
+        "created_at": "2026-04-25T02:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047872269985468752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1968278731212070912",
+              "start": 0,
+              "username": "xaksohd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047872269985468752",
+        "in_reply_to_user_id": "1968278731212070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047863774993117279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaksohd 那比国内卖的便宜！我也要去买一个了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968278731212070912",
+        "conversation_id": "2046913640667001341",
+        "created_at": "2026-04-25T02:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047863774993117279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047863774993117279",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046976714119770378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 6000左右 在堂吉柯德买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 148,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2135
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T11:40:16.000Z",
+        "description": "日本語○中国語○ 发点废话 高p重加工",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xaksohd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xaksohd",
+                "start": 0,
+                "url": "https://t.co/VCoKFeC31c"
+              }
+            ]
+          }
+        },
+        "id": "1968278731212070912",
+        "name": "口内炎",
+        "pinned_tweet_id": "2011000977193947426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036423874095783936/Ftnnf9wg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 161,
+          "like_count": 2892,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/VCoKFeC31c",
+        "username": "xaksohd",
+        "verified": false
+      }
+    ]
+  }
+}

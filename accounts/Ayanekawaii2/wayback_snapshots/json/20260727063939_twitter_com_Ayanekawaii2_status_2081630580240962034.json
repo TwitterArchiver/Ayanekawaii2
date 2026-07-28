@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2081630580240962034",
+    "created_at": "2026-07-27T06:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081630580240962034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pr80net/status…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/pr80net/status/2081420359883215331",
+          "start": 55,
+          "url": "https://t.co/2OrT0UacSF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081630580240962034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081420359883215331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真感觉有些人要不是在日本能合法的吃到右美的话就完全是抖音上o那个布洛芬然后说自己有幻的呀 真是闹闹又麻麻 https://t.co/2OrT0UacSF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081420095654608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKwjJXaQAA9yNU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2081630580240962034",
+        "created_at": "2026-07-27T06:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081630580240962034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80net/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/pr80net/status/2081420359883215331",
+              "start": 55,
+              "url": "https://t.co/2OrT0UacSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081630580240962034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420359883215331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真感觉有些人要不是在日本能合法的吃到右美的话就完全是抖音上o那个布洛芬然后说自己有幻的呀 真是闹闹又麻麻 https://t.co/2OrT0UacSF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081420359883215331",
+        "created_at": "2026-07-26T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081420359883215331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 82,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 59,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420359883215331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5977,
+          "like_count": 88,
+          "quote_count": 11,
+          "reply_count": 39,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 287,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 276,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

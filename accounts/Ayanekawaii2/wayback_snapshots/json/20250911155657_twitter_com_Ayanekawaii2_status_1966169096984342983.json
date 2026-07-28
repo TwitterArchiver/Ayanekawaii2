@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1966169096984342983",
+    "created_at": "2025-09-11T15:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T16:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966169096984342983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944098239248322560",
+          "start": 3,
+          "username": "xxxtho53102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966169096984342983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965783043693785231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxtho53102: 你最近多出来的那一个关注是谁？是你新认识的朋友吗？还是想发展的人？还是一个普普通通的博主？还是你不小心点到但是忘记取消所以多出来的关注？到底是谁？我想知道 我什么都想知道 可以吗？我会不会太过分了？我是不是管的太多了？可是我又睡不着了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1966169096984342983",
+        "created_at": "2025-09-11T15:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966169096984342983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944098239248322560",
+              "start": 3,
+              "username": "xxxtho53102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966169096984342983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965783043693785231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxtho53102: 你最近多出来的那一个关注是谁？是你新认识的朋友吗？还是想发展的人？还是一个普普通通的博主？还是你不小心点到但是忘记取消所以多出来的关注？到底是谁？我想知道 我什么都想知道 可以吗？我会不会太过分了？我是不是管的太多了？可是我又睡不着了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944098239248322560",
+        "conversation_id": "1965783043693785231",
+        "created_at": "2025-09-10T14:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965783043693785231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965783043693785231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 38230,
+          "like_count": 452,
+          "quote_count": 15,
+          "reply_count": 44,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "你最近多出来的那一个关注是谁？是你新认识的朋友吗？还是想发展的人？还是一个普普通通的博主？还是你不小心点到但是忘记取消所以多出来的关注？到底是谁？我想知道 我什么都想知道 可以吗？我会不会太过分了？我是不是管的太多了？可是我又睡不着了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1258
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T18:15:30.000Z",
+        "description": "小孩子不懂发着玩的｜没义务陪聊｜回关喜欢的｜双取随意｜骂我的都是蠢猪",
+        "id": "1944098239248322560",
+        "name": "老公艾草我收钱",
+        "pinned_tweet_id": "1955602731189866598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954120427649032192/FR3GBXXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 235,
+          "like_count": 15374,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 3810
+        },
+        "username": "xxxtho53102",
+        "verified": false
+      }
+    ]
+  }
+}

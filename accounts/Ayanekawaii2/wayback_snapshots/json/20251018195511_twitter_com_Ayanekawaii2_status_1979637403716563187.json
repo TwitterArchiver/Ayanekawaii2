@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979637389396992000",
+        "3_1979637389455712256"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1979637403716563187",
+    "created_at": "2025-10-18T19:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T20:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979637403716563187"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "地雷系"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "中味"
+        },
+        {
+          "end": 14,
+          "start": 9,
+          "tag": "春雨女大"
+        },
+        {
+          "end": 17,
+          "start": 15,
+          "tag": "猪"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lV3N8JfAh4",
+          "end": 41,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1979637403716563187/photo/1",
+          "media_key": "3_1979637389396992000",
+          "start": 18,
+          "url": "https://t.co/lV3N8JfAh4"
+        },
+        {
+          "display_url": "pic.x.com/lV3N8JfAh4",
+          "end": 41,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1979637403716563187/photo/1",
+          "media_key": "3_1979637389455712256",
+          "start": 18,
+          "url": "https://t.co/lV3N8JfAh4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979637403716563187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系 #中味 #春雨女大 #猪 https://t.co/lV3N8JfAh4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979637403716563187].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979637403716563187",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979637403716563187"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979637389396992000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kVt5MW4AA-SPH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979637389455712256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kVt5aW4AAbtJd.jpg",
+        "width": 1537
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手qwq",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1360
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

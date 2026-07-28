@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861069782562598912"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1861069794457592257",
+    "created_at": "2024-11-25T15:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T16:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861069794457592257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7nTYWYMxD",
+          "end": 37,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1861069794457592257/photo/1",
+          "media_key": "3_1861069782562598912",
+          "start": 14,
+          "url": "https://t.co/T7nTYWYMxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861069794457592257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买的药预计后天送到我很生气 https://t.co/T7nTYWYMxD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861069794457592257].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861069794457592257",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861069794457592257"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1861069782562598912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdPZG1vbcAAHS-c.jpg",
+        "width": 828
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 108,
+          "like_count": 235,
+          "listed_count": 0,
+          "tweet_count": 1074
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1980667349763314021",
+    "created_at": "2025-10-22T15:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981020019925664114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767976373904396288",
+          "start": 0,
+          "username": "l1co2e99430"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981020019925664114",
+    "in_reply_to_user_id": "1767976373904396288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981019700038599035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l1co2e99430 嗯对坤续"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1980667349763314021",
+        "created_at": "2025-10-22T15:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981020019925664114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767976373904396288",
+              "start": 0,
+              "username": "l1co2e99430"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981020019925664114",
+        "in_reply_to_user_id": "1767976373904396288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981019700038599035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l1co2e99430 嗯对坤续"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767976373904396288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1980667349763314021",
+        "created_at": "2025-10-22T15:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981019700038599035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981019700038599035",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981017302125662572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手qwq",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 94,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1377
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T18:10:02.000Z",
+        "description": "🚪38/58/88/108\n中文♡eng♡日本語✘\n提问箱 https://t.co/HCPCYNYwfn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/licore1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/licore1",
+                "start": 30,
+                "url": "https://t.co/HCPCYNYwfn"
+              }
+            ]
+          }
+        },
+        "id": "1767976373904396288",
+        "location": "距离 1.2km",
+        "name": "痴女系",
+        "pinned_tweet_id": "1971042929272889408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898096302921334789/SvPlM-93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 280,
+          "like_count": 1357,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1871
+        },
+        "username": "l1co2e99430",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1875971670076465162",
+    "created_at": "2025-01-09T00:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T01:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877151690681401523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678443519378329604",
+          "start": 0,
+          "username": "caoluch95378220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877151690681401523",
+    "in_reply_to_user_id": "1678443519378329604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877023479532294260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caoluch95378220 id江愿安安安 加我呀喵☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1875971670076465162",
+        "created_at": "2025-01-09T00:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T01:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877151690681401523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678443519378329604",
+              "start": 0,
+              "username": "caoluch95378220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877151690681401523",
+        "in_reply_to_user_id": "1678443519378329604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877023479532294260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caoluch95378220 id江愿安安安 加我呀喵☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678443519378329604",
+        "conversation_id": "1875971670076465162",
+        "created_at": "2025-01-08T16:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877023479532294260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877023479532294260",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877022875137220723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 好哇可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 107,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1133
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T16:38:22.000Z",
+        "description": "叫我红薯 🚪88/388/520/1314",
+        "id": "1678443519378329604",
+        "name": "芝士焗红薯",
+        "pinned_tweet_id": "1836394260469551217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875820048604131331/46I3LzDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1059,
+          "like_count": 7114,
+          "listed_count": 0,
+          "media_count": 707,
+          "tweet_count": 4360
+        },
+        "username": "caoluch95378220",
+        "verified": false
+      }
+    ]
+  }
+}

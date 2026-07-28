@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2036460507511792114",
+    "created_at": "2026-03-24T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036460507511792114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036460507511792114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像发现了朋友和对象从刚认识的时候就是不一样的感觉好像那时就已经被暗中决定好了这个人以后会一直是我的朋友还是会发展成对象难道我的命运真的是被安排好的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2036460507511792114",
+        "created_at": "2026-03-24T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036460507511792114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036460507511792114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像发现了朋友和对象从刚认识的时候就是不一样的感觉好像那时就已经被暗中决定好了这个人以后会一直是我的朋友还是会发展成对象难道我的命运真的是被安排好的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1765
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

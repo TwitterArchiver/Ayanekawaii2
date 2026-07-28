@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2050007706418008164",
+    "created_at": "2026-05-01T00:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T01:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050007706418008164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050007706418008164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把剩下的6t也吃了我也不知道是因为生活不如意了还是生活太如意了还是头疼没完全好还是快生理期了被激素影响了总之就是吃了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2050007706418008164",
+        "created_at": "2026-05-01T00:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050007706418008164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050007706418008164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把剩下的6t也吃了我也不知道是因为生活不如意了还是生活太如意了还是头疼没完全好还是快生理期了被激素影响了总之就是吃了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 183,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2213
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

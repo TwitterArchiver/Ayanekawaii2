@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041028363041857536"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2041028366804095095",
+    "created_at": "2026-04-06T05:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041028366804095095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RdVEjYyRkF",
+          "end": 71,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041028366804095095/photo/1",
+          "media_key": "3_2041028363041857536",
+          "start": 48,
+          "url": "https://t.co/RdVEjYyRkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041028366804095095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再和这个生物妈抱怨一句我就是狗睡一觉醒来不仅得到了0个现实的解决方案还得到了二十多条没回的信息 https://t.co/RdVEjYyRkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041028363041857536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMwe3ubYAACOw8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041028363041857536"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2041028366804095095",
+        "created_at": "2026-04-06T05:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041028366804095095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdVEjYyRkF",
+              "end": 71,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041028366804095095/photo/1",
+              "media_key": "3_2041028363041857536",
+              "start": 48,
+              "url": "https://t.co/RdVEjYyRkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041028366804095095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再和这个生物妈抱怨一句我就是狗睡一觉醒来不仅得到了0个现实的解决方案还得到了二十多条没回的信息 https://t.co/RdVEjYyRkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2040315738628759992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 128,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1921
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2063175832861098397",
+    "created_at": "2026-06-07T02:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063444526082277759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063444526082277759",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063175832861098397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 我也是。。。然后语校老师那边也不能得提供 说让我自己找 最后还是让我妈给我找的她在日本的同学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2063175832861098397",
+        "created_at": "2026-06-07T02:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063444526082277759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063444526082277759",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063175832861098397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 我也是。。。然后语校老师那边也不能得提供 说让我自己找 最后还是让我妈给我找的她在日本的同学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2063175832861098397",
+        "created_at": "2026-06-06T08:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063175832861098397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063175832861098397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在找新房子 这边房租要找个紧急联系人\n我发现\n我没有朋友可以填\n因为要填住址和电话\n不好意思拜托别人\n我也不知道我咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 241,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 2543
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "以下是你可能关心的刻板印象：｜中文｜粵語｜Eng｜日本語｜阴暗男鬼｜日留｜性压抑｜精神状态不稳定｜社交能力低下 想跟我聊天可以直接dm我不反感就会回｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "孤独贝斯手",
+        "pinned_tweet_id": "2059556188749246963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059971200328359936/N8IL6Srj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 247
+        },
+        "username": "a1ter_ego_01",
+        "verified": false
+      }
+    ]
+  }
+}

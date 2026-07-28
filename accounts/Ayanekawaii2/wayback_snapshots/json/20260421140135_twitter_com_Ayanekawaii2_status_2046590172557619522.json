@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046590168619200513"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2046590172557619522",
+    "created_at": "2026-04-21T14:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046590172557619522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3rxMkvrCnf",
+          "end": 84,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2046590172557619522/photo/1",
+          "media_key": "3_2046590168619200513",
+          "start": 61,
+          "url": "https://t.co/3rxMkvrCnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046590172557619522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草我突然发现五月一号开始日本的右美也网络禁售了。我再也不会笑了。看来得趁这几天多囤点了我可不想买药妆店一千六一盒的右美 https://t.co/3rxMkvrCnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2046590168619200513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGby6kFasAE14lS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046590168619200513"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2046590172557619522",
+        "created_at": "2026-04-21T14:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046590172557619522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rxMkvrCnf",
+              "end": 84,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2046590172557619522/photo/1",
+              "media_key": "3_2046590168619200513",
+              "start": 61,
+              "url": "https://t.co/3rxMkvrCnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046590172557619522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我突然发现五月一号开始日本的右美也网络禁售了。我再也不会笑了。看来得趁这几天多囤点了我可不想买药妆店一千六一盒的右美 https://t.co/3rxMkvrCnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 140,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2089
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

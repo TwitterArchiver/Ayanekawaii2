@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2040095585177596230",
+    "created_at": "2026-04-03T15:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040095585177596230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2040017362234290455",
+          "start": 6,
+          "url": "https://t.co/Tavb8arqW4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040095585177596230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040017362234290455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧qwq https://t.co/Tavb8arqW4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2040095585177596230",
+        "created_at": "2026-04-03T15:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040095585177596230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2040017362234290455",
+              "start": 6,
+              "url": "https://t.co/Tavb8arqW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040095585177596230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040017362234290455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧qwq https://t.co/Tavb8arqW4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2040017362234290455",
+        "created_at": "2026-04-03T10:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040017362234290455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040017362234290455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19229,
+          "like_count": 218,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示：经期前一周和经期期间产生的所有想法都不是真实的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 123,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1876
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8191,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1786
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

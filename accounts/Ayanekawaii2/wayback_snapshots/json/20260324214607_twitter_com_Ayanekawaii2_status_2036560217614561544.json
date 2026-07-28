@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2036560217614561544",
+    "created_at": "2026-03-24T21:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T22:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036560217614561544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike666/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fayoubaike666/status/2036468965447442701",
+          "start": 6,
+          "url": "https://t.co/LvFPDRhmEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036560217614561544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036468965447442701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每日一幻想 https://t.co/LvFPDRhmEN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2036560217614561544",
+        "created_at": "2026-03-24T21:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T22:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036560217614561544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike666/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fayoubaike666/status/2036468965447442701",
+              "start": 6,
+              "url": "https://t.co/LvFPDRhmEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036560217614561544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036468965447442701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每日一幻想 https://t.co/LvFPDRhmEN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2036468965447442701",
+        "created_at": "2026-03-24T15:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036468965447442701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036468965447442701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又幻想了，我戒掉了化学极乐歌手成为了健全人，考上了好大学，父母很爱我，对象很爱我，还有很多人喜欢我想要撬墙角"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 117,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1772
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 45,
+                "expanded_url": "https://pr80.bid/",
+                "start": 22,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.fyi",
+                "end": 23,
+                "expanded_url": "https://fayou.fyi",
+                "start": 0,
+                "url": "https://t.co/vtS1w2QdPH"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036263457822253160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 640,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/vtS1w2QdPH",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

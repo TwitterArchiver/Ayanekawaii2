@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034790233632645120"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034790243241795783",
+    "created_at": "2026-03-20T00:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T01:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034790243241795783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i6RWsFlaAi",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2034790243241795783/photo/1",
+          "media_key": "3_2034790233632645120",
+          "start": 28,
+          "url": "https://t.co/i6RWsFlaAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034790243241795783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老母你就继续觉得那个海关扫描一下箱子就知道我带了安眠药 https://t.co/i6RWsFlaAi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034790243241795783].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034790243241795783",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034790243241795783"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_2034790233632645120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0G78wboAA4AO5.jpg",
+        "width": 1011
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 115,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1745
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

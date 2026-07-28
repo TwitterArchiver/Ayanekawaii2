@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2036158122553909706",
+    "created_at": "2026-03-23T19:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T20:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036158122553909706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036158122553909706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没药效遂一直叠量中…叠量中…其实我想吃思诺思但是又怕吃完以后乱发一些想吃麻辣烫之类的话所以还是算了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2036158122553909706",
+        "created_at": "2026-03-23T19:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036158122553909706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036158122553909706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没药效遂一直叠量中…叠量中…其实我想吃思诺思但是又怕吃完以后乱发一些想吃麻辣烫之类的话所以还是算了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1760
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

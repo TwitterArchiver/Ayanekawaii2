@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1858046818036363265"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1858046819424678387",
+    "created_at": "2024-11-17T07:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T08:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858046819424678387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1858046819424678387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下课以后干什么"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 180,
+        "end_datetime": "2024-11-17T10:17:36.000Z",
+        "id": "1858046818036363265",
+        "options": [
+          {
+            "label": "回家割手嗑药",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "去酒吧喝酒",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "买点啤酒去海边喝",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "在机构玩手机",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1858046818036363265"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1858046819424678387",
+        "created_at": "2024-11-17T07:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T08:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858046819424678387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858046819424678387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下课以后干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 108,
+          "like_count": 216,
+          "listed_count": 0,
+          "tweet_count": 1020
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

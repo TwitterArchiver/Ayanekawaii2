@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2052769701630275948",
+    "created_at": "2026-05-08T15:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052769701630275948"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052769701630275948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的觉得社交对我来说是一种负担，我明天想呆在家里上网课的，但是塾里的同学去旅游给我买了礼物，还让我去线下，下了课还要和他们去一起吃饭，又吃一堆然后长好几斤肉，就感觉很无助，唉，如果她知道我是这么想的话肯定就觉得白对我好了，说不定以后也再也不会理我了，但我觉得这真的好麻烦啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2052769701630275948",
+        "created_at": "2026-05-08T15:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052769701630275948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052769701630275948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得社交对我来说是一种负担，我明天想呆在家里上网课的，但是塾里的同学去旅游给我买了礼物，还让我去线下，下了课还要和他们去一起吃饭，又吃一堆然后长好几斤肉，就感觉很无助，唉，如果她知道我是这么想的话肯定就觉得白对我好了，说不定以后也再也不会理我了，但我觉得这真的好麻烦啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 190,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 2301
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

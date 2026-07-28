@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986495120615874560"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1985766994373984703",
+    "created_at": "2025-11-06T18:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986495132875825601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854091917338021888",
+          "start": 0,
+          "username": "ZLINK243424"
+        },
+        {
+          "end": 28,
+          "id": "1865419581206208512",
+          "start": 13,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfyAUmqve3",
+          "end": 54,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1986495132875825601/photo/1",
+          "media_key": "3_1986495120615874560",
+          "start": 31,
+          "url": "https://t.co/pfyAUmqve3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986495132875825601",
+    "in_reply_to_user_id": "1854091917338021888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986105931785220165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZLINK243424 @DDzhanshou5150 ？ https://t.co/pfyAUmqve3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986495132875825601].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986495132875825601",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986495132875825601"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_1986495120615874560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FyyYxbIAAgTPW.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854091917338021888",
+        "conversation_id": "1985766994373984703",
+        "created_at": "2025-11-05T16:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986105931785220165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986105931785220165",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10335,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985766994373984703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 还是有影响的，之前在地上看到一坨狗史打算捡起来吃，放到嘴里发现是别人嚼过的槟榔🫠🫠🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "我是「苏」你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "我珍惜你的方式错了吗",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 96,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1424
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "",
+        "id": "1854091917338021888",
+        "location": "Westbrook，Night City",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959096909538435072/wGTn5XPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 203,
+          "like_count": 12535,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 2720
+        },
+        "username": "ZLINK243424",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9038,
+          "following_count": 7552,
+          "like_count": 26498,
+          "listed_count": 19,
+          "media_count": 6079,
+          "tweet_count": 39659
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

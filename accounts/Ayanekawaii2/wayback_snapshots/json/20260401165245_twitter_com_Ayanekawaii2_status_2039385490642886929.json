@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039385484305342464",
+        "3_2039385484301148162"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039385490642886929",
+    "created_at": "2026-04-01T16:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039385490642886929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jMhw7XN7d",
+          "end": 61,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2039385490642886929/photo/1",
+          "media_key": "3_2039385484305342464",
+          "start": 38,
+          "url": "https://t.co/1jMhw7XN7d"
+        },
+        {
+          "display_url": "pic.x.com/1jMhw7XN7d",
+          "end": 61,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2039385490642886929/photo/1",
+          "media_key": "3_2039385484301148162",
+          "start": 38,
+          "url": "https://t.co/1jMhw7XN7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039385490642886929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但是医院的床就是很舒服呀。难道是因为有护栏 我都想买个护栏安在宿舍的床上了 https://t.co/1jMhw7XN7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2039385484305342464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1aSvgboAAn-U1.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2039385484301148162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1aSvfboAIRB1L.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039385484305342464",
+            "3_2039385484301148162"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039385490642886929",
+        "created_at": "2026-04-01T16:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039385490642886929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jMhw7XN7d",
+              "end": 61,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2039385490642886929/photo/1",
+              "media_key": "3_2039385484305342464",
+              "start": 38,
+              "url": "https://t.co/1jMhw7XN7d"
+            },
+            {
+              "display_url": "pic.x.com/1jMhw7XN7d",
+              "end": 61,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2039385490642886929/photo/1",
+              "media_key": "3_2039385484301148162",
+              "start": 38,
+              "url": "https://t.co/1jMhw7XN7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039385490642886929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是医院的床就是很舒服呀。难道是因为有护栏 我都想买个护栏安在宿舍的床上了 https://t.co/1jMhw7XN7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 122,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1863
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

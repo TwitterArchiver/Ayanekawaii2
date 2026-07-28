@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2034266971647451565",
+    "created_at": "2026-03-18T16:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034305967257788617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034305967257788617",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034275418581455157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想有一个人就算我不说也能知道我所有想法而且不会做让我不舒服的事说我听了感觉烦的话 但是现实生活中哪有这样的人 搞个这样的oc然后当梦女还差不多 我还想自己像别人那样有健全的精神 不用好好学习也能上好大学 不用小心翼翼地和家长说话…那我继续幻想吧继续羡慕别人吧。。。反正我做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2034266971647451565",
+        "created_at": "2026-03-18T16:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034305967257788617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034305967257788617",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034275418581455157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想有一个人就算我不说也能知道我所有想法而且不会做让我不舒服的事说我听了感觉烦的话 但是现实生活中哪有这样的人 搞个这样的oc然后当梦女还差不多 我还想自己像别人那样有健全的精神 不用好好学习也能上好大学 不用小心翼翼地和家长说话…那我继续幻想吧继续羡慕别人吧。。。反正我做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2034266971647451565",
+        "created_at": "2026-03-18T14:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034275418581455157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034275418581455157",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034266971647451565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条严肃置顶拷打自己我以后一定要少腆着个脸去讨好这个家长和用我那个别人根本不在意的真心去和别人交往"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1734
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

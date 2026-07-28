@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2026623058627407986",
+    "created_at": "2026-02-26T10:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026963305278120005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916758476080128000",
+          "start": 0,
+          "username": "nyanyakodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026963305278120005",
+    "in_reply_to_user_id": "916758476080128000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026623058627407986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyakodayo 好心酸仿佛看到了我以后考学的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2026623058627407986",
+        "created_at": "2026-02-26T10:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026963305278120005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916758476080128000",
+              "start": 0,
+              "username": "nyanyakodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026963305278120005",
+        "in_reply_to_user_id": "916758476080128000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026623058627407986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyakodayo 好心酸仿佛看到了我以后考学的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "916758476080128000",
+        "conversation_id": "2026623058627407986",
+        "created_at": "2026-02-25T11:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026623058627407986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyahapi/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/nyahapi/status/2026085794373681346",
+              "start": 79,
+              "url": "https://t.co/opWutfCFJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026623058627407986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 88711,
+          "like_count": 389,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026085794373681346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了，大家可以看看之前推文，考了几次早稻田大学，成绩出来前先买蛋糕冲喜，然后就是成绩截图+一句“这啥呀”，又可怜又搞笑，好心疼这个博主，道德和笑点在打架 https://t.co/opWutfCFJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 107,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1592
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T20:13:48.000Z",
+        "description": "我永远喜欢初音未来🌱✨",
+        "id": "916758476080128000",
+        "location": "喵子星",
+        "name": "喵喵子",
+        "pinned_tweet_id": "1742127993991188544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667069956398227457/HO1XCO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41557,
+          "following_count": 836,
+          "like_count": 18665,
+          "listed_count": 113,
+          "media_count": 2480,
+          "tweet_count": 31594
+        },
+        "username": "nyanyakodayo",
+        "verified": false
+      }
+    ]
+  }
+}

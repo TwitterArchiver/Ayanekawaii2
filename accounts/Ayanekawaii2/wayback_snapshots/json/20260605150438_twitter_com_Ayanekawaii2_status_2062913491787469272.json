@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2062884670539530715",
+    "created_at": "2026-06-05T15:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062913491787469272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564935890174361600",
+          "start": 0,
+          "username": "creeper_tcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062913491787469272",
+    "in_reply_to_user_id": "1564935890174361600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062907500471730431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creeper_tcd 大変気分がいい♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2062884670539530715",
+        "created_at": "2026-06-05T15:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062913491787469272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564935890174361600",
+              "start": 0,
+              "username": "creeper_tcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062913491787469272",
+        "in_reply_to_user_id": "1564935890174361600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062907500471730431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creeper_tcd 大変気分がいい♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564935890174361600",
+        "conversation_id": "2062884670539530715",
+        "created_at": "2026-06-05T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062907500471730431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062907500471730431",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062884670539530715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 大変気分がいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 235,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 2522
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T11:19:33.000Z",
+        "description": "Crtcd. ソラとも。20↑ they / them。漢語 / 日本語 / 藝術＆写真学生。音ゲーマー。PC DIY愛好者。 推し▷ 瑞希ちゃん🎀 / 対立ちゃん🦋 / 水晶雫ちゃん🔮 ゲーム▷ Minecraft / Arcaea / maimai /",
+        "id": "1564935890174361600",
+        "location": "地球",
+        "name": "CreeperTCD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035641624739643392/mGXkLRi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 771,
+          "like_count": 9536,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2018
+        },
+        "username": "creeper_tcd",
+        "verified": true
+      }
+    ]
+  }
+}

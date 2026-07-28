@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857776850157842441",
+        "3_1857776850153635840"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1857776873578881087",
+    "created_at": "2024-11-16T13:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T14:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857776873578881087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENh2YCQapM",
+          "end": 91,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1857776873578881087/photo/1",
+          "media_key": "3_1857776850157842441",
+          "start": 68,
+          "url": "https://t.co/ENh2YCQapM"
+        },
+        {
+          "display_url": "pic.x.com/ENh2YCQapM",
+          "end": 91,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1857776873578881087/photo/1",
+          "media_key": "3_1857776850153635840",
+          "start": 68,
+          "url": "https://t.co/ENh2YCQapM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857776873578881087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩玩苹果手机自带的量表 所以我吃药有什么用吗 只能控制一下躯体化 麻木那些神经让我无法思考 一断药又回去了 根本改变不了心里的想法…… https://t.co/ENh2YCQapM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857776873578881087].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857776873578881087",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857776873578881087"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1857776850157842441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcgmM8maMAkVS49.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1857776850153635840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcgmM8laAAAMDNh.jpg",
+        "width": 828
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 108,
+          "like_count": 217,
+          "listed_count": 0,
+          "tweet_count": 1009
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

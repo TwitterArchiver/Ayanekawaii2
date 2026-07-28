@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1982353572160504201",
+    "created_at": "2025-10-26T10:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T11:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982390044607561875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867383190987714563",
+          "start": 0,
+          "username": "liudunee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982390044607561875",
+    "in_reply_to_user_id": "1867383190987714563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982358548156981513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liudunee 这条我重发了，但不知道为啥没删掉。。这是我爸妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1982353572160504201",
+        "created_at": "2025-10-26T10:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982390044607561875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867383190987714563",
+              "start": 0,
+              "username": "liudunee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982390044607561875",
+        "in_reply_to_user_id": "1867383190987714563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982358548156981513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liudunee 这条我重发了，但不知道为啥没删掉。。这是我爸妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867383190987714563",
+        "conversation_id": "1982353572160504201",
+        "created_at": "2025-10-26T08:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982358548156981513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982358548156981513",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982353572160504201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 千万别被骗了🥹🥹🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中…你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1399
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T01:37:18.000Z",
+        "description": "— - —",
+        "id": "1867383190987714563",
+        "name": "caser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867383346843770880/wzxzy9Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 84,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 167
+        },
+        "username": "liudunee",
+        "verified": false
+      }
+    ]
+  }
+}

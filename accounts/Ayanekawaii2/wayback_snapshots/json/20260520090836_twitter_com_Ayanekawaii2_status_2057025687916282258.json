@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2056503887268651228",
+    "created_at": "2026-05-20T09:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057025687916282258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057025687916282258",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056503887268651228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 还真是。。国内的便利店比日本的差远了 城市规划也不如日本合理 在国内走出小区的功夫都够我在日本买完东西再回去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2056503887268651228",
+        "created_at": "2026-05-20T09:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057025687916282258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057025687916282258",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056503887268651228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 还真是。。国内的便利店比日本的差远了 城市规划也不如日本合理 在国内走出小区的功夫都够我在日本买完东西再回去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2056503887268651228",
+        "created_at": "2026-05-18T22:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056503887268651228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/minokakay/status/2056440119230701626",
+              "start": 152,
+              "url": "https://t.co/hkgzME5yMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056503887268651228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的便利店真的很无聊\n无论美宜佳 红旗连锁这样的本土品牌还是7-11 Lawson Familymart这样的日资品牌，商品比起日本都相当不丰富。比如便当饭团这类基础品类可选的就不多，酒水也基本就是Rio和淡如水啤酒，大小比报刊亭都大不了多少，日本的便利店是真的可以解决一日三餐 ATM 报刊烟酒的。\n在这些便利店都如此小商品如此匮乏的基础上，覆盖率还很低，找个日系便利店很困难。加上中国的人力成本实在便宜，外卖+配送送到手上都比自己做便宜，大部分人都不会吃便利店或者超市的便当。\n\n也许还有摊大饼式的城市规划的原因，地块太大，封闭式小区，宽道路，都会导致沿街商业做不起来，不仅便利店，连大商超，餐厅都很难做起来，比如一个小区整个南门北门出门就是六车道，这种根本没法做，除非是很好的地段，消费需求大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14374,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056440119230701626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的便利店真的很无聊\n无论美宜佳 红旗连锁这样的本土品牌还是7-11 Lawson Familymart这样的日资品牌，商品比起日本都相当不丰富。比如便当饭团这类基础品类可选的就不多，酒水也基本就是Rio和淡如水啤酒，大小比报刊亭都大不了多少，日本的便利店是真的可以解决一日三餐 ATM 报刊烟酒的。 https://t.co/hkgzME5yMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 192,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2372
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬🍥找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 56,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14447,
+          "following_count": 1066,
+          "like_count": 44012,
+          "listed_count": 51,
+          "media_count": 1825,
+          "tweet_count": 26153
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962868657027211265"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1962868669035491400",
+    "created_at": "2025-09-02T13:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962868669035491400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UNY6FRg8fg",
+          "end": 37,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1962868669035491400/photo/1",
+          "media_key": "3_1962868657027211265",
+          "start": 14,
+          "url": "https://t.co/UNY6FRg8fg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962868669035491400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概就是网上买药被发现了吧 https://t.co/UNY6FRg8fg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962868669035491400].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962868669035491400",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962868669035491400"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962868657027211265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2CpNLa4AEjW-Y.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/社交比较羸弱orz",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 96,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1213
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

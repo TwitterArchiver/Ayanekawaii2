@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1857799845408551179",
+    "created_at": "2024-11-16T14:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T15:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857799845408551179"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857799845408551179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "受不了了我是丑逼我为什么这么胖好几天没好好吃饭了今天更是一顿都没吃连饮料都没喝只喝了水吃了药 8t普瑞6t劳拉1t舍曲林这些药有热量吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1857799845408551179",
+        "created_at": "2024-11-16T14:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T15:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857799845408551179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857799845408551179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了我是丑逼我为什么这么胖好几天没好好吃饭了今天更是一顿都没吃连饮料都没喝只喝了水吃了药 8t普瑞6t劳拉1t舍曲林这些药有热量吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 108,
+          "like_count": 217,
+          "listed_count": 0,
+          "tweet_count": 1010
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

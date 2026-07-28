@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2053179251432829269",
+    "created_at": "2026-05-09T18:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053179251432829269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyeeua/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mercyeeua/status/2053021485518999592",
+          "start": 8,
+          "url": "https://t.co/gGbiujhcYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053179251432829269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053021485518999592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了。。。 https://t.co/gGbiujhcYB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2053179251432829269",
+        "created_at": "2026-05-09T18:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053179251432829269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyeeua/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mercyeeua/status/2053021485518999592",
+              "start": 8,
+              "url": "https://t.co/gGbiujhcYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053179251432829269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053021485518999592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了。。。 https://t.co/gGbiujhcYB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040970554635931648",
+        "conversation_id": "2053013542702641364",
+        "created_at": "2026-05-09T07:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021485518999592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053021485518999592",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053013542702641364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 给润💊跪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 190,
+          "like_count": 370,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2311
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "pr/dpt/pcp现货喵希望各位宝宝们来支持\nmtx/18/人称代词her/she谢谢喵\n很好说话 可以随便私信骚扰🫶",
+        "id": "2040970554635931648",
+        "location": "能和神打电话の学校天台",
+        "name": "Mercy",
+        "pinned_tweet_id": "2053011514945380673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048592286502797312/PaYFKOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 248,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 668
+        },
+        "username": "Mercyeeua",
+        "verified": false
+      }
+    ]
+  }
+}

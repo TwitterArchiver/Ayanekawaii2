@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2029890265419501658",
+    "created_at": "2026-03-06T12:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029891110924103711"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029891110924103711",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029890265419501658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想永远离开你们，永远离开这个地方 就算以后我不在日本发展，我也想再学一门语言去欧洲或者其他地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029890265419501658",
+        "created_at": "2026-03-06T12:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029891110924103711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029891110924103711",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029890265419501658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想永远离开你们，永远离开这个地方 就算以后我不在日本发展，我也想再学一门语言去欧洲或者其他地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029890265419501658",
+        "created_at": "2026-03-06T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029890265419501658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029890265419501658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个傻逼生物妈还是不愿意承认我有精神病而且是她带给我的就觉得自己很开明我只是状态不好说什么你可能要离开我们一段时间五六年希望你能把自己的状态调整好之前觉得离开他们我的精神病能好一半现在想想哪有什么好一半就算看起来好了也会有永远看不见的种子等哪一天受到刺激又会疯狂生长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 110,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1642
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

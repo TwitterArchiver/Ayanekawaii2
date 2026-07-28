@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059608065868222790",
+    "created_at": "2026-05-27T12:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059608065868222790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/s_studio42/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/s_studio42/status/2059137354015940771",
+          "start": 3,
+          "url": "https://t.co/B0Q5B6NvDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059608065868222790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059137354015940771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢 https://t.co/B0Q5B6NvDb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059608065868222790",
+        "created_at": "2026-05-27T12:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059608065868222790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s_studio42/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/s_studio42/status/2059137354015940771",
+              "start": 3,
+              "url": "https://t.co/B0Q5B6NvDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059608065868222790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059137354015940771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢 https://t.co/B0Q5B6NvDb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2059137354015940771",
+        "created_at": "2026-05-26T04:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059137354015940771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059137354015940771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 796,
+          "impression_count": 177313,
+          "like_count": 3115,
+          "quote_count": 33,
+          "reply_count": 214,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "好像很少有人提，指奸时手指很舒服的事。\n\n刚剪完指甲的手指，打字或者玩游戏就已经很舒服了。可没有什么能比过抠逼。\n刚开始面对的是紧闭的肉缝，一切都像是在拒绝。但那都是假象——哪怕腿夹得再紧，只要手指能动，就能开启失乐园的门扉。\n\n用不了多久，指腹就水涔涔的了。\n慢慢玩，把整根手指打湿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 212,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2438
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79473,
+          "following_count": 88,
+          "like_count": 11732,
+          "listed_count": 126,
+          "media_count": 15,
+          "tweet_count": 2541
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

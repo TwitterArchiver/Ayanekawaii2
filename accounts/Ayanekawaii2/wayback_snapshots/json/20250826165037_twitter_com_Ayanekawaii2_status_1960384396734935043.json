@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1960384396734935043",
+    "created_at": "2025-08-26T16:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960384396734935043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagerowa/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/kagerowa/status/1960164416210735227",
+          "start": 31,
+          "url": "https://t.co/KHXU6ASfxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960384396734935043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960164416210735227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狼杂第七冠🏆🏆🏆出口外赛区🥴🥴🥴中国大陆赛区的辱女传说🥇🥇🥇 https://t.co/KHXU6ASfxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_1960159855144284160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPjALzbMAA6Py2.jpg",
+        "width": 759
+      },
+      {
+        "height": 1501,
+        "media_key": "3_1960159855135817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPjALxaAAAeITY.jpg",
+        "width": 992
+      },
+      {
+        "height": 1437,
+        "media_key": "3_1960159855161081856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPjAL3bgAAtw3y.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1960384396734935043",
+        "created_at": "2025-08-26T16:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960384396734935043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagerowa/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/kagerowa/status/1960164416210735227",
+              "start": 31,
+              "url": "https://t.co/KHXU6ASfxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960384396734935043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960164416210735227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狼杂第七冠🏆🏆🏆出口外赛区🥴🥴🥴中国大陆赛区的辱女传说🥇🥇🥇 https://t.co/KHXU6ASfxZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960159855144284160",
+            "3_1960159855135817728",
+            "3_1960159855161081856"
+          ]
+        },
+        "author_id": "542569858",
+        "conversation_id": "1960164416210735227",
+        "created_at": "2025-08-26T02:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960164416210735227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBTdttgyAr",
+              "end": 176,
+              "expanded_url": "https://x.com/kagerowa/status/1960164416210735227/photo/1",
+              "media_key": "3_1960159855144284160",
+              "start": 153,
+              "url": "https://t.co/dBTdttgyAr"
+            },
+            {
+              "display_url": "pic.x.com/dBTdttgyAr",
+              "end": 176,
+              "expanded_url": "https://x.com/kagerowa/status/1960164416210735227/photo/1",
+              "media_key": "3_1960159855135817728",
+              "start": 153,
+              "url": "https://t.co/dBTdttgyAr"
+            },
+            {
+              "display_url": "pic.x.com/dBTdttgyAr",
+              "end": 176,
+              "expanded_url": "https://x.com/kagerowa/status/1960164416210735227/photo/1",
+              "media_key": "3_1960159855161081856",
+              "start": 153,
+              "url": "https://t.co/dBTdttgyAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960164416210735227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 109241,
+          "like_count": 1458,
+          "quote_count": 59,
+          "reply_count": 3,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "今回の決勝戦についてPersicaからの説明＆お願い\n\n（前提：決勝戦直後、Persicaには一部過激ファンから、もはや批判を通り越した罵倒が殺到し、やがて双方ファン同士の衝突に発展した\n一部発言はあまりに酷くここで例は挙げないが、PersicaもChoAiも間に入って止めようとしても無駄なほどだった） https://t.co/dBTdttgyAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式/低浮上...",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1188
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-01T14:06:56.000Z",
+        "description": "墓守が好き \n（アイコン＆ヘッダー：けす様）",
+        "id": "542569858",
+        "name": "ヒュリ",
+        "pinned_tweet_id": "1920429254904594890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930656623191904256/QU3PQFsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 166,
+          "like_count": 4896,
+          "listed_count": 39,
+          "media_count": 1605,
+          "tweet_count": 15375
+        },
+        "username": "kagerowa",
+        "verified": false
+      }
+    ]
+  }
+}

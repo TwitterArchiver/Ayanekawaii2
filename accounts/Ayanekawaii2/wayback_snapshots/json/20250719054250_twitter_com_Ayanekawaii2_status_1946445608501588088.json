@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1946445608501588088",
+    "created_at": "2025-07-19T05:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T06:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946445608501588088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/9iookii/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/9iookii/status/1946042613121036350",
+          "start": 11,
+          "url": "https://t.co/L4Gqqqp83X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946445608501588088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946042613121036350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。。好尴尬好恶心啊 https://t.co/L4Gqqqp83X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1946445608501588088",
+        "created_at": "2025-07-19T05:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946445608501588088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9iookii/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/9iookii/status/1946042613121036350",
+              "start": 11,
+              "url": "https://t.co/L4Gqqqp83X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946445608501588088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946042613121036350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。。好尴尬好恶心啊 https://t.co/L4Gqqqp83X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661333039082000385",
+        "conversation_id": "1946042613121036350",
+        "created_at": "2025-07-18T03:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946042613121036350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946042613121036350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 73258,
+          "like_count": 792,
+          "quote_count": 6,
+          "reply_count": 92,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "欣赏不来男喘，每一个我都觉得特别尴尬，一听就脚趾抠地，不管是清水还是荤的，只要声音夹一下还在那里笑我就受不了，妈呀现实生活有男的这样我早就想一巴掌扇上去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式/低浮上...",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1184
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T11:27:31.000Z",
+        "description": "no time for games",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koiparachutes?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/koiparachutes?igsh=MWpsYTkzNnZtZG1oNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8MK4J6qLBU"
+              }
+            ]
+          }
+        },
+        "id": "1661333039082000385",
+        "name": "koi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768272805551026176/UNOwVzc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33266,
+          "following_count": 163,
+          "like_count": 10758,
+          "listed_count": 79,
+          "media_count": 362,
+          "tweet_count": 7060
+        },
+        "url": "https://t.co/8MK4J6qLBU",
+        "username": "9iookii",
+        "verified": false
+      }
+    ]
+  }
+}

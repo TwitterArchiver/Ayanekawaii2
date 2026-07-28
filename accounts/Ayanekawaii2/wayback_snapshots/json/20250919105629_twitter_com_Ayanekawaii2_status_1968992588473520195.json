@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1968992588473520195",
+    "created_at": "2025-09-19T10:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968992588473520195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linlin444444/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/linlin444444/status/1959773337556766763",
+          "start": 6,
+          "url": "https://t.co/GUGi54Oskg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968992588473520195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959773337556766763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个 https://t.co/GUGi54Oskg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_1959773330388701184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKDde4aUAAXt6s.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1968992588473520195",
+        "created_at": "2025-09-19T10:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968992588473520195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linlin444444/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/linlin444444/status/1959773337556766763",
+              "start": 6,
+              "url": "https://t.co/GUGi54Oskg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968992588473520195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959773337556766763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个 https://t.co/GUGi54Oskg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959773330388701184"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1959773337556766763",
+        "created_at": "2025-08-25T00:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T01:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959773337556766763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eebTNurCoY",
+              "end": 23,
+              "expanded_url": "https://x.com/linlin444444/status/1959773337556766763/photo/1",
+              "media_key": "3_1959773330388701184",
+              "start": 0,
+              "url": "https://t.co/eebTNurCoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959773337556766763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 52985,
+          "like_count": 172,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eebTNurCoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 97,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1283
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5570,
+          "following_count": 67,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041739697429606403"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2041739705948287392",
+    "created_at": "2026-04-08T04:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041739705948287392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Zingh7z4f",
+          "end": 31,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041739705948287392/photo/1",
+          "media_key": "3_2041739697429606403",
+          "start": 8,
+          "url": "https://t.co/2Zingh7z4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739705948287392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人模狗样入学中 https://t.co/2Zingh7z4f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_2041739697429606403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW3b-0a8AMqDRX.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041739697429606403"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2041739705948287392",
+        "created_at": "2026-04-08T04:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041739705948287392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Zingh7z4f",
+              "end": 31,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041739705948287392/photo/1",
+              "media_key": "3_2041739697429606403",
+              "start": 8,
+              "url": "https://t.co/2Zingh7z4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739705948287392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人模狗样入学中 https://t.co/2Zingh7z4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2040315738628759992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 130,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1946
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

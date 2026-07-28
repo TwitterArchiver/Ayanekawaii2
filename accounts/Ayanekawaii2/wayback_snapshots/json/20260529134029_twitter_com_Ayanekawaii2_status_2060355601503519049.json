@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060355594855522305",
+        "3_2060355594809421824",
+        "3_2060355594813661184",
+        "3_2060355594805272576"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060355601503519049",
+    "created_at": "2026-05-29T13:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060355601503519049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ttCxV9ZIKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+          "media_key": "3_2060355594855522305",
+          "start": 35,
+          "url": "https://t.co/ttCxV9ZIKC"
+        },
+        {
+          "display_url": "pic.x.com/ttCxV9ZIKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+          "media_key": "3_2060355594809421824",
+          "start": 35,
+          "url": "https://t.co/ttCxV9ZIKC"
+        },
+        {
+          "display_url": "pic.x.com/ttCxV9ZIKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+          "media_key": "3_2060355594813661184",
+          "start": 35,
+          "url": "https://t.co/ttCxV9ZIKC"
+        },
+        {
+          "display_url": "pic.x.com/ttCxV9ZIKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+          "media_key": "3_2060355594805272576",
+          "start": 35,
+          "url": "https://t.co/ttCxV9ZIKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060355601503519049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来除了吃的就没什么可发的 这两天都没怎么好好吃饭就更没什么可发的了 https://t.co/ttCxV9ZIKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060355594855522305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfaf05aIAECteF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060355594809421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfaf0uasAAJzO8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060355594813661184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfaf0vbYAAbnTu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060355594805272576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfaf0tbYAAJ4QR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060355594855522305",
+            "3_2060355594809421824",
+            "3_2060355594813661184",
+            "3_2060355594805272576"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060355601503519049",
+        "created_at": "2026-05-29T13:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060355601503519049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttCxV9ZIKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+              "media_key": "3_2060355594855522305",
+              "start": 35,
+              "url": "https://t.co/ttCxV9ZIKC"
+            },
+            {
+              "display_url": "pic.x.com/ttCxV9ZIKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+              "media_key": "3_2060355594809421824",
+              "start": 35,
+              "url": "https://t.co/ttCxV9ZIKC"
+            },
+            {
+              "display_url": "pic.x.com/ttCxV9ZIKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+              "media_key": "3_2060355594813661184",
+              "start": 35,
+              "url": "https://t.co/ttCxV9ZIKC"
+            },
+            {
+              "display_url": "pic.x.com/ttCxV9ZIKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2060355601503519049/photo/1",
+              "media_key": "3_2060355594805272576",
+              "start": 35,
+              "url": "https://t.co/ttCxV9ZIKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060355601503519049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来除了吃的就没什么可发的 这两天都没怎么好好吃饭就更没什么可发的了 https://t.co/ttCxV9ZIKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 215,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2462
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

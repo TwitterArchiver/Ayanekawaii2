@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2049998280671789336",
+    "created_at": "2026-04-30T23:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049998280671789336"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049998280671789336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦 每天过的既不惨也不健全 带了一堆药过来还买了很多药然后就放那也不吃 说是正常生活吧比起那些阳光高中生来说也不算健全 而且依然在羡慕别人的生活 会有人羡慕我的生活吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2049998280671789336",
+        "created_at": "2026-04-30T23:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049998280671789336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049998280671789336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦 每天过的既不惨也不健全 带了一堆药过来还买了很多药然后就放那也不吃 说是正常生活吧比起那些阳光高中生来说也不算健全 而且依然在羡慕别人的生活 会有人羡慕我的生活吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 183,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2209
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

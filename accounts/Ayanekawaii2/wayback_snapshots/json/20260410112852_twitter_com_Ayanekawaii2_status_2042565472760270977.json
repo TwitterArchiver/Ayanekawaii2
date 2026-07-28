@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042565466951159810",
+        "3_2042565466942771202",
+        "3_2042565466884038656",
+        "3_2042565466884050944"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042565472760270977",
+    "created_at": "2026-04-10T11:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042565472760270977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFcC4ajWdr",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+          "media_key": "3_2042565466951159810",
+          "start": 28,
+          "url": "https://t.co/TFcC4ajWdr"
+        },
+        {
+          "display_url": "pic.x.com/TFcC4ajWdr",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+          "media_key": "3_2042565466942771202",
+          "start": 28,
+          "url": "https://t.co/TFcC4ajWdr"
+        },
+        {
+          "display_url": "pic.x.com/TFcC4ajWdr",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+          "media_key": "3_2042565466884038656",
+          "start": 28,
+          "url": "https://t.co/TFcC4ajWdr"
+        },
+        {
+          "display_url": "pic.x.com/TFcC4ajWdr",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+          "media_key": "3_2042565466884050944",
+          "start": 28,
+          "url": "https://t.co/TFcC4ajWdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042565472760270977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些今天\n以及又又又点餐丨困难让店员给我拿中文菜单了🥲 https://t.co/TFcC4ajWdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042565466951159810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFimeGAakAIvfXn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042565466942771202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFimeF-akAI_Bp-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042565466884038656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFimeFwaYAAJfDw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2042565466884050944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFimeFwakAAz8z6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042565466951159810",
+            "3_2042565466942771202",
+            "3_2042565466884038656",
+            "3_2042565466884050944"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042565472760270977",
+        "created_at": "2026-04-10T11:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042565472760270977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFcC4ajWdr",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+              "media_key": "3_2042565466951159810",
+              "start": 28,
+              "url": "https://t.co/TFcC4ajWdr"
+            },
+            {
+              "display_url": "pic.x.com/TFcC4ajWdr",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+              "media_key": "3_2042565466942771202",
+              "start": 28,
+              "url": "https://t.co/TFcC4ajWdr"
+            },
+            {
+              "display_url": "pic.x.com/TFcC4ajWdr",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+              "media_key": "3_2042565466884038656",
+              "start": 28,
+              "url": "https://t.co/TFcC4ajWdr"
+            },
+            {
+              "display_url": "pic.x.com/TFcC4ajWdr",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042565472760270977/photo/1",
+              "media_key": "3_2042565466884050944",
+              "start": 28,
+              "url": "https://t.co/TFcC4ajWdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042565472760270977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些今天\n以及又又又点餐丨困难让店员给我拿中文菜单了🥲 https://t.co/TFcC4ajWdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 131,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1969
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

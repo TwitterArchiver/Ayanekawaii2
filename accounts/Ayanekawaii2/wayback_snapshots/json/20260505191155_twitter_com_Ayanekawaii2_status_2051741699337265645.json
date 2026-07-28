@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2051741699337265645",
+    "created_at": "2026-05-05T19:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051741699337265645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ouo1nieowo/sta…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/ouo1nieowo/status/2051560860280410521",
+          "start": 120,
+          "url": "https://t.co/4uQCcyVWIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051741699337265645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051560860280410521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样呀 而且我觉得大家都会这样想所以即使暂时不想和人社交或者是没时间没精力这样的客观原因也会勉强自己和平时一样好好回消息或者答应别人的要求 就总是搞得自己很累。。我是会因为这样的原因而疏远别人的所以我也害怕别人会因为这样的原因而疏远我 https://t.co/4uQCcyVWIZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2051741699337265645",
+        "created_at": "2026-05-05T19:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051741699337265645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ouo1nieowo/sta…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/ouo1nieowo/status/2051560860280410521",
+              "start": 120,
+              "url": "https://t.co/4uQCcyVWIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051741699337265645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051560860280410521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样呀 而且我觉得大家都会这样想所以即使暂时不想和人社交或者是没时间没精力这样的客观原因也会勉强自己和平时一样好好回消息或者答应别人的要求 就总是搞得自己很累。。我是会因为这样的原因而疏远别人的所以我也害怕别人会因为这样的原因而疏远我 https://t.co/4uQCcyVWIZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2051560860280410521",
+        "created_at": "2026-05-05T07:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051560860280410521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051560860280410521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16065,
+          "like_count": 571,
+          "quote_count": 18,
+          "reply_count": 63,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "一旦察觉到对方变得冷漠敷衍后我恨不得立马从对方的生活中消失 就是当我明显的感觉到对方没有之前对我那么热情了没有那么重要的时候 我也会把对方的重要性降低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 190,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 2276
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己/置顶推广自辨",
+        "id": "1567543722170253313",
+        "location": "🚪188/520/1314",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2029278292415840553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11521,
+          "following_count": 39,
+          "like_count": 1046,
+          "listed_count": 41,
+          "media_count": 43,
+          "tweet_count": 799
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

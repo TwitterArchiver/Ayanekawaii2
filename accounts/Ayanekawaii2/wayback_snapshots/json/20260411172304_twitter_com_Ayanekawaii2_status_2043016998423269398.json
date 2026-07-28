@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2043016998423269398",
+    "created_at": "2026-04-11T17:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043016998423269398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayanekawaii2/s…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/ayanekawaii2/status/2029205661796684073",
+          "start": 52,
+          "url": "https://t.co/fsi4DqjvE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043016998423269398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029205661796684073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "珍惜又有什么用 有些时候想珍惜的东西就像沙子一样 越想抓紧就流的越快 所以以前的人说的顺其自然是对的吧 https://t.co/fsi4DqjvE8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2043016998423269398",
+        "created_at": "2026-04-11T17:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043016998423269398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayanekawaii2/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ayanekawaii2/status/2029205661796684073",
+              "start": 52,
+              "url": "https://t.co/fsi4DqjvE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043016998423269398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029205661796684073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "珍惜又有什么用 有些时候想珍惜的东西就像沙子一样 越想抓紧就流的越快 所以以前的人说的顺其自然是对的吧 https://t.co/fsi4DqjvE8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029205661796684073",
+        "created_at": "2026-03-04T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029205661796684073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029205661796684073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是说别人不珍惜有什么用但是我也没有多么珍惜自己吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 136,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1988
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

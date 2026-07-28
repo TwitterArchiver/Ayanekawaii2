@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1875136088517533945",
+    "created_at": "2025-01-04T16:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875577288135520605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678443519378329604",
+          "start": 0,
+          "username": "caoluch95378220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875577288135520605",
+    "in_reply_to_user_id": "1678443519378329604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875136088517533945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caoluch95378220 打团就直接拍照吃自助餐呀喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1875136088517533945",
+        "created_at": "2025-01-04T16:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875577288135520605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678443519378329604",
+              "start": 0,
+              "username": "caoluch95378220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875577288135520605",
+        "in_reply_to_user_id": "1678443519378329604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875136088517533945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caoluch95378220 打团就直接拍照吃自助餐呀喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875136082947563520",
+            "3_1875136083572482049"
+          ]
+        },
+        "author_id": "1678443519378329604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875136088517533945",
+        "created_at": "2025-01-03T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875136088517533945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXg6ksXG7C",
+              "end": 61,
+              "expanded_url": "https://x.com/caoluch95378220/status/1875136088517533945/photo/1",
+              "media_key": "3_1875136082947563520",
+              "start": 38,
+              "url": "https://t.co/UXg6ksXG7C"
+            },
+            {
+              "display_url": "pic.x.com/UXg6ksXG7C",
+              "end": 61,
+              "expanded_url": "https://x.com/caoluch95378220/status/1875136088517533945/photo/1",
+              "media_key": "3_1875136083572482049",
+              "start": 38,
+              "url": "https://t.co/UXg6ksXG7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875136088517533945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁知道我这14分钟怎么过来的 超善意打团我要吐了 我看你们都是相思了密码滴 https://t.co/UXg6ksXG7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1127
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T16:38:22.000Z",
+        "description": "叫我红薯 🚪88/388/520/1314",
+        "id": "1678443519378329604",
+        "name": "芝士焗红薯",
+        "pinned_tweet_id": "1836394260469551217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857009120475283456/PsD_bXOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1060,
+          "like_count": 7081,
+          "listed_count": 0,
+          "media_count": 689,
+          "tweet_count": 4298
+        },
+        "username": "caoluch95378220",
+        "verified": false
+      }
+    ]
+  }
+}

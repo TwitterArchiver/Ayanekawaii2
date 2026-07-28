@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855889598184083456"
+      ],
+      "media_source_tweet_id": [
+        "1855889604056055845"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1856227157477032257",
+    "created_at": "2024-11-12T06:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T07:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856227157477032257"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "フリーイラスト"
+        },
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "AIイラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746903704278798336",
+          "start": 3,
+          "username": "ar_use_1031"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8hF7j4W49",
+          "end": 64,
+          "expanded_url": "https://x.com/ar_use_1031/status/1855889604056055845/photo/1",
+          "media_key": "3_1855889598184083456",
+          "start": 41,
+          "url": "https://t.co/Y8hF7j4W49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856227157477032257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855889604056055845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ar_use_1031: 恋愛依存症\n #フリーイラスト #AIイラスト https://t.co/Y8hF7j4W49"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1855889598184083456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcFxwbIa0AA33Tt.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855889598184083456"
+          ],
+          "media_source_tweet_id": [
+            "1855889604056055845"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1856227157477032257",
+        "created_at": "2024-11-12T06:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T07:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856227157477032257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "フリーイラスト"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "AIイラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746903704278798336",
+              "start": 3,
+              "username": "ar_use_1031"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8hF7j4W49",
+              "end": 64,
+              "expanded_url": "https://x.com/ar_use_1031/status/1855889604056055845/photo/1",
+              "media_key": "3_1855889598184083456",
+              "start": 41,
+              "url": "https://t.co/Y8hF7j4W49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856227157477032257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855889604056055845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ar_use_1031: 恋愛依存症\n #フリーイラスト #AIイラスト https://t.co/Y8hF7j4W49"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855889598184083456"
+          ]
+        },
+        "author_id": "1746903704278798336",
+        "conversation_id": "1855889604056055845",
+        "created_at": "2024-11-11T08:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T09:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855889604056055845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "フリーイラスト"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "AIイラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8hF7j4W49",
+              "end": 47,
+              "expanded_url": "https://x.com/ar_use_1031/status/1855889604056055845/photo/1",
+              "media_key": "3_1855889598184083456",
+              "start": 24,
+              "url": "https://t.co/Y8hF7j4W49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855889604056055845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 107900,
+          "like_count": 3401,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "恋愛依存症\n #フリーイラスト #AIイラスト https://t.co/Y8hF7j4W49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 103,
+          "like_count": 208,
+          "listed_count": 0,
+          "tweet_count": 949
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T14:34:43.000Z",
+        "description": "┊︎ﾄ或 ｾ界┊︎ AI illustration ┊︎ 有償依頼はDMにて . ┊︎ 納期は最短1週間以内┊︎細かい要望のﾍﾟｱ画依頼停止中 ┊︎ ᶦᶜᵒⁿ ⥃ @ne_5ne ┊︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "ne_5ne"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Melancholic",
+                "end": 23,
+                "expanded_url": "https://lit.link/Melancholic",
+                "start": 0,
+                "url": "https://t.co/ieeNUsaHqp"
+              }
+            ]
+          }
+        },
+        "id": "1746903704278798336",
+        "location": "詳細・欲ﾘｽ・ﾌﾟﾚﾘｽ →",
+        "name": "或 世",
+        "pinned_tweet_id": "1835221251113337273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848926108420608000/zoo-IanJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10358,
+          "following_count": 53,
+          "like_count": 12982,
+          "listed_count": 49,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/ieeNUsaHqp",
+        "username": "ar_use_1031",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2056770159029969050",
+    "created_at": "2026-05-19T16:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056771239004557427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056771239004557427",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056770159029969050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天吃的太差了。。中午吃了松屋的牛丼 晚上吃的这个湘遇也好难吃 虽然名字就叫干锅孜然牛肉吧但是孜然味有点太重了比那种劣质烧烤还难吃 还搞的我一回家就肠胃不舒服 服务态度也不好 免费的小菜加了一次以后就说没有了。。。好坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2056770150616158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsdjgQaUAAHHT3.jpg",
+        "width": 764
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056770150603554816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsdjgNaAAAH433.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056770150603575296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsdjgNaUAA9PQU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056770150595272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsdjgLboAA5IV5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2056770159029969050",
+        "created_at": "2026-05-19T16:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056771239004557427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056771239004557427",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056770159029969050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天吃的太差了。。中午吃了松屋的牛丼 晚上吃的这个湘遇也好难吃 虽然名字就叫干锅孜然牛肉吧但是孜然味有点太重了比那种劣质烧烤还难吃 还搞的我一回家就肠胃不舒服 服务态度也不好 免费的小菜加了一次以后就说没有了。。。好坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056770150616158208",
+            "3_2056770150603554816",
+            "3_2056770150603575296",
+            "3_2056770150595272704"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056770159029969050",
+        "created_at": "2026-05-19T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056770159029969050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOMOgV41qQ",
+              "end": 129,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2056770159029969050/photo/1",
+              "media_key": "3_2056770150616158208",
+              "start": 106,
+              "url": "https://t.co/DOMOgV41qQ"
+            },
+            {
+              "display_url": "pic.x.com/DOMOgV41qQ",
+              "end": 129,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2056770159029969050/photo/1",
+              "media_key": "3_2056770150603554816",
+              "start": 106,
+              "url": "https://t.co/DOMOgV41qQ"
+            },
+            {
+              "display_url": "pic.x.com/DOMOgV41qQ",
+              "end": 129,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2056770159029969050/photo/1",
+              "media_key": "3_2056770150603575296",
+              "start": 106,
+              "url": "https://t.co/DOMOgV41qQ"
+            },
+            {
+              "display_url": "pic.x.com/DOMOgV41qQ",
+              "end": 129,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2056770159029969050/photo/1",
+              "media_key": "3_2056770150595272704",
+              "start": 106,
+              "url": "https://t.co/DOMOgV41qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056770159029969050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1避难训练p2昨天点了湘聚的外卖今天想去线下吃结果猪脑发力导航到了湘遇我还问店员为什么没有这个菜然后才发现不是同一家p3国内寄来的东西终于到了做了预制炸蛋放冰箱里以后煮螺蛳粉米线的时候吃p4去看房子的路上拍的 https://t.co/DOMOgV41qQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 192,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2366
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

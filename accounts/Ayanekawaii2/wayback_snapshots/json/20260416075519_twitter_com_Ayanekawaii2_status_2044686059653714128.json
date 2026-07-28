@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2044434056335474837",
+    "created_at": "2026-04-16T07:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044686059653714128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937591116985171969",
+          "start": 0,
+          "username": "Aiyo44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044686059653714128",
+    "in_reply_to_user_id": "1937591116985171969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044434056335474837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aiyo44 那咋啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2044434056335474837",
+        "created_at": "2026-04-16T07:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044686059653714128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937591116985171969",
+              "start": 0,
+              "username": "Aiyo44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044686059653714128",
+        "in_reply_to_user_id": "1937591116985171969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044434056335474837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aiyo44 那咋啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937591116985171969",
+        "conversation_id": "2044434056335474837",
+        "created_at": "2026-04-15T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044434056335474837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044434056335474837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 66049,
+          "like_count": 707,
+          "quote_count": 10,
+          "reply_count": 91,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我请求中国人不要再笑印度口音了以为自己的发音很标准吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 137,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:18:32.000Z",
+        "description": "",
+        "id": "1937591116985171969",
+        "name": "小爱lovv1e",
+        "pinned_tweet_id": "2043486084114321832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043836456570138624/TkOEUjLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 279,
+          "like_count": 11665,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2525
+        },
+        "username": "Aiyo44",
+        "verified": false
+      }
+    ]
+  }
+}

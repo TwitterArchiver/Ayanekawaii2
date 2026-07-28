@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1969813431252611115",
+    "created_at": "2025-09-22T13:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T14:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970123473742897530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536583610714640384",
+          "start": 0,
+          "username": "Princesstoast11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970123473742897530",
+    "in_reply_to_user_id": "1536583610714640384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969813431252611115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Princesstoast11 语擦女爱用，啊啊啊老大好有男鬼味啊啊啊#男鬼1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1969813431252611115",
+        "created_at": "2025-09-22T13:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970123473742897530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536583610714640384",
+              "start": 0,
+              "username": "Princesstoast11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970123473742897530",
+        "in_reply_to_user_id": "1536583610714640384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969813431252611115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Princesstoast11 语擦女爱用，啊啊啊老大好有男鬼味啊啊啊#男鬼1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536583610714640384",
+        "conversation_id": "1969813431252611115",
+        "created_at": "2025-09-21T17:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969813431252611115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969813431252611115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 32722,
+          "like_count": 182,
+          "quote_count": 10,
+          "reply_count": 82,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "想说每次看见^^这个颜文字 我的尴尬之情就从头到脚开始发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 97,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1295
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T05:37:45.000Z",
+        "description": "正直勇敢积累阅读量｜提问在https://t.co/LmXkRTZuF2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/princesstoast11",
+                "end": 36,
+                "expanded_url": "https://ngl.link/princesstoast11",
+                "start": 13,
+                "url": "https://t.co/LmXkRTZuF2"
+              }
+            ]
+          }
+        },
+        "id": "1536583610714640384",
+        "location": "不可食用ᐝ ᐝ",
+        "name": "想说就说bot",
+        "pinned_tweet_id": "1964703747898224909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969113054916067329/KCdBqkml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 692,
+          "like_count": 45878,
+          "listed_count": 20,
+          "media_count": 1811,
+          "tweet_count": 41614
+        },
+        "username": "Princesstoast11",
+        "verified": false
+      }
+    ]
+  }
+}

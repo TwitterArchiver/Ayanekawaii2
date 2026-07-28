@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2022402817416450442",
+    "created_at": "2026-02-13T20:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T21:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022402817416450442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988792759327813632",
+          "start": 3,
+          "username": "Yukii11011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022402817416450442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022120737600131462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yukii11011: 以后男朋友出轨了我就把他药死然后把他的头砍下来，找个楼抱着他的头跳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2022402817416450442",
+        "created_at": "2026-02-13T20:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T21:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022402817416450442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988792759327813632",
+              "start": 3,
+              "username": "Yukii11011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022402817416450442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022120737600131462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yukii11011: 以后男朋友出轨了我就把他药死然后把他的头砍下来，找个楼抱着他的头跳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988792759327813632",
+        "conversation_id": "2022120737600131462",
+        "created_at": "2026-02-13T01:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022120737600131462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022120737600131462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 40654,
+          "like_count": 397,
+          "quote_count": 15,
+          "reply_count": 92,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "以后男朋友出轨了我就把他药死然后把他的头砍下来，找个楼抱着他的头跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1558
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T02:15:33.000Z",
+        "description": "三刀劈砍\n一刀大斩\nhttps://t.co/3cd0rtN7Lx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/feiyu1102",
+                "end": 33,
+                "expanded_url": "https://ngl.link/feiyu1102",
+                "start": 10,
+                "url": "https://t.co/3cd0rtN7Lx"
+              }
+            ]
+          }
+        },
+        "id": "1988792759327813632",
+        "name": "忆殊",
+        "pinned_tweet_id": "2018494186773946504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016338850436808707/TL79D62P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 43,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 129
+        },
+        "username": "Yukii11011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2068225881722790076",
+    "created_at": "2026-06-20T06:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068225881722790076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reject_idv/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/reject_idv/status/2068184127636213865",
+          "start": 26,
+          "url": "https://t.co/UKadCOX7tk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068225881722790076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068184127636213865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？？？我看到了什么？？alf转人类？？？？？？ https://t.co/UKadCOX7tk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2068184115166531584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOqfrqbUAAp5Rd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2068225881722790076",
+        "created_at": "2026-06-20T06:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068225881722790076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reject_idv/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/reject_idv/status/2068184127636213865",
+              "start": 26,
+              "url": "https://t.co/UKadCOX7tk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068225881722790076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068184127636213865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？？我看到了什么？？alf转人类？？？？？？ https://t.co/UKadCOX7tk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068184115166531584"
+          ]
+        },
+        "author_id": "1393082449941327873",
+        "conversation_id": "2068184127636213865",
+        "created_at": "2026-06-20T04:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068184127636213865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRKxgA2OUz",
+              "end": 37,
+              "expanded_url": "https://x.com/REJECT_IDV/status/2068184127636213865/photo/1",
+              "media_key": "3_2068184115166531584",
+              "start": 14,
+              "url": "https://t.co/oRKxgA2OUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068184127636213865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 1204314,
+          "like_count": 5954,
+          "quote_count": 1672,
+          "reply_count": 0,
+          "retweet_count": 1935
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "所属メンバーに関するご報告 https://t.co/oRKxgA2OUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 264,
+          "like_count": 619,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T05:55:39.000Z",
+        "description": "@RC_REJECT IDV Div. | 🛒https://t.co/Oqegq7Xy2S | YouTube https://t.co/Das8QF3i6P | TikTok https://t.co/fZUpr2Odfj | FM #RCと魔法のひととき | FA #りじぇあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 119,
+                "tag": "RCと魔法のひととき"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "りじぇあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RC_REJECT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "brand.reject.jp",
+                "end": 46,
+                "expanded_url": "https://brand.reject.jp/",
+                "start": 23,
+                "url": "https://t.co/Oqegq7Xy2S"
+              },
+              {
+                "display_url": "youtube.com/c/REJECTIDV",
+                "end": 80,
+                "expanded_url": "http://youtube.com/c/REJECTIDV",
+                "start": 57,
+                "url": "https://t.co/Das8QF3i6P"
+              },
+              {
+                "display_url": "tiktok.com/@rc_identityv",
+                "end": 113,
+                "expanded_url": "http://tiktok.com/@rc_identityv",
+                "start": 90,
+                "url": "https://t.co/fZUpr2Odfj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/RC_REJECT",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/RC_REJECT",
+                "start": 0,
+                "url": "https://t.co/HsKhnsV9zn"
+              }
+            ]
+          }
+        },
+        "id": "1393082449941327873",
+        "location": "日本",
+        "name": "REJECT 第五人格部門",
+        "pinned_tweet_id": "2063063331527926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065323347525992448/SeYJhAps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38694,
+          "following_count": 72,
+          "like_count": 14342,
+          "listed_count": 342,
+          "media_count": 2117,
+          "tweet_count": 6718
+        },
+        "url": "https://t.co/HsKhnsV9zn",
+        "username": "REJECT_IDV",
+        "verified": true
+      }
+    ]
+  }
+}

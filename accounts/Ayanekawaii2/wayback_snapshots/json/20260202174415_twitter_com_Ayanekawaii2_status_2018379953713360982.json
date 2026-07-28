@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2018249936396325271",
+    "created_at": "2026-02-02T17:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018379953713360982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886091703616167936",
+          "start": 0,
+          "username": "Fanny13941281"
+        },
+        {
+          "end": 26,
+          "id": "1554688107651350530",
+          "start": 15,
+          "username": "li12826221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018379953713360982",
+    "in_reply_to_user_id": "1886091703616167936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018309463376363966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanny13941281 @li12826221 比红薯女大更逆天的群体。。看完以后感觉小红书上的傻逼女的都变的正常了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2018249936396325271",
+        "created_at": "2026-02-02T17:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018379953713360982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886091703616167936",
+              "start": 0,
+              "username": "Fanny13941281"
+            },
+            {
+              "end": 26,
+              "id": "1554688107651350530",
+              "start": 15,
+              "username": "li12826221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018379953713360982",
+        "in_reply_to_user_id": "1886091703616167936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018309463376363966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanny13941281 @li12826221 比红薯女大更逆天的群体。。看完以后感觉小红书上的傻逼女的都变的正常了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886091703616167936",
+        "conversation_id": "2018249936396325271",
+        "created_at": "2026-02-02T13:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018309463376363966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554688107651350530",
+              "start": 0,
+              "username": "li12826221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018309463376363966",
+        "in_reply_to_user_id": "1554688107651350530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13387,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018249936396325271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li12826221 美柚里全是文盲娇妻，我本来是记录月经的，受不了卸载了。全是：老公出轨要离婚吗？老公嫖娼要离婚吗？老公得性病了，要离婚吗？我被老公传染性病要离婚吗？没带套会不会怀孕？内射了会不会怀孕？怀孕了要不要打胎啊？月入两千要不要把孩子生下来？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 104,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1543
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T16:38:14.000Z",
+        "description": "172/120。女S。爱看反差肌肉小狗+18cm+无毛+无包皮+粉鸡",
+        "id": "1886091703616167936",
+        "name": "飞鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015047646898233344/sXKQat-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 322,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 504
+        },
+        "username": "Fanny13941281",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:38:39.000Z",
+        "description": "一个敏锐的生活观察者 ——  工作方向是AI 内容流程设计与诊断 | 前新闻记者｜影视制作人｜创业赚到第一个 100 万 | 现互联网内容公司，从事 AI × 创作者工作",
+        "id": "1554688107651350530",
+        "location": "香港",
+        "name": "Coco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981851012345307136/IZpJAr-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6080,
+          "following_count": 837,
+          "like_count": 4784,
+          "listed_count": 36,
+          "media_count": 327,
+          "tweet_count": 3433
+        },
+        "username": "li12826221",
+        "verified": true
+      }
+    ]
+  }
+}

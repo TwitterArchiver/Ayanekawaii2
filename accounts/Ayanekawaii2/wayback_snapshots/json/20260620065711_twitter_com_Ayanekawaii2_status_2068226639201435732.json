@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2067901088641249618",
+    "created_at": "2026-06-20T06:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068226639201435732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1303654848467021825",
+          "start": 0,
+          "username": "orwell_benjamin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226639201435732",
+    "in_reply_to_user_id": "1303654848467021825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067989570269155754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orwell_benjamin 好捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2067901088641249618",
+        "created_at": "2026-06-20T06:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068226639201435732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1303654848467021825",
+              "start": 0,
+              "username": "orwell_benjamin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226639201435732",
+        "in_reply_to_user_id": "1303654848467021825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067989570269155754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orwell_benjamin 好捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303654848467021825",
+        "conversation_id": "2067901088641249618",
+        "created_at": "2026-06-19T15:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067989570269155754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067989570269155754",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067901088641249618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 下回你直接说吃过效果不好而且有副作用，就能换其他药了。\n其实比起药物生活中多接触一些人更重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 266,
+          "like_count": 619,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T11:22:12.000Z",
+        "description": "一个借尸还魂的人",
+        "id": "1303654848467021825",
+        "location": "Mariana Trench",
+        "name": "Benjamin Orwell-From🇦🇷☎️XiaoMi 16 Pro max",
+        "pinned_tweet_id": "1987864413748273196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303655335744413696/vqxmH5u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 4586,
+          "like_count": 47943,
+          "listed_count": 19,
+          "media_count": 2453,
+          "tweet_count": 39298
+        },
+        "url": "",
+        "username": "orwell_benjamin",
+        "verified": true
+      }
+    ]
+  }
+}

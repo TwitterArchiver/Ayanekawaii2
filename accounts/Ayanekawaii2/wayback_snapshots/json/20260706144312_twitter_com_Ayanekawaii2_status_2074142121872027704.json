@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2074101548226130320",
+    "created_at": "2026-07-06T14:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074142121872027704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074142121872027704",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074101548226130320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@todorokidoya1 哦不别这样😱酒精会加重药物副作用的……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2074101544031854592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiwXYAboAAyBt-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2074101548226130320",
+        "created_at": "2026-07-06T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074142121872027704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074142121872027704",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074101548226130320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todorokidoya1 哦不别这样😱酒精会加重药物副作用的……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074101544031854592"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2074101548226130320",
+        "created_at": "2026-07-06T12:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074101548226130320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8yjpFmxLh",
+              "end": 39,
+              "expanded_url": "https://x.com/todorokidoya1/status/2074101548226130320/photo/1",
+              "media_key": "3_2074101544031854592",
+              "start": 16,
+              "url": "https://t.co/B8yjpFmxLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074101548226130320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝完酒o真的感觉要死掉了😵‍💫 https://t.co/B8yjpFmxLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/戒o戒割养生中丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 283,
+          "like_count": 899,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 2697
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\nhttps://t.co/bOs5bg4qr3\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "o0omftft"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0o%E2%80%860",
+                "end": 30,
+                "expanded_url": "https://ngl.link/0o%E2%80%860",
+                "start": 7,
+                "url": "https://t.co/bOs5bg4qr3"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "画中世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2067946828298121465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 464,
+          "like_count": 39321,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2670
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2047619920415117400",
+    "created_at": "2026-04-24T16:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047710079613591844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2019434808019992578",
+          "start": 0,
+          "username": "lood9178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047710079613591844",
+    "in_reply_to_user_id": "2019434808019992578",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047705294936166597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lood9178 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2047619920415117400",
+        "created_at": "2026-04-24T16:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047710079613591844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2019434808019992578",
+              "start": 0,
+              "username": "lood9178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047710079613591844",
+        "in_reply_to_user_id": "2019434808019992578",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047705294936166597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lood9178 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019434808019992578",
+        "conversation_id": "2047619920415117400",
+        "created_at": "2026-04-24T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047705294936166597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047705294936166597",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047619920415117400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 我想要😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 146,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2128
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T15:36:04.000Z",
+        "description": "",
+        "id": "2019434808019992578",
+        "name": "我讨厌伤心虾仁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041177984368013313/-6zGYOE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 93
+        },
+        "username": "lood9178",
+        "verified": false
+      }
+    ]
+  }
+}

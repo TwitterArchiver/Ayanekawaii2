@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045894192476684288"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2045799845684986234",
+    "created_at": "2026-04-19T15:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045894195697922369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "zhngy228309"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b02dcfqM8d",
+          "end": 42,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2045894195697922369/photo/1",
+          "media_key": "3_2045894192476684288",
+          "start": 19,
+          "url": "https://t.co/b02dcfqM8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045894195697922369",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045799845684986234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngy228309 我去不早说 https://t.co/b02dcfqM8d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2045894192476684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR57a6bgAA9oo0.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045894192476684288"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2045799845684986234",
+        "created_at": "2026-04-19T15:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045894195697922369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "zhngy228309"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b02dcfqM8d",
+              "end": 42,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2045894195697922369/photo/1",
+              "media_key": "3_2045894192476684288",
+              "start": 19,
+              "url": "https://t.co/b02dcfqM8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045894195697922369",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045799845684986234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngy228309 我去不早说 https://t.co/b02dcfqM8d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2045799845684986234",
+        "created_at": "2026-04-19T09:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045799845684986234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045799845684986234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2411,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家都以为地雷女是汉奸，其实你们都错了，所谓地雷女就是像地雷一样会爆炸的女的，当我们攻打小日本的时候，地雷女可以隐藏在地里，小日本一踩上来地雷女就瞬间爆炸，这才是地雷女的真正用处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 139,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2058
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位 纯绿",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 452,
+          "like_count": 5140,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

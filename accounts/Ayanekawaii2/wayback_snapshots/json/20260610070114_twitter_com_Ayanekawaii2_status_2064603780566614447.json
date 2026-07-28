@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064603757288251392",
+        "3_2064603757305073664",
+        "3_2064603757288333312",
+        "3_2064603757305077760"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064603780566614447",
+    "created_at": "2026-06-10T07:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064603780566614447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/coNZolAksy",
+          "end": 44,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+          "media_key": "3_2064603757288251392",
+          "start": 21,
+          "url": "https://t.co/coNZolAksy"
+        },
+        {
+          "display_url": "pic.x.com/coNZolAksy",
+          "end": 44,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+          "media_key": "3_2064603757305073664",
+          "start": 21,
+          "url": "https://t.co/coNZolAksy"
+        },
+        {
+          "display_url": "pic.x.com/coNZolAksy",
+          "end": 44,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+          "media_key": "3_2064603757288333312",
+          "start": 21,
+          "url": "https://t.co/coNZolAksy"
+        },
+        {
+          "display_url": "pic.x.com/coNZolAksy",
+          "end": 44,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+          "media_key": "3_2064603757305077760",
+          "start": 21,
+          "url": "https://t.co/coNZolAksy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064603780566614447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日式支餐好难吃。呕吐物味刨冰也好难吃。呕 https://t.co/coNZolAksy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064603757288251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbyLbMaYAA9cCv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064603757305073664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbyLbQbEAAnY17.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064603757288333312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbyLbMboAAnYJB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064603757305077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbyLbQbIAAPtiM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064603757288251392",
+            "3_2064603757305073664",
+            "3_2064603757288333312",
+            "3_2064603757305077760"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064603780566614447",
+        "created_at": "2026-06-10T07:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064603780566614447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/coNZolAksy",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+              "media_key": "3_2064603757288251392",
+              "start": 21,
+              "url": "https://t.co/coNZolAksy"
+            },
+            {
+              "display_url": "pic.x.com/coNZolAksy",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+              "media_key": "3_2064603757305073664",
+              "start": 21,
+              "url": "https://t.co/coNZolAksy"
+            },
+            {
+              "display_url": "pic.x.com/coNZolAksy",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+              "media_key": "3_2064603757288333312",
+              "start": 21,
+              "url": "https://t.co/coNZolAksy"
+            },
+            {
+              "display_url": "pic.x.com/coNZolAksy",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2064603780566614447/photo/1",
+              "media_key": "3_2064603757305077760",
+              "start": 21,
+              "url": "https://t.co/coNZolAksy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064603780566614447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日式支餐好难吃。呕吐物味刨冰也好难吃。呕 https://t.co/coNZolAksy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651452925759488/XNOGPOpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 246,
+          "like_count": 500,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 2568
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

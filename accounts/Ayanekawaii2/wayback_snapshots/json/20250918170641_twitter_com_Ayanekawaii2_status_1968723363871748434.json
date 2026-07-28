@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1968723363871748434",
+    "created_at": "2025-09-18T17:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T18:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968723363871748434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968723363871748434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想到不久以后的未来从现在就开始难过了。我能不能尽量少想别人？但我每个人生阶段里熟悉的人好像在冥冥之中都有一些缘分 那些一认识就当朋友的人都没有陪我很久 而和我比较亲密的人在刚认识的时候都并不熟 但最后竟然成了很好的朋友甚至是恋人 难道我以后还会和现在认识的人以某种方式再续前缘吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1968723363871748434",
+        "created_at": "2025-09-18T17:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968723363871748434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968723363871748434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到不久以后的未来从现在就开始难过了。我能不能尽量少想别人？但我每个人生阶段里熟悉的人好像在冥冥之中都有一些缘分 那些一认识就当朋友的人都没有陪我很久 而和我比较亲密的人在刚认识的时候都并不熟 但最后竟然成了很好的朋友甚至是恋人 难道我以后还会和现在认识的人以某种方式再续前缘吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 97,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1282
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

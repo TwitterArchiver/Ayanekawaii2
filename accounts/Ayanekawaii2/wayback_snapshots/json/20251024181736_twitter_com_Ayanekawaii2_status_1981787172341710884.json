@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1981195324481032308",
+    "created_at": "2025-10-24T18:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T19:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981787172341710884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626160771406381056",
+          "start": 0,
+          "username": "TicoffWhite23"
+        },
+        {
+          "end": 28,
+          "id": "1942298895993954328",
+          "start": 15,
+          "username": "shellyisme24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981787172341710884",
+    "in_reply_to_user_id": "1626160771406381056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981786194297204985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TicoffWhite23 @shellyisme24 是这样的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1981195324481032308",
+        "created_at": "2025-10-24T18:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981787172341710884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626160771406381056",
+              "start": 0,
+              "username": "TicoffWhite23"
+            },
+            {
+              "end": 28,
+              "id": "1942298895993954328",
+              "start": 15,
+              "username": "shellyisme24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981787172341710884",
+        "in_reply_to_user_id": "1626160771406381056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981786194297204985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TicoffWhite23 @shellyisme24 是这样的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626160771406381056",
+        "conversation_id": "1981195324481032308",
+        "created_at": "2025-10-24T18:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981786194297204985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            },
+            {
+              "end": 27,
+              "id": "1942298895993954328",
+              "start": 14,
+              "username": "shellyisme24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981786194297204985",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981781544034619785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 @shellyisme24 我没说激女不反同啊。只是觉得这个人连骂的谁都没分清很蠢😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中…你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 94,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1382
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T10:05:21.000Z",
+        "description": "les🌈｜0.3｜欢迎女生礼貌私信｜男的骚扰全部断屌｜https://t.co/raAvz9ziJM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingofmoaning1",
+                "end": 50,
+                "expanded_url": "https://ngl.link/kingofmoaning1",
+                "start": 27,
+                "url": "https://t.co/raAvz9ziJM"
+              }
+            ]
+          }
+        },
+        "id": "1626160771406381056",
+        "name": "银角大王",
+        "pinned_tweet_id": "1980271999210623186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972991823527493632/Ttm1i0Sn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 505,
+          "like_count": 8677,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1124
+        },
+        "username": "TicoffWhite23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T19:05:28.000Z",
+        "description": "Le/广东/0.8/Enfj  男的滚蛋",
+        "id": "1942298895993954328",
+        "name": "iam小豚鼠精",
+        "pinned_tweet_id": "1952282352245465326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944308377632247808/wOL07VSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 728,
+          "like_count": 5580,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1365
+        },
+        "username": "shellyisme24",
+        "verified": false
+      }
+    ]
+  }
+}

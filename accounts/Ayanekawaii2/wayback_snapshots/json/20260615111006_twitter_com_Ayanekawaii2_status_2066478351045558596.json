@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2066216924389032111",
+    "created_at": "2026-06-15T11:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066478351045558596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "361248768",
+          "start": 0,
+          "username": "R1kOx033w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066478351045558596",
+    "in_reply_to_user_id": "361248768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066361013705073083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1kOx033w 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2066216924389032111",
+        "created_at": "2026-06-15T11:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066478351045558596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "361248768",
+              "start": 0,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066478351045558596",
+        "in_reply_to_user_id": "361248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066361013705073083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1kOx033w 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "361248768",
+        "conversation_id": "2066216924389032111",
+        "created_at": "2026-06-15T03:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066361013705073083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066361013705073083",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066216924389032111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 我也是 吃了阿普劳拉就开始镇静着抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 257,
+          "like_count": 609,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2602
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#颓废迷茫青年#混乱善良",
+        "id": "361248768",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2036929448646500730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 70
+        },
+        "username": "R1kOx033w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059887603957240279",
+    "created_at": "2026-05-28T12:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059971475705413687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "724045934749839361",
+          "start": 0,
+          "username": "tiexinyong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059971475705413687",
+    "in_reply_to_user_id": "724045934749839361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059963827589095697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiexinyong 我上完学再开店也来得及捏 我有的是路可以选 我想干啥干啥 需要你管么😂不像你一样就会一条路走到死还要自以为是的教别人也一条路走到死🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059887603957240279",
+        "created_at": "2026-05-28T12:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059971475705413687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "724045934749839361",
+              "start": 0,
+              "username": "tiexinyong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059971475705413687",
+        "in_reply_to_user_id": "724045934749839361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059963827589095697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiexinyong 我上完学再开店也来得及捏 我有的是路可以选 我想干啥干啥 需要你管么😂不像你一样就会一条路走到死还要自以为是的教别人也一条路走到死🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "724045934749839361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2059887603957240279",
+        "created_at": "2026-05-28T11:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059963827589095697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059963827589095697",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960428072161580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 看来你的环境是落到做题家聚集的地方了，而且性格不太好暴发户心态受排挤了。我觉得是你自己的做题家认知把你限住了，其实你压根不必留学的，拿个5000万就能在都内开个店，大阪那边更低，保证周围没和你互相看不顺眼的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2059887603957240279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 215,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2454
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-24T01:22:57.000Z",
+        "description": "System engineer, AI researcher. Interested in Japanese Anime, VR tech, physics.",
+        "id": "724045934749839361",
+        "location": "Tokyo-to, Japan",
+        "name": "ゆう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/981175961600245761/KUhy1qIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 74,
+          "like_count": 4386,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 10189
+        },
+        "username": "tiexinyong",
+        "verified": false
+      }
+    ]
+  }
+}

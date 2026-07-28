@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2043781950817874005",
+    "created_at": "2026-04-14T06:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043940629689053362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 31,
+          "id": "1937073350750466048",
+          "start": 17,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043940629689053362",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043781950817874005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @karo269640607 我错了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2043781950817874005",
+        "created_at": "2026-04-14T06:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043940629689053362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 31,
+              "id": "1937073350750466048",
+              "start": 17,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043940629689053362",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043781950817874005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @karo269640607 我错了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2043781950817874005",
+        "created_at": "2026-04-13T20:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043781950817874005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043781950817874005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1909,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "不要再拿自己的精神疾病去掩盖自己那惨不忍睹的道德了🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 136,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2018
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "这个人很懒，什么都没有留下 /区宝宝🍼@valentina748264 /好妈咪@acechiliyin @freequan2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "valentina748264"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "acechiliyin"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "freequan2025"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "啤酒厂",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2042842358858027084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 365,
+          "like_count": 24061,
+          "listed_count": 15,
+          "media_count": 1219,
+          "tweet_count": 16047
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切拒拆逆、生化昂右全肯定|",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 321,
+          "like_count": 15721,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2414
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

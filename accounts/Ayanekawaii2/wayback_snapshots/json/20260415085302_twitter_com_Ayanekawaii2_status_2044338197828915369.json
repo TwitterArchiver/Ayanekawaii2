@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2044338197828915369",
+    "created_at": "2026-04-15T08:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044338197828915369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hakun_idv/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hakun_idv/status/2044024756626960726",
+          "start": 12,
+          "url": "https://t.co/qiKSq9xhmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044338197828915369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044024756626960726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "袋持ってるのわからん？ https://t.co/qiKSq9xhmr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2044338197828915369",
+        "created_at": "2026-04-15T08:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044338197828915369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakun_idv/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hakun_idv/status/2044024756626960726",
+              "start": 12,
+              "url": "https://t.co/qiKSq9xhmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044338197828915369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044024756626960726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "袋持ってるのわからん？ https://t.co/qiKSq9xhmr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660833406295625728",
+        "conversation_id": "2044024756626960726",
+        "created_at": "2026-04-14T12:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044024756626960726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044024756626960726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1192,
+          "impression_count": 2156820,
+          "like_count": 25433,
+          "quote_count": 1020,
+          "reply_count": 166,
+          "retweet_count": 1070
+        },
+        "reply_settings": "everyone",
+        "text": "レジ袋断る時の言葉tier\n\nSSS　大丈夫です\nS　結構です\nA　いらないです\nB　大丈夫\nC　いらない\nF　袋持ってるのわからん？w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 137,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2029
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T02:22:04.000Z",
+        "description": "💍@p_lxv9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "p_lxv9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@haku_youtube68",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@haku_youtube68",
+                "start": 0,
+                "url": "https://t.co/wrPT3FAyhd"
+              }
+            ]
+          }
+        },
+        "id": "1660833406295625728",
+        "location": "現世最強漁師",
+        "name": "はろはく",
+        "pinned_tweet_id": "1985320909486645410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013849060898414596/TorOIRnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 404,
+          "like_count": 5852,
+          "listed_count": 7,
+          "media_count": 1066,
+          "tweet_count": 9402
+        },
+        "url": "https://t.co/wrPT3FAyhd",
+        "username": "hakun_idv",
+        "verified": false
+      }
+    ]
+  }
+}

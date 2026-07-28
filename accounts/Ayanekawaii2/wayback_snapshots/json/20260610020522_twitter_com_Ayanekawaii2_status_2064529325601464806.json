@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2064529325601464806",
+    "created_at": "2026-06-10T02:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064529325601464806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saikiiiikusuoo…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/saikiiiikusuooo/status/2064160776391389232",
+          "start": 4,
+          "url": "https://t.co/SlHn7WWR1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064529325601464806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064160776391389232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情 https://t.co/SlHn7WWR1z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2064529325601464806",
+        "created_at": "2026-06-10T02:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064529325601464806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saikiiiikusuoo…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/saikiiiikusuooo/status/2064160776391389232",
+              "start": 4,
+              "url": "https://t.co/SlHn7WWR1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064529325601464806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064160776391389232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情 https://t.co/SlHn7WWR1z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803762329169080320",
+        "conversation_id": "2064160776391389232",
+        "created_at": "2026-06-09T01:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064160776391389232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064160776391389232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 50809,
+          "like_count": 1222,
+          "quote_count": 30,
+          "reply_count": 86,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉我不太想回复这些类似于\"报备\"的毫无意义的消息，之前回复只是出于朋友的身份在相处，但前几天你的表达像是我们的相处模式是朋友之上，但我们并不是那种关系，这种关系与模式的不对等让我很不舒服。现在的我更想把重心放在自己的生活上，我相信你对我只是一时无聊的消遣，所以把好感就到此为止好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651452925759488/XNOGPOpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 247,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 2563
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T12:10:36.000Z",
+        "description": "",
+        "id": "1803762329169080320",
+        "name": "Kakaroo",
+        "pinned_tweet_id": "1949390169377005981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021377459313311746/0IigS35l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 152,
+          "like_count": 8189,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4385
+        },
+        "username": "SaikiiiiKusuooo",
+        "verified": false
+      }
+    ]
+  }
+}

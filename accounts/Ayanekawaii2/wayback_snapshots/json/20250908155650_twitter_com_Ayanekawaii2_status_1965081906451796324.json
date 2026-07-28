@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1964619526328439122",
+    "created_at": "2025-09-08T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965081906451796324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944862516976472064",
+          "start": 0,
+          "username": "mickey06100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965081906451796324",
+    "in_reply_to_user_id": "1944862516976472064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964619526328439122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mickey06100 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1964619515633053697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0O7ClwbsAE9nDq.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1964619526328439122",
+        "created_at": "2025-09-08T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965081906451796324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944862516976472064",
+              "start": 0,
+              "username": "mickey06100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965081906451796324",
+        "in_reply_to_user_id": "1944862516976472064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964619526328439122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mickey06100 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964619515633053697"
+          ]
+        },
+        "author_id": "1944862516976472064",
+        "conversation_id": "1964619526328439122",
+        "created_at": "2025-09-07T09:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T10:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964619526328439122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkwG8mNJd5",
+              "end": 25,
+              "expanded_url": "https://x.com/mickey06100/status/1964619526328439122/photo/1",
+              "media_key": "3_1964619515633053697",
+              "start": 2,
+              "url": "https://t.co/OkwG8mNJd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964619526328439122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 48358,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/OkwG8mNJd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 96,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1233
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "",
+        "id": "1944862516976472064",
+        "location": "🚪52",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9054,
+          "following_count": 4,
+          "like_count": 102,
+          "listed_count": 13,
+          "media_count": 41,
+          "tweet_count": 68
+        },
+        "username": "mickey06100",
+        "verified": false
+      }
+    ]
+  }
+}

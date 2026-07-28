@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1861100981804757083",
+    "created_at": "2024-11-26T01:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T02:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861213550611702276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769971201018101760",
+          "start": 0,
+          "username": "bichng237322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861213550611702276",
+    "in_reply_to_user_id": "1769971201018101760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861107492257980752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bichng237322 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1861100981804757083",
+        "created_at": "2024-11-26T01:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T02:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861213550611702276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769971201018101760",
+              "start": 0,
+              "username": "bichng237322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861213550611702276",
+        "in_reply_to_user_id": "1769971201018101760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861107492257980752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bichng237322 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769971201018101760",
+        "conversation_id": "1861100981804757083",
+        "created_at": "2024-11-25T17:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T18:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861107492257980752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861107492257980752",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861100981804757083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 108,
+          "like_count": 237,
+          "listed_count": 0,
+          "tweet_count": 1089
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T06:16:43.000Z",
+        "description": "仍被躯体化困扰着的自诩天使者\n友跨 政治立场稳定高度支持日本，反对极端民族主义\n热爱日本文化\n私信看到了一定会回，互fo大欢迎\n另一个号@yyn719132652580\n希望世界之美好能够传达到可爱的你的眼眸中——\n…刷到我的陌生人与熟人，能够坚持到存活于今天真的已经很棒啦！\n请带上我的祝福，真正地幸福地活下去…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "yyn719132652580"
+              }
+            ]
+          }
+        },
+        "id": "1769971201018101760",
+        "location": "本不存在之境",
+        "name": "白誠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769972204706451456/Y4rsW5qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 448,
+          "like_count": 10951,
+          "listed_count": 0,
+          "tweet_count": 2308
+        },
+        "username": "bichng237322",
+        "verified": false
+      }
+    ]
+  }
+}

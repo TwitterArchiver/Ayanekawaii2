@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1960374488857485339",
+    "created_at": "2025-08-26T16:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960374488857485339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akatsubakidv/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/akatsubakidv/status/1960216707630510250",
+          "start": 12,
+          "url": "https://t.co/kK20hy7aJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960374488857485339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960216707630510250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狼杂丢人丢到国外去了🥴 https://t.co/kK20hy7aJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_1960216698256244736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQWs45aQAA-GYU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1960216698184994816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQWs4obEAAKWUR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1927,
+        "media_key": "3_1960216698180784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQWs4na0AAlCZn.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1702,
+        "media_key": "3_1960216698226970625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQWs4ybkAEW6KY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1960374488857485339",
+        "created_at": "2025-08-26T16:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960374488857485339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akatsubakidv/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/akatsubakidv/status/1960216707630510250",
+              "start": 12,
+              "url": "https://t.co/kK20hy7aJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960374488857485339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960216707630510250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狼杂丢人丢到国外去了🥴 https://t.co/kK20hy7aJj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960216698256244736",
+            "3_1960216698184994816",
+            "3_1960216698180784128",
+            "3_1960216698226970625"
+          ]
+        },
+        "author_id": "1835972473881571328",
+        "conversation_id": "1960216707630510250",
+        "created_at": "2025-08-26T05:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960216707630510250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAw4mVcxHm",
+              "end": 94,
+              "expanded_url": "https://x.com/akatsubakidv/status/1960216707630510250/photo/1",
+              "media_key": "3_1960216698256244736",
+              "start": 71,
+              "url": "https://t.co/pAw4mVcxHm"
+            },
+            {
+              "display_url": "pic.x.com/pAw4mVcxHm",
+              "end": 94,
+              "expanded_url": "https://x.com/akatsubakidv/status/1960216707630510250/photo/1",
+              "media_key": "3_1960216698184994816",
+              "start": 71,
+              "url": "https://t.co/pAw4mVcxHm"
+            },
+            {
+              "display_url": "pic.x.com/pAw4mVcxHm",
+              "end": 94,
+              "expanded_url": "https://x.com/akatsubakidv/status/1960216707630510250/photo/1",
+              "media_key": "3_1960216698180784128",
+              "start": 71,
+              "url": "https://t.co/pAw4mVcxHm"
+            },
+            {
+              "display_url": "pic.x.com/pAw4mVcxHm",
+              "end": 94,
+              "expanded_url": "https://x.com/akatsubakidv/status/1960216707630510250/photo/1",
+              "media_key": "3_1960216698226970625",
+              "start": 71,
+              "url": "https://t.co/pAw4mVcxHm"
+            },
+            {
+              "display_url": "x.com/kagerowa/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/kagerowa/status/1960164416210735227",
+              "start": 95,
+              "url": "https://t.co/IHybm8ct6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960216707630510250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 25645,
+          "like_count": 346,
+          "quote_count": 15,
+          "reply_count": 2,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960164416210735227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[TL of a TL] Persica’s posts EN ver. \n\n(翻訳の翻訳です､問題あればすぐ削除します､すみませんでした) https://t.co/pAw4mVcxHm https://t.co/IHybm8ct6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试备考中/欢迎互fo/不加墙内联系方式/低浮上...",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1187
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T09:23:04.000Z",
+        "description": "I like a guy named alfred. IDV esports rambler. Aspiring analyst. (joke, probably… but I do post data on @datakatsubaki) || EN/日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "datakatsubaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arufure.straw.page",
+                "end": 23,
+                "expanded_url": "https://arufure.straw.page",
+                "start": 0,
+                "url": "https://t.co/tGngw3RQcV"
+              }
+            ]
+          }
+        },
+        "id": "1835972473881571328",
+        "location": "he/him 19",
+        "name": "Kasum:I 🤡🦔",
+        "pinned_tweet_id": "1936962422503563747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952206753631997952/8wIjfpXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 311,
+          "like_count": 12686,
+          "listed_count": 6,
+          "media_count": 1340,
+          "tweet_count": 6365
+        },
+        "url": "https://t.co/tGngw3RQcV",
+        "username": "akatsubakidv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042887858227417090",
+        "3_2042887858214883328"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2042887867089981936",
+    "created_at": "2026-04-11T08:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042887867089981936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9Y6mjT8v4",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042887867089981936/photo/1",
+          "media_key": "3_2042887858227417090",
+          "start": 60,
+          "url": "https://t.co/p9Y6mjT8v4"
+        },
+        {
+          "display_url": "pic.x.com/p9Y6mjT8v4",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2042887867089981936/photo/1",
+          "media_key": "3_2042887858214883328",
+          "start": 60,
+          "url": "https://t.co/p9Y6mjT8v4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042887867089981936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天没上网课真是个错误的决定 先是去的路上包上的挂件掉到电车的轨道上了 然后是课间吃麦当劳的时候饮料盖没扣紧全撒腿上了 https://t.co/p9Y6mjT8v4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042887858227417090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnLrvGakAIbLby.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042887858214883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnLrvDbUAArTQ8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042887858227417090",
+            "3_2042887858214883328"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2042887867089981936",
+        "created_at": "2026-04-11T08:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042887867089981936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9Y6mjT8v4",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042887867089981936/photo/1",
+              "media_key": "3_2042887858227417090",
+              "start": 60,
+              "url": "https://t.co/p9Y6mjT8v4"
+            },
+            {
+              "display_url": "pic.x.com/p9Y6mjT8v4",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2042887867089981936/photo/1",
+              "media_key": "3_2042887858214883328",
+              "start": 60,
+              "url": "https://t.co/p9Y6mjT8v4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042887867089981936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天没上网课真是个错误的决定 先是去的路上包上的挂件掉到电车的轨道上了 然后是课间吃麦当劳的时候饮料盖没扣紧全撒腿上了 https://t.co/p9Y6mjT8v4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 135,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1979
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

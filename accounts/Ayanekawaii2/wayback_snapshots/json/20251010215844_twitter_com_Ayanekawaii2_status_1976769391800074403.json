@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1976769391800074403",
+    "created_at": "2025-10-10T21:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T22:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976769391800074403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769004036420943872",
+          "start": 3,
+          "username": "Li__u_u_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976769391800074403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976238296222339530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Li__u_u_4: 自殺未遂したこと、死のうと思ってまたお薬大量に買ったことやリスカして血が噴き出したこと。血が出ると生きてるなあって感じがすること話したら\n👨‍⚕️「今本当にしんどそうだなって思う。また衝動が来てお薬大量に飲んじゃうかもしれない。でも、本当は、生きた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1976769391800074403",
+        "created_at": "2025-10-10T21:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976769391800074403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769004036420943872",
+              "start": 3,
+              "username": "Li__u_u_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976769391800074403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976238296222339530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Li__u_u_4: 自殺未遂したこと、死のうと思ってまたお薬大量に買ったことやリスカして血が噴き出したこと。血が出ると生きてるなあって感じがすること話したら\n👨‍⚕️「今本当にしんどそうだなって思う。また衝動が来てお薬大量に飲んじゃうかもしれない。でも、本当は、生きた…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769004036420943872",
+        "conversation_id": "1976238296222339530",
+        "created_at": "2025-10-09T10:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976238296222339530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976238296222339530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 34623,
+          "like_count": 1403,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "自殺未遂したこと、死のうと思ってまたお薬大量に買ったことやリスカして血が噴き出したこと。血が出ると生きてるなあって感じがすること話したら\n👨‍⚕️「今本当にしんどそうだなって思う。また衝動が来てお薬大量に飲んじゃうかもしれない。でも、本当は、生きたいんですね」\n本心を突かれた気がする。→"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1342
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T14:13:37.000Z",
+        "description": "21歳大学生 ￤精神科通院中◌ ｡˚✩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/_n_n_4/n/nac89…",
+                "end": 23,
+                "expanded_url": "https://note.com/_n_n_4/n/nac895cd91c29?sub_rt=share_pw",
+                "start": 0,
+                "url": "https://t.co/asvbCcCkZU"
+              }
+            ]
+          }
+        },
+        "id": "1769004036420943872",
+        "name": "莉亜",
+        "pinned_tweet_id": "1965742368512213063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769004383226978304/KBHUTEB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 461,
+          "like_count": 464,
+          "listed_count": 10,
+          "media_count": 216,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/asvbCcCkZU",
+        "username": "Li__u_u_4",
+        "verified": false
+      }
+    ]
+  }
+}

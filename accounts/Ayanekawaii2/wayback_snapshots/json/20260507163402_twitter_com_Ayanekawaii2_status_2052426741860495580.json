@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2052307220294189471",
+    "created_at": "2026-05-07T16:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052426741860495580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044820163493523457",
+          "start": 0,
+          "username": "wenwen91732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052426741860495580",
+    "in_reply_to_user_id": "2044820163493523457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052307220294189471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenwen91732 是这样的 感觉很多人都减肥减魔怔了 我朋友圈还有之前的同学马上高考了还打这个针"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2052307220294189471",
+        "created_at": "2026-05-07T16:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052426741860495580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044820163493523457",
+              "start": 0,
+              "username": "wenwen91732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426741860495580",
+        "in_reply_to_user_id": "2044820163493523457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052307220294189471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenwen91732 是这样的 感觉很多人都减肥减魔怔了 我朋友圈还有之前的同学马上高考了还打这个针"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044820163493523457",
+        "conversation_id": "2052307220294189471",
+        "created_at": "2026-05-07T08:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052307220294189471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052307220294189471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10317,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想减肥的姐妹别碰减肥针好吗，我身边有用玛仕度肽也有用替西的，这个东西原本是给糖尿病病人减肥用的，如果你是糖尿病病人，你去医院买甚至可以刷医保，你如果是大基数180斤200来斤也就算了，小基数减肥真的不要用，这个针你打完吃不下饭其实还是节食减肥，副作用掉头发可能一年半年都养不回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 192,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2293
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:48:36.000Z",
+        "description": "发点碎碎念",
+        "id": "2044820163493523457",
+        "name": "悠栗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050634409079185408/_6DbSMWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 41,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 133
+        },
+        "username": "wenwen91732",
+        "verified": false
+      }
+    ]
+  }
+}

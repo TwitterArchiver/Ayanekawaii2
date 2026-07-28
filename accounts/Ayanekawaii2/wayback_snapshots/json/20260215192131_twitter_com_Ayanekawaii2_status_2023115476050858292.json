@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2023114176085045502",
+    "created_at": "2026-02-15T19:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023115476050858292"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023115476050858292",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023114176085045502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧其实这个事想过很多次 今天刷到因为画师拒稿的模板而不安的帖子我就感觉这些约稿的人都好累啊画师也好虚伪呀钱不够就不够呗还要费尽心思想一堆理由约稿的人心里也是没点b数给的钱够多肯定会接啊还因为放置模板回复什么的而不安真正原因是什么自己不清楚么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2023114176085045502",
+        "created_at": "2026-02-15T19:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023115476050858292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023115476050858292",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023114176085045502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧其实这个事想过很多次 今天刷到因为画师拒稿的模板而不安的帖子我就感觉这些约稿的人都好累啊画师也好虚伪呀钱不够就不够呗还要费尽心思想一堆理由约稿的人心里也是没点b数给的钱够多肯定会接啊还因为放置模板回复什么的而不安真正原因是什么自己不清楚么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2023114176085045502",
+        "created_at": "2026-02-15T19:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023114176085045502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023114176085045502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的劝自己不管是交朋友还是谈恋爱都不要再那么舔了清醒的时候能认识到自己不是舔的程度不够而是人家根本不需要我这个人和我做的事但是真正相处的时候又一直在怀疑是不是我做的还不够好不让对方满意但是我的真心真的是别人需要的吗说不定别人就喜欢虚伪呢我这种真心对他们来说反而是直来直去没情商"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1568
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

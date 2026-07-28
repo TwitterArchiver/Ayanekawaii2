@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2023121158443602330",
+    "created_at": "2026-02-15T19:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023121158443602330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023121158443602330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正常人不想和别人打游戏：假装说自己要睡了/累了/不想打了→开隐身继续玩→被发现了但是觉得这很正常于是装看不见→下次继续心照不宣的一起玩 别人不想和我一起打游戏但是被我发现开隐身继续玩的话我就会很伤心一直思考自己是哪里做的不好惹别人不高兴了其实人家可能只是想自己玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2023121158443602330",
+        "created_at": "2026-02-15T19:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023121158443602330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023121158443602330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正常人不想和别人打游戏：假装说自己要睡了/累了/不想打了→开隐身继续玩→被发现了但是觉得这很正常于是装看不见→下次继续心照不宣的一起玩 别人不想和我一起打游戏但是被我发现开隐身继续玩的话我就会很伤心一直思考自己是哪里做的不好惹别人不高兴了其实人家可能只是想自己玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1572
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

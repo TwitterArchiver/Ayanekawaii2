@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2050174136392310858",
+    "created_at": "2026-05-02T06:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050461169111212278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1468463771006156800",
+          "start": 0,
+          "username": "oxojb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050461169111212278",
+    "in_reply_to_user_id": "1468463771006156800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050443774774632682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxojb 是这样的 两个半小时才有药效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2050174136392310858",
+        "created_at": "2026-05-02T06:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050461169111212278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1468463771006156800",
+              "start": 0,
+              "username": "oxojb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050461169111212278",
+        "in_reply_to_user_id": "1468463771006156800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050443774774632682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxojb 是这样的 两个半小时才有药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468463771006156800",
+        "conversation_id": "2050174136392310858",
+        "created_at": "2026-05-02T05:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050443774774632682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050443774774632682",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050174136392310858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 这个上头好慢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要 🗝️@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 188,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 2239
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T06:13:54.000Z",
+        "description": "🇯🇵ok！其他我不知道，无门槛不线下。",
+        "id": "1468463771006156800",
+        "name": "小亮笔",
+        "pinned_tweet_id": "2009384635956940948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039603463596998656/dhGWbvs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 61,
+          "like_count": 822,
+          "listed_count": 15,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "oxojb",
+        "verified": false
+      }
+    ]
+  }
+}

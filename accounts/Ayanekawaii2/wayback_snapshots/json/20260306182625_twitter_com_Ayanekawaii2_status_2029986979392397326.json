@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2029986979392397326",
+    "created_at": "2026-03-06T18:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T19:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029986979392397326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029986979392397326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我再吃这个普瑞巴林就是傻逼\n吃了16t绿普 药效除了头晕全身抖眼睛看不清浑身无力以外有0个精神药效\n我吃这个傻逼要是自己找罪受吗 一想到明天还有可能摔倒我就想死了 胳膊被摔的好疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2029986979392397326",
+        "created_at": "2026-03-06T18:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T19:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029986979392397326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029986979392397326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再吃这个普瑞巴林就是傻逼\n吃了16t绿普 药效除了头晕全身抖眼睛看不清浑身无力以外有0个精神药效\n我吃这个傻逼要是自己找罪受吗 一想到明天还有可能摔倒我就想死了 胳膊被摔的好疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 110,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1655
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

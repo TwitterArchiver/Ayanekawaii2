@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857479015143190530"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1857479021631779153",
+    "created_at": "2024-11-15T17:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T18:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857479021631779153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hamDsnUXEB",
+          "end": 27,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1857479021631779153/photo/1",
+          "media_key": "3_1857479015143190530",
+          "start": 4,
+          "url": "https://t.co/hamDsnUXEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857479021631779153",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😁✌️ https://t.co/hamDsnUXEB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857479021631779153].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857479021631779153",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857479021631779153"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_1857479015143190530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GccXUqtaMAIBFSj.jpg",
+        "width": 473
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 108,
+          "like_count": 215,
+          "listed_count": 0,
+          "tweet_count": 988
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

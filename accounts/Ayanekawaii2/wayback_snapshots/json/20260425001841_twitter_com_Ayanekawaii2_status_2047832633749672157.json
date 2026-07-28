@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047832575952273408",
+        "3_2047832575914475520",
+        "3_2047832575901917184"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047832633749672157",
+    "created_at": "2026-04-25T00:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047832633749672157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SpLBc2jQ04",
+          "end": 110,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+          "media_key": "13_2047832575952273408",
+          "start": 87,
+          "url": "https://t.co/SpLBc2jQ04"
+        },
+        {
+          "display_url": "pic.x.com/SpLBc2jQ04",
+          "end": 110,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+          "media_key": "3_2047832575914475520",
+          "start": 87,
+          "url": "https://t.co/SpLBc2jQ04"
+        },
+        {
+          "display_url": "pic.x.com/SpLBc2jQ04",
+          "end": 110,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+          "media_key": "3_2047832575901917184",
+          "start": 87,
+          "url": "https://t.co/SpLBc2jQ04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047832633749672157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天\n晚上去吃了东北狗开的店 特别难吃 吃完以后又去吃了一个正新鸡排 本来准备只点一个鸡排的但是竟然有低消1000 所以又点了几个炸蔬菜 然后现在应该是吃这个上火了嗓子好痛 https://t.co/SpLBc2jQ04"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5833,
+        "height": 1280,
+        "media_key": "13_2047832575952273408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047832575952273408/img/TXdI863gWSqq-Udo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047832575952273408/vid/avc1/320x568/KS2P0eXBYk7KTBfA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047832575952273408/vid/avc1/480x852/Lc7WKfRU3qmujuzq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047832575952273408/vid/avc1/720x1280/7vL5F4ha0liekakD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047832575952273408/pl/0Lul0dJ5mOsRTi1M.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047832575914475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtc4L7bAAAlAg_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047832575901917184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtc4L4bYAA8_hv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047832575952273408",
+            "3_2047832575914475520",
+            "3_2047832575901917184"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047832633749672157",
+        "created_at": "2026-04-25T00:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047832633749672157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpLBc2jQ04",
+              "end": 110,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+              "media_key": "13_2047832575952273408",
+              "start": 87,
+              "url": "https://t.co/SpLBc2jQ04"
+            },
+            {
+              "display_url": "pic.x.com/SpLBc2jQ04",
+              "end": 110,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+              "media_key": "3_2047832575914475520",
+              "start": 87,
+              "url": "https://t.co/SpLBc2jQ04"
+            },
+            {
+              "display_url": "pic.x.com/SpLBc2jQ04",
+              "end": 110,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2047832633749672157/video/1",
+              "media_key": "3_2047832575901917184",
+              "start": 87,
+              "url": "https://t.co/SpLBc2jQ04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047832633749672157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天\n晚上去吃了东北狗开的店 特别难吃 吃完以后又去吃了一个正新鸡排 本来准备只点一个鸡排的但是竟然有低消1000 所以又点了几个炸蔬菜 然后现在应该是吃这个上火了嗓子好痛 https://t.co/SpLBc2jQ04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 148,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2133
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

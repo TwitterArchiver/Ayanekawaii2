@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068226480736493568"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2067997162114621440",
+    "created_at": "2026-06-20T06:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068226484729528625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545010361665191936",
+          "start": 0,
+          "username": "channelkurosu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSQGGpvLyA",
+          "end": 51,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2068226484729528625/photo/1",
+          "media_key": "3_2068226480736493568",
+          "start": 28,
+          "url": "https://t.co/PSQGGpvLyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226484729528625",
+    "in_reply_to_user_id": "1545010361665191936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068006901389095154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@channelkurosu 可以可以 已严肃询问ai https://t.co/PSQGGpvLyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068226480736493568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPRBrta4AA4Y3S.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068226480736493568"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2067997162114621440",
+        "created_at": "2026-06-20T06:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068226484729528625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545010361665191936",
+              "start": 0,
+              "username": "channelkurosu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSQGGpvLyA",
+              "end": 51,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2068226484729528625/photo/1",
+              "media_key": "3_2068226480736493568",
+              "start": 28,
+              "url": "https://t.co/PSQGGpvLyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226484729528625",
+        "in_reply_to_user_id": "1545010361665191936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068006901389095154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@channelkurosu 可以可以 已严肃询问ai https://t.co/PSQGGpvLyA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545010361665191936",
+        "conversation_id": "2067997162114621440",
+        "created_at": "2026-06-19T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068006901389095154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068006901389095154",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067997914199364053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 ai翻译一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 266,
+          "like_count": 619,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T11:43:16.000Z",
+        "description": "",
+        "id": "1545010361665191936",
+        "location": "群青学園",
+        "name": "Aulelius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029332445250895872/xY2NOU6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 75,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "channelkurosu",
+        "verified": false
+      }
+    ]
+  }
+}

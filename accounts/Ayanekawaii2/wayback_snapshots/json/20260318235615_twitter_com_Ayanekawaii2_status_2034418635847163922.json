@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034418623566184448"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2034360267916935262",
+    "created_at": "2026-03-18T23:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T00:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034418635847163922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9ufoFaaH8",
+          "end": 76,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2034418635847163922/photo/1",
+          "media_key": "3_2034418623566184448",
+          "start": 53,
+          "url": "https://t.co/t9ufoFaaH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034418635847163922",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034360267916935262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像是女同时候。应该是因为有点前言不搭后语所以没发但是又写了一些以后忘保存了也懒的再写一遍了反正又没人看 https://t.co/t9ufoFaaH8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034418635847163922].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034418635847163922",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034418635847163922"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2034418623566184448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDu09ZYaAAA11L4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2034360267916935262",
+        "created_at": "2026-03-18T20:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034360267916935262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034360267916935262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈的想发东西忘保存了这个傻逼安眠药气死我了老子要睡觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2034275418581455157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1742
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

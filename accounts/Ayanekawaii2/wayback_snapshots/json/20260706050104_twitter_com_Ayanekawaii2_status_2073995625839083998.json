@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2073962837429587970",
+    "created_at": "2026-07-06T05:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073995625839083998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886047359618129920",
+          "start": 0,
+          "username": "RatsuroAko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073995625839083998",
+    "in_reply_to_user_id": "1886047359618129920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073962837429587970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RatsuroAko 男的叫的跟牛一样女的叫的好凄惨 关声音可食"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073962837429587970].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073962837429587970",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073962837429587970"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2073962837429587970",
+        "created_at": "2026-07-06T05:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995625839083998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886047359618129920",
+              "start": 0,
+              "username": "RatsuroAko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073995625839083998",
+        "in_reply_to_user_id": "1886047359618129920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073962837429587970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RatsuroAko 男的叫的跟牛一样女的叫的好凄惨 关声音可食"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/戒o戒割养生中丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 282,
+          "like_count": 885,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 2692
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T13:41:56.000Z",
+        "description": "少妇的天堂，美女的救星",
+        "id": "1886047359618129920",
+        "name": "ブルーベリー",
+        "pinned_tweet_id": "2055838577410670723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071161923471826944/vBwJELg-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 72,
+          "like_count": 10588,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "RatsuroAko",
+        "verified": false
+      }
+    ]
+  }
+}

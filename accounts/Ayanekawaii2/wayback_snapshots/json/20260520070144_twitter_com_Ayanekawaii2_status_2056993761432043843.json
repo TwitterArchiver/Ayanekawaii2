@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2056993761432043843",
+    "created_at": "2026-05-20T07:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056993761432043843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056993761432043843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从什么时候开始写作文变成了一件我很害怕的事情😇上周上完写作课晚上做梦就梦到我在高考的考场里写作文但是一个字都写不出来。刚才又上写作课然后我写着写着就红温了，作文交上去的那一刻瞬间感觉体温降低了好几度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2056993761432043843",
+        "created_at": "2026-05-20T07:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056993761432043843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056993761432043843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从什么时候开始写作文变成了一件我很害怕的事情😇上周上完写作课晚上做梦就梦到我在高考的考场里写作文但是一个字都写不出来。刚才又上写作课然后我写着写着就红温了，作文交上去的那一刻瞬间感觉体温降低了好几度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 192,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2370
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

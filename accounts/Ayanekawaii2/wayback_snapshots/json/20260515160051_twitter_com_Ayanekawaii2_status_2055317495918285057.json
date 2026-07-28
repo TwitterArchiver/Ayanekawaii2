@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2055310415039787329",
+    "created_at": "2026-05-15T16:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055317495918285057"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055317495918285057",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055310415039787329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不和大公司的正社员签合同正常交中介费反而为了让你挣钱要和你签凭什么呢我请问。。而且明面上不收中介费实际上也还得抽成 不光抽了成还得欠人情 一想到这些破事就烦 我差那几万的中介费吗 一想到为了这点钱要一直维持这种表面上的关系就很难受啊 到时候还要来找我哭穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2055310415039787329",
+        "created_at": "2026-05-15T16:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055317495918285057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055317495918285057",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055310415039787329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不和大公司的正社员签合同正常交中介费反而为了让你挣钱要和你签凭什么呢我请问。。而且明面上不收中介费实际上也还得抽成 不光抽了成还得欠人情 一想到这些破事就烦 我差那几万的中介费吗 一想到为了这点钱要一直维持这种表面上的关系就很难受啊 到时候还要来找我哭穷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2055310415039787329",
+        "created_at": "2026-05-15T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055310415039787329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055310415039787329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死我了你们没钱和我有什么关系是我不让你们家长给你们钱逼着你们去打工的？自己选的路还在这抱怨 你们回国也不是上不起个普通大学吧也没人逼着你们非得来日本啊 最烦哭穷的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 189,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2337
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

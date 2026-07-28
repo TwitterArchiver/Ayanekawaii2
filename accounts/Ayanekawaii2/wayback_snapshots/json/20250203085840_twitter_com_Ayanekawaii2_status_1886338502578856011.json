@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1886338502578856011",
+    "created_at": "2025-02-03T08:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T09:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886338502578856011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/londonshoegaze…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/londonshoegazer/status/1885720638058639670",
+          "start": 4,
+          "url": "https://t.co/KagByfuFrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886338502578856011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885720638058639670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对，对 https://t.co/KagByfuFrP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1886338502578856011",
+        "created_at": "2025-02-03T08:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886338502578856011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/londonshoegaze…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/londonshoegazer/status/1885720638058639670",
+              "start": 4,
+              "url": "https://t.co/KagByfuFrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886338502578856011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885720638058639670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对，对 https://t.co/KagByfuFrP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618885906127261701",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1885720638058639670",
+        "created_at": "2025-02-01T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885720638058639670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885720638058639670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 46455,
+          "like_count": 661,
+          "quote_count": 27,
+          "reply_count": 66,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "额你们看mygo的男的真的很像看小排球的女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/欢迎互fo/不加墙内联系方式/低浮上",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 103,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1150
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T08:17:40.000Z",
+        "description": "おー おー OPQRST UVカット\n不键政",
+        "id": "1618885906127261701",
+        "location": "Bitter Sweet Symphony ",
+        "name": "波兰首都是上海",
+        "pinned_tweet_id": "1873314553939026248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884166646094520322/fHctcZIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1279,
+          "like_count": 39669,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 5766
+        },
+        "username": "LondonShoegazer",
+        "verified": false
+      }
+    ]
+  }
+}

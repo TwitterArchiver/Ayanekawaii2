@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005346615331373056"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2005346623560589631",
+    "created_at": "2025-12-28T18:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T19:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005346623560589631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rLHFswQAWz",
+          "end": 80,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2005346623560589631/photo/1",
+          "media_key": "3_2005346615331373056",
+          "start": 57,
+          "url": "https://t.co/rLHFswQAWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005346623560589631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才拍了一张手里拿着药的照片然后我发现我的指甲太长了然后我又想到了最近打游戏好像变菜了一点的原因是好久没剪指甲了 https://t.co/rLHFswQAWz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005346623560589631].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005346623560589631",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005346623560589631"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005346615331373056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RsHzJbwAAqCCH.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 96,
+          "like_count": 224,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1495
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

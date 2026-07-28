@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068936018875891712"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2068714094333735240",
+    "created_at": "2026-06-22T05:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068936023296680323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXUridQFMR",
+          "end": 65,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2068936023296680323/photo/1",
+          "media_key": "3_2068936018875891712",
+          "start": 42,
+          "url": "https://t.co/lXUridQFMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068936023296680323",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068894973525983608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot 可以可以 我都没拍到这么好看的东京塔 前一晚它是绿色的🫪 https://t.co/lXUridQFMR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068936018875891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZWWPQbwAAQ7Ro.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068894969620987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYxA23aAAA4bWy.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068936018875891712"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2068714094333735240",
+        "created_at": "2026-06-22T05:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068936023296680323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXUridQFMR",
+              "end": 65,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2068936023296680323/photo/1",
+              "media_key": "3_2068936018875891712",
+              "start": 42,
+              "url": "https://t.co/lXUridQFMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068936023296680323",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068894973525983608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot 可以可以 我都没拍到这么好看的东京塔 前一晚它是绿色的🫪 https://t.co/lXUridQFMR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068894969620987904"
+          ]
+        },
+        "author_id": "1675081139684294656",
+        "conversation_id": "2068714094333735240",
+        "created_at": "2026-06-22T03:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068894973525983608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQrTa0dTXs",
+              "end": 47,
+              "expanded_url": "https://x.com/phil0v0_bot/status/2068894973525983608/photo/1",
+              "media_key": "3_2068894969620987904",
+              "start": 24,
+              "url": "https://t.co/kQrTa0dTXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068894973525983608",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714094333735240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 妈呀我也在庆应考的 https://t.co/kQrTa0dTXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "一定等到那一天",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306967619645440/cxqrmLxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 269,
+          "like_count": 633,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 2651
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "ppppp",
+        "pinned_tweet_id": "2000172277049245951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056967484407001088/Mr7xYhEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 392,
+          "like_count": 5090,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "phil0v0_bot",
+        "verified": false
+      }
+    ]
+  }
+}

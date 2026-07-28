@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050187940056453120"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2050187944217157994",
+    "created_at": "2026-05-01T12:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050187944217157994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8fTMGAMrl",
+          "end": 43,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2050187944217157994/photo/1",
+          "media_key": "3_2050187940056453120",
+          "start": 20,
+          "url": "https://t.co/i8fTMGAMrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050187944217157994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草这啥呀太吓人了我妈怎么知道我od了 https://t.co/i8fTMGAMrl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2050187940056453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO7EbHa0AA4Trm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050187940056453120"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2050187944217157994",
+        "created_at": "2026-05-01T12:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050187944217157994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8fTMGAMrl",
+              "end": 43,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2050187944217157994/photo/1",
+              "media_key": "3_2050187940056453120",
+              "start": 20,
+              "url": "https://t.co/i8fTMGAMrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050187944217157994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草这啥呀太吓人了我妈怎么知道我od了 https://t.co/i8fTMGAMrl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 视奸随意 我开心全世界第一重要 🗝️@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 186,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2232
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

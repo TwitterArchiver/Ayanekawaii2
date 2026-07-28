@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059586921849147392"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059586927008022923",
+    "created_at": "2026-05-27T10:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059586927008022923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3tHoJ6rFF",
+          "end": 173,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2059586927008022923/photo/1",
+          "media_key": "3_2059586921849147392",
+          "start": 150,
+          "url": "https://t.co/j3tHoJ6rFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059586927008022923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“麦”是一个很美好的字.它能让人感受到明亮.温暖与丰收“麦”字.看似简单.却承载着中华文明从远古走来的丰富信息.它不仅是一种重要的粮食作物.更在历史长河中经历了字义演变.文化融合与家族传承.“麦”字不仅是一种作物的名称.它更是一部微缩的文明史.记录了物种的传播.技术的革新.汉字的演变以及文化的积淀 https://t.co/j3tHoJ6rFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059586921849147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUfZKzb0AAubtb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059586921849147392"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059586927008022923",
+        "created_at": "2026-05-27T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059586927008022923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3tHoJ6rFF",
+              "end": 173,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2059586927008022923/photo/1",
+              "media_key": "3_2059586921849147392",
+              "start": 150,
+              "url": "https://t.co/j3tHoJ6rFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059586927008022923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“麦”是一个很美好的字.它能让人感受到明亮.温暖与丰收“麦”字.看似简单.却承载着中华文明从远古走来的丰富信息.它不仅是一种重要的粮食作物.更在历史长河中经历了字义演变.文化融合与家族传承.“麦”字不仅是一种作物的名称.它更是一部微缩的文明史.记录了物种的传播.技术的革新.汉字的演变以及文化的积淀 https://t.co/j3tHoJ6rFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 211,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2437
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

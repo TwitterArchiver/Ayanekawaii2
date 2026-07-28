@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1861072172166590801",
+    "created_at": "2024-11-25T15:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T16:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861072172166590801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1n_fhtagn/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/1n_fhtagn/status/1860990185019957656",
+          "start": 23,
+          "url": "https://t.co/tSL6X9rILu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861072172166590801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860990185019957656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有生活我只是在我的小家里od完对着屏幕哭 https://t.co/tSL6X9rILu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1861072172166590801",
+        "created_at": "2024-11-25T15:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T16:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861072172166590801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1n_fhtagn/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/1n_fhtagn/status/1860990185019957656",
+              "start": 23,
+              "url": "https://t.co/tSL6X9rILu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861072172166590801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860990185019957656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有生活我只是在我的小家里od完对着屏幕哭 https://t.co/tSL6X9rILu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832834649493762048",
+        "conversation_id": "1860990185019957656",
+        "created_at": "2024-11-25T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860990185019957656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1860983516311531616",
+              "start": 23,
+              "url": "https://t.co/0LPC12y3Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860990185019957656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860983516311531616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有生活我只是在我的小家里od完对着屏幕哭 https://t.co/0LPC12y3Kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 108,
+          "like_count": 235,
+          "listed_count": 0,
+          "tweet_count": 1075
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "过去的我让未来的你失望了吗。",
+        "id": "1832834649493762048",
+        "location": "荒野",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1860499748920394060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836095193231290368/FGX84gmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1059,
+          "like_count": 12290,
+          "listed_count": 2,
+          "tweet_count": 3697
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

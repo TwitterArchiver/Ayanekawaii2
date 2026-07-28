@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982195844943130624"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1982195856150548964",
+    "created_at": "2025-10-25T21:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T22:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982195856150548964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wTjvesVdt",
+          "end": 56,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/1982195856150548964/photo/1",
+          "media_key": "3_1982195844943130624",
+          "start": 33,
+          "url": "https://t.co/8wTjvesVdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982195856150548964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一版pr80分三次吃，每次吃都有这么强烈的感觉也是。。。很好了？ https://t.co/8wTjvesVdt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982195856150548964].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982195856150548964",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982195856150548964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982195844943130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Isnm0XMAAhGFa.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中…你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1386
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

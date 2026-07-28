@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2062158980496142598",
+    "created_at": "2026-06-03T13:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062166324164677751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1645464160099266561",
+          "start": 0,
+          "username": "mio_chan_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062166324164677751",
+    "in_reply_to_user_id": "1645464160099266561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062166173970739513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_chan_qwq 行吧给老资历跪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2062158980496142598",
+        "created_at": "2026-06-03T13:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062166324164677751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1645464160099266561",
+              "start": 0,
+              "username": "mio_chan_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062166324164677751",
+        "in_reply_to_user_id": "1645464160099266561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062166173970739513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_chan_qwq 行吧给老资历跪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645464160099266561",
+        "conversation_id": "2062158980496142598",
+        "created_at": "2026-06-03T13:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062166173970739513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062166173970739513",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062165840078991412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 而且donki本来就是很便宜的地方啊。你觉得你比我懂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 228,
+          "like_count": 425,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2499
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T16:30:11.000Z",
+        "description": "主要发碎碎念，想到啥就发啥。\n早大4年/会六个语言，单板滑雪，高尔夫，花剑。喜欢可爱的东西讨厌入门难度低的东西/威权，国家社会主义者\n大号只发日语内容，不经常发帖@Carolus15071678\nAuDHD/双相\n喜欢我的最好方式是给我钱。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "Carolus15071678"
+              }
+            ]
+          }
+        },
+        "id": "1645464160099266561",
+        "name": "Jan Žižka",
+        "pinned_tweet_id": "2056037738663804929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061148962481147904/k4AWMZWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 100,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 419
+        },
+        "username": "mio_chan_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

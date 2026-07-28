@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1968492187974258968",
+    "created_at": "2025-09-18T17:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T18:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968732479755354454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968732479755354454",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968492187974258968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 希望我的阳痿快点好起来 我有喜欢的小女孩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1968492187974258968",
+        "created_at": "2025-09-18T17:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968732479755354454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968732479755354454",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968492187974258968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 希望我的阳痿快点好起来 我有喜欢的小女孩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1968492187974258968",
+        "created_at": "2025-09-18T01:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968492187974258968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968492187974258968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35301,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "希望我的阳痿快点好起来 我有喜欢的小女孩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 97,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1283
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "那些打不死我的一直在打我 | 但是打钱可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960930661063372800/NYlRp0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 122,
+          "like_count": 4114,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

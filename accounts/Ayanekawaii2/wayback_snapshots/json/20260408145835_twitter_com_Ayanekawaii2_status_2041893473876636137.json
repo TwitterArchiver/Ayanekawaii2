@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041893464074547203",
+        "3_2041893464061964291",
+        "3_2041893464074547206"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2041893473876636137",
+    "created_at": "2026-04-08T14:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041893473876636137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 49,
+          "id": "1818573054605508610",
+          "start": 34,
+          "username": "ZhizhiziOsward"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGIHAEWoPH",
+          "end": 73,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+          "media_key": "3_2041893464074547203",
+          "start": 50,
+          "url": "https://t.co/xGIHAEWoPH"
+        },
+        {
+          "display_url": "pic.x.com/xGIHAEWoPH",
+          "end": 73,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+          "media_key": "3_2041893464061964291",
+          "start": 50,
+          "url": "https://t.co/xGIHAEWoPH"
+        },
+        {
+          "display_url": "pic.x.com/xGIHAEWoPH",
+          "end": 73,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+          "media_key": "3_2041893464074547206",
+          "start": 50,
+          "url": "https://t.co/xGIHAEWoPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041893473876636137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝你大卖哈 多被操几次屁眼多嗦几次老男人的鸡巴争取早点卖够我的退票费@ZhizhiziOsward https://t.co/xGIHAEWoPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2041893464074547203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZDSYNa8AM3oby.jpg",
+        "width": 1179
+      },
+      {
+        "height": 686,
+        "media_key": "3_2041893464061964291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZDSYKa8AMQ4v3.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2041893464074547206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZDSYNa8AYotUA.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041893464074547203",
+            "3_2041893464061964291",
+            "3_2041893464074547206"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2041893473876636137",
+        "created_at": "2026-04-08T14:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041893473876636137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1818573054605508610",
+              "start": 34,
+              "username": "ZhizhiziOsward"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGIHAEWoPH",
+              "end": 73,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+              "media_key": "3_2041893464074547203",
+              "start": 50,
+              "url": "https://t.co/xGIHAEWoPH"
+            },
+            {
+              "display_url": "pic.x.com/xGIHAEWoPH",
+              "end": 73,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+              "media_key": "3_2041893464061964291",
+              "start": 50,
+              "url": "https://t.co/xGIHAEWoPH"
+            },
+            {
+              "display_url": "pic.x.com/xGIHAEWoPH",
+              "end": 73,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041893473876636137/photo/1",
+              "media_key": "3_2041893464074547206",
+              "start": 50,
+              "url": "https://t.co/xGIHAEWoPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041893473876636137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝你大卖哈 多被操几次屁眼多嗦几次老男人的鸡巴争取早点卖够我的退票费@ZhizhiziOsward https://t.co/xGIHAEWoPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 130,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1951
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T09:03:06.000Z",
+        "description": "前世@Zhizhizi_Osward/我会一直恨自己的 下辈子也要在一起@Gr13f_of_Xhan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Zhizhizi_Osward"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Gr13f_of_Xhan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/cp6FlPKWMT"
+              }
+            ]
+          }
+        },
+        "id": "1818573054605508610",
+        "location": "花有一万种开法 祝我们方寸不乱",
+        "name": "失眠电子猫会遇到仿生思诺思吗",
+        "pinned_tweet_id": "1849247940143116374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858818062566445056/PlEV-01p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 119,
+          "like_count": 697,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/cp6FlPKWMT",
+        "username": "ZhizhiziOsward",
+        "verified": false
+      }
+    ]
+  }
+}

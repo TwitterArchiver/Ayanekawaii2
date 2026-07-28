@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032831392103673860",
+        "3_2032831392086925312",
+        "3_2032831392128839686",
+        "3_2032831392112107520"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032831406318170509",
+    "created_at": "2026-03-14T14:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032831406318170509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nB7EtLHX8C",
+          "end": 54,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2032831406318170509/photo/1",
+          "media_key": "3_2032831392103673860",
+          "start": 31,
+          "url": "https://t.co/nB7EtLHX8C"
+        },
+        {
+          "display_url": "pic.x.com/nB7EtLHX8C",
+          "end": 54,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2032831406318170509/photo/1",
+          "media_key": "3_2032831392086925312",
+          "start": 31,
+          "url": "https://t.co/nB7EtLHX8C"
+        },
+        {
+          "display_url": "pic.x.com/nB7EtLHX8C",
+          "end": 54,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2032831406318170509/photo/1",
+          "media_key": "3_2032831392128839686",
+          "start": 31,
+          "url": "https://t.co/nB7EtLHX8C"
+        },
+        {
+          "display_url": "pic.x.com/nB7EtLHX8C",
+          "end": 54,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2032831406318170509/photo/1",
+          "media_key": "3_2032831392112107520",
+          "start": 31,
+          "url": "https://t.co/nB7EtLHX8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032831406318170509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经玩这个女同小游戏玩到精神病犯了。。。好难受我不喜欢这集 https://t.co/nB7EtLHX8C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032831406318170509].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032831406318170509",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032831406318170509"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032831392103673860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYRYXaaMAQ29SI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032831392086925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYRYXWaoAAK6KB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032831392128839686",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYRYXgaMAYN8UM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032831392112107520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYRYXca4AAAyN-.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 112,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1703
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

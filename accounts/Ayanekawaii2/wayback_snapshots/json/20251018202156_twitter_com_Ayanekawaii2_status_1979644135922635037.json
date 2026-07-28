@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1979191505312190955",
+    "created_at": "2025-10-18T20:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979644135922635037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2929744308",
+          "start": 0,
+          "username": "mitsui_net"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979644135922635037",
+    "in_reply_to_user_id": "2929744308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979191505312190955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsui_net 夢展望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1979191505312190955",
+        "created_at": "2025-10-18T20:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979644135922635037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2929744308",
+              "start": 0,
+              "username": "mitsui_net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979644135922635037",
+        "in_reply_to_user_id": "2929744308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979191505312190955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsui_net 夢展望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2929744308",
+        "conversation_id": "1979191505312190955",
+        "created_at": "2025-10-17T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979191505312190955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/study_steadily…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/study_steadily_/status/1978859306599457120",
+              "start": 28,
+              "url": "https://t.co/UTnM4vX07c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979191505312190955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 747643,
+          "like_count": 7559,
+          "quote_count": 174,
+          "reply_count": 41,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978859306599457120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こんなデカいサイズの地雷服って一体何処に売ってるんだ？ https://t.co/UTnM4vX07c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "单机中……你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手qwq",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1364
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-14T13:03:14.000Z",
+        "description": "インターネット老人会",
+        "id": "2929744308",
+        "name": "三井さん",
+        "pinned_tweet_id": "1896564843446202497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937779768767991808/_mqusEZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90802,
+          "following_count": 97633,
+          "like_count": 377116,
+          "listed_count": 305,
+          "media_count": 187630,
+          "tweet_count": 1776676
+        },
+        "username": "mitsui_net",
+        "verified": false
+      }
+    ]
+  }
+}

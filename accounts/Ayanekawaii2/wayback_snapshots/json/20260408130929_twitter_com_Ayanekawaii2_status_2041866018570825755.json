@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041866012577107968",
+        "3_2041866012551999488"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2041866018570825755",
+    "created_at": "2026-04-08T13:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041866018570825755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mtz4z7k163",
+          "end": 38,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041866018570825755/photo/1",
+          "media_key": "3_2041866012577107968",
+          "start": 15,
+          "url": "https://t.co/Mtz4z7k163"
+        },
+        {
+          "display_url": "pic.x.com/Mtz4z7k163",
+          "end": 38,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2041866018570825755/photo/1",
+          "media_key": "3_2041866012551999488",
+          "start": 15,
+          "url": "https://t.co/Mtz4z7k163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041866018570825755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要品鉴一番小黄书冷静一下 https://t.co/Mtz4z7k163"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041866012577107968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYqUfaaEAArSow.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041866012551999488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYqUfUa8AAWXDr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041866012577107968",
+            "3_2041866012551999488"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2041866018570825755",
+        "created_at": "2026-04-08T13:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041866018570825755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mtz4z7k163",
+              "end": 38,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041866018570825755/photo/1",
+              "media_key": "3_2041866012577107968",
+              "start": 15,
+              "url": "https://t.co/Mtz4z7k163"
+            },
+            {
+              "display_url": "pic.x.com/Mtz4z7k163",
+              "end": 38,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2041866018570825755/photo/1",
+              "media_key": "3_2041866012551999488",
+              "start": 15,
+              "url": "https://t.co/Mtz4z7k163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041866018570825755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要品鉴一番小黄书冷静一下 https://t.co/Mtz4z7k163"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 130,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1950
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

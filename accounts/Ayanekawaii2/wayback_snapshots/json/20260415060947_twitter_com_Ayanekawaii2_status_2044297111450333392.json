@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044297106903678976"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2044297111450333392",
+    "created_at": "2026-04-15T06:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044297111450333392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z2eIGImub0",
+          "end": 30,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2044297111450333392/photo/1",
+          "media_key": "3_2044297106903678976",
+          "start": 7,
+          "url": "https://t.co/z2eIGImub0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044297111450333392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家长拟人时刻 https://t.co/z2eIGImub0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044297106903678976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7NYzhaQAAEnwd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044297106903678976"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2044297111450333392",
+        "created_at": "2026-04-15T06:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044297111450333392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2eIGImub0",
+              "end": 30,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2044297111450333392/photo/1",
+              "media_key": "3_2044297106903678976",
+              "start": 7,
+              "url": "https://t.co/z2eIGImub0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044297111450333392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家长拟人时刻 https://t.co/z2eIGImub0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 137,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2026
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

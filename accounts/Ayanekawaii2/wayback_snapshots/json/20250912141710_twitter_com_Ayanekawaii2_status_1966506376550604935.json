@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1966381579997249675",
+    "created_at": "2025-09-12T14:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966506376550604935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1957760064451932162",
+          "start": 0,
+          "username": "ynlabh"
+        },
+        {
+          "end": 20,
+          "id": "1948779307045978112",
+          "start": 8,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966506376550604935",
+    "in_reply_to_user_id": "1957760064451932162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966429929773687121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynlabh @Wo2luosifen 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1966381579997249675",
+        "created_at": "2025-09-12T14:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966506376550604935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1957760064451932162",
+              "start": 0,
+              "username": "ynlabh"
+            },
+            {
+              "end": 20,
+              "id": "1948779307045978112",
+              "start": 8,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966506376550604935",
+        "in_reply_to_user_id": "1957760064451932162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966429929773687121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynlabh @Wo2luosifen 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957760064451932162",
+        "conversation_id": "1966381579997249675",
+        "created_at": "2025-09-12T09:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966429929773687121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966429929773687121",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3921,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966381579997249675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wo2luosifen 甚至对方不是女的也能硬 只要假发配黑丝🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "低浮上//你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/不登校/日本留学考试备考中/社交苦手TvT",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894804090053632006/7sqMI2Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1277
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T11:02:37.000Z",
+        "description": "私信只回口令",
+        "id": "1957760064451932162",
+        "location": "➕v🚪520  骚扰拉黑",
+        "name": "🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828212878442497/bgxR5BPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 54,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 176
+        },
+        "username": "ynlabh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "话特别特别特别多。介意的可以双取或者屏蔽。我素罗伯特。不礼貌互关。请熟悉一些再找我要互关吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhTsI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "做饭总被烫（恩师真的吗）",
+        "pinned_tweet_id": "1966419446307918085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 200,
+          "like_count": 11788,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/oqtlQVhTsI",
+        "username": "Wo2luosifen",
+        "verified": false
+      }
+    ]
+  }
+}

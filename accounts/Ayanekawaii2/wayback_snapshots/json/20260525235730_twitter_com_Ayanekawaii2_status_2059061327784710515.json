@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2058923502959534273",
+    "created_at": "2026-05-25T23:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059061327784710515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420135001635491840",
+          "start": 0,
+          "username": "ishihara114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059061327784710515",
+    "in_reply_to_user_id": "1420135001635491840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059040542923886682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ishihara114514 是这样的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2058923502959534273",
+        "created_at": "2026-05-25T23:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059061327784710515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420135001635491840",
+              "start": 0,
+              "username": "ishihara114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059061327784710515",
+        "in_reply_to_user_id": "1420135001635491840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059040542923886682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ishihara114514 是这样的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420135001635491840",
+        "conversation_id": "2058923502959534273",
+        "created_at": "2026-05-25T22:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059040542923886682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059040542923886682",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058923502959534273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 挺好的。打基础很重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 205,
+          "like_count": 383,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2404
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T21:32:41.000Z",
+        "description": "半植物人",
+        "id": "1420135001635491840",
+        "location": "東京都世田谷区北沢３丁目",
+        "name": "通りすがりの野獣先輩",
+        "pinned_tweet_id": "1989507673218519504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821976716606107648/661X-nhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 612,
+          "like_count": 4383,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1561
+        },
+        "username": "ishihara114514",
+        "verified": false
+      }
+    ]
+  }
+}

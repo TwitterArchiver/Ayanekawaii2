@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2049074723800449095",
+    "created_at": "2026-04-29T05:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049357851395772632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923206186868043776",
+          "start": 0,
+          "username": "BbFamous51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049357851395772632",
+    "in_reply_to_user_id": "1923206186868043776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049356143458152666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbFamous51 还行吧 日本卖的比国内便宜很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2049074723800449095",
+        "created_at": "2026-04-29T05:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049357851395772632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923206186868043776",
+              "start": 0,
+              "username": "BbFamous51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049357851395772632",
+        "in_reply_to_user_id": "1923206186868043776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049356143458152666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbFamous51 还行吧 日本卖的比国内便宜很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923206186868043776",
+        "conversation_id": "2049074723800449095",
+        "created_at": "2026-04-29T05:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049356143458152666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049356143458152666",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049074723800449095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 这个好贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 172,
+          "like_count": 353,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2180
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T02:37:51.000Z",
+        "description": "如果我富有的话 我愿意拯救所有女孩",
+        "id": "1923206186868043776",
+        "name": "爱翻垃圾吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923206289964007427/1W2-d7Af_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 199
+        },
+        "username": "BbFamous51",
+        "verified": false
+      }
+    ]
+  }
+}

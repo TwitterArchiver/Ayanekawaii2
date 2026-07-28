@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055318963236798464"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055318423459217733",
+    "created_at": "2026-05-15T16:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055318967305245117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DweKd1jb9j",
+          "end": 93,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2055318967305245117/photo/1",
+          "media_key": "3_2055318963236798464",
+          "start": 70,
+          "url": "https://t.co/DweKd1jb9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055318967305245117",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055318423459217733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有菠萝油 第一次吃这个 其实就是里面夹了一片黄油的菠萝包 可能是我吃的太慢了 里面的黄油都化完了 我还以为是那种不太会化的冷冻冰黄油的呢 https://t.co/DweKd1jb9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055318963236798464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX1tR_agAAiBd5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055318416651956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX1NdzbsAAbvNE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055318416626765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX1NdtbUAA5_Cv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055318416614182912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX1NdqbUAA7aet.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055318416630956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX1NdubQAARYsD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055318963236798464"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055318423459217733",
+        "created_at": "2026-05-15T16:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055318967305245117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DweKd1jb9j",
+              "end": 93,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2055318967305245117/photo/1",
+              "media_key": "3_2055318963236798464",
+              "start": 70,
+              "url": "https://t.co/DweKd1jb9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055318967305245117",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055318423459217733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有菠萝油 第一次吃这个 其实就是里面夹了一片黄油的菠萝包 可能是我吃的太慢了 里面的黄油都化完了 我还以为是那种不太会化的冷冻冰黄油的呢 https://t.co/DweKd1jb9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055318416651956224",
+            "3_2055318416626765824",
+            "3_2055318416614182912",
+            "3_2055318416630956032"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055318423459217733",
+        "created_at": "2026-05-15T16:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055318423459217733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbXXnIqT9s",
+              "end": 29,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2055318423459217733/photo/1",
+              "media_key": "3_2055318416651956224",
+              "start": 6,
+              "url": "https://t.co/cbXXnIqT9s"
+            },
+            {
+              "display_url": "pic.x.com/cbXXnIqT9s",
+              "end": 29,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2055318423459217733/photo/1",
+              "media_key": "3_2055318416626765824",
+              "start": 6,
+              "url": "https://t.co/cbXXnIqT9s"
+            },
+            {
+              "display_url": "pic.x.com/cbXXnIqT9s",
+              "end": 29,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2055318423459217733/photo/1",
+              "media_key": "3_2055318416614182912",
+              "start": 6,
+              "url": "https://t.co/cbXXnIqT9s"
+            },
+            {
+              "display_url": "pic.x.com/cbXXnIqT9s",
+              "end": 29,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2055318423459217733/photo/1",
+              "media_key": "3_2055318416630956032",
+              "start": 6,
+              "url": "https://t.co/cbXXnIqT9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055318423459217733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃的。。。 https://t.co/cbXXnIqT9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "愛總是身不由己",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 189,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2340
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862775170613510144"
+      ],
+      "media_source_tweet_id": [
+        "1862775177035293073"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "1862809420197146694",
+    "created_at": "2024-11-30T10:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T11:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862809420197146694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2294444582",
+          "start": 3,
+          "username": "mnhr__chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kkYfXf5XVr",
+          "end": 45,
+          "expanded_url": "https://x.com/mnhr__chan/status/1862775177035293073/photo/1",
+          "media_key": "3_1862775170613510144",
+          "start": 22,
+          "url": "https://t.co/kkYfXf5XVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862809420197146694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862775177035293073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mnhr__chan: 将来の夢↓ https://t.co/kkYfXf5XVr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_1862775170613510144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnoJfTWAAAvhS7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862775170613510144"
+          ],
+          "media_source_tweet_id": [
+            "1862775177035293073"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1862809420197146694",
+        "created_at": "2024-11-30T10:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862809420197146694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2294444582",
+              "start": 3,
+              "username": "mnhr__chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkYfXf5XVr",
+              "end": 45,
+              "expanded_url": "https://x.com/mnhr__chan/status/1862775177035293073/photo/1",
+              "media_key": "3_1862775170613510144",
+              "start": 22,
+              "url": "https://t.co/kkYfXf5XVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862809420197146694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862775177035293073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mnhr__chan: 将来の夢↓ https://t.co/kkYfXf5XVr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862775170613510144"
+          ]
+        },
+        "author_id": "2294444582",
+        "conversation_id": "1862775177035293073",
+        "created_at": "2024-11-30T08:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862775177035293073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkYfXf5XVr",
+              "end": 29,
+              "expanded_url": "https://x.com/mnhr__chan/status/1862775177035293073/photo/1",
+              "media_key": "3_1862775170613510144",
+              "start": 6,
+              "url": "https://t.co/kkYfXf5XVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862775177035293073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 35933,
+          "like_count": 2906,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "将来の夢↓ https://t.co/kkYfXf5XVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 110,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1103
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-16T13:25:35.000Z",
+        "description": "病んでいる子や生きるのがつらい人、心に苦しみを抱えている人たちに1番寄り添えるキャラクターでありたい💊❤️‍🩹【グッズ通販 / goods shop】→ https://t.co/8gcEWQ0Xkc 🍓【お問い合わせ / mail】→ezakibisuko@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mhcyamikawaii",
+                "end": 100,
+                "expanded_url": "https://lit.link/mhcyamikawaii",
+                "start": 77,
+                "url": "https://t.co/8gcEWQ0Xkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ateliermu.wixsite.com/ateliermu",
+                "end": 23,
+                "expanded_url": "http://ateliermu.wixsite.com/ateliermu",
+                "start": 0,
+                "url": "https://t.co/PCYZBRx3lr"
+              }
+            ]
+          }
+        },
+        "id": "2294444582",
+        "location": "作:江崎びす子　LINEスタンプ&着せ替え&絵文字発売中！",
+        "name": "メンヘラチャン【公式】Menherachan【OFFICIAL】 (病みかわいい)10周年",
+        "pinned_tweet_id": "1036214144691658753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/697938539539931136/h586eWvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70266,
+          "following_count": 8,
+          "like_count": 6416,
+          "listed_count": 323,
+          "media_count": 2874,
+          "tweet_count": 11607
+        },
+        "url": "https://t.co/PCYZBRx3lr",
+        "username": "mnhr__chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2059645665370939781",
+    "created_at": "2026-05-28T05:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059870057476640943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1726153965031800832",
+          "start": 0,
+          "username": "ilost4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059870057476640943",
+    "in_reply_to_user_id": "1726153965031800832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059692207742107949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilost4444 长那么丑拍照的时候还摆那个恶心矫揉造作的姿势我看一眼都恶心只是一直没好意思说而已 点一次你主页恶心一次 你长这样就没必要追求外表pass了最快的方法就是早点找个楼跳了重新投胎 而且自己都说自己是人妖还不让别人说了？还指望着我尊重你？我凭什么啊 想骂就骂了没有尊重的义务🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2059645665370939781",
+        "created_at": "2026-05-28T05:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059870057476640943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1726153965031800832",
+              "start": 0,
+              "username": "ilost4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059870057476640943",
+        "in_reply_to_user_id": "1726153965031800832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059692207742107949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilost4444 长那么丑拍照的时候还摆那个恶心矫揉造作的姿势我看一眼都恶心只是一直没好意思说而已 点一次你主页恶心一次 你长这样就没必要追求外表pass了最快的方法就是早点找个楼跳了重新投胎 而且自己都说自己是人妖还不让别人说了？还指望着我尊重你？我凭什么啊 想骂就骂了没有尊重的义务🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726153965031800832",
+        "conversation_id": "2059645665370939781",
+        "created_at": "2026-05-27T17:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059692207742107949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059692207742107949",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059645665370939781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 另外关于您说的关于跨性别的话题…事实上我比较委屈的点是因为…其实目前各方面因素叠加的情况下 我本人是真的没有办法控制自己可以再再时间内完成手术 这是我最终的梦想 只是总是目前来说能够走到这一步的跨性别者并不多 这其中包括医院排床就需要两年的缓冲 也包括了家长的意见 以及与费用的问题等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 214,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2442
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T08:22:42.000Z",
+        "description": "病み垢\\裏垢\\躁うつですけど 阴暗的逃生舱",
+        "id": "1726153965031800832",
+        "location": "君の側💟",
+        "name": "知るか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951326877240664065/F2pXpkbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 78,
+          "like_count": 4802,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2574
+        },
+        "username": "ilost4444",
+        "verified": false
+      }
+    ]
+  }
+}

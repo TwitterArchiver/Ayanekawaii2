@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "1860658572029538693",
+    "created_at": "2024-11-24T12:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T13:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860662901847228678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818573054605508610",
+          "start": 0,
+          "username": "ZhizhiziOsward"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860662901847228678",
+    "in_reply_to_user_id": "1818573054605508610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860658572029538693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhizhiziOsward 这次别再进医院了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1860658572029538693",
+        "created_at": "2024-11-24T12:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860662901847228678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818573054605508610",
+              "start": 0,
+              "username": "ZhizhiziOsward"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860662901847228678",
+        "in_reply_to_user_id": "1818573054605508610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860658572029538693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhizhiziOsward 这次别再进医院了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860658565134053377"
+          ]
+        },
+        "author_id": "1818573054605508610",
+        "conversation_id": "1860658572029538693",
+        "created_at": "2024-11-24T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860658572029538693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iqg2bSLeP",
+              "end": 37,
+              "expanded_url": "https://x.com/ZhizhiziOsward/status/1860658572029538693/photo/1",
+              "media_key": "3_1860658565134053377",
+              "start": 14,
+              "url": "https://t.co/3iqg2bSLeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860658572029538693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔150天 6t金刚晚安 https://t.co/3iqg2bSLeP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 107,
+          "like_count": 231,
+          "listed_count": 0,
+          "tweet_count": 1065
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T09:03:06.000Z",
+        "description": "前世@Zhizhizi_Osward/07infp/國際高中/雙向情感障礙/重抑重焦/mtx無性別/三無病弱/負面希死/地雷割手/⚠️無性戀/互fo大歡迎！/請不要討厭我/三无号退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Zhizhizi_Osward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/cp6FlPKoXl"
+              }
+            ]
+          }
+        },
+        "id": "1818573054605508610",
+        "location": "花有一万种开法 祝我们方寸不乱",
+        "name": "失眠电子猫会遇到仿生思诺思吗",
+        "pinned_tweet_id": "1849247940143116374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858818062566445056/PlEV-01p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 107,
+          "like_count": 389,
+          "listed_count": 0,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/cp6FlPKoXl",
+        "username": "ZhizhiziOsward",
+        "verified": false
+      }
+    ]
+  }
+}

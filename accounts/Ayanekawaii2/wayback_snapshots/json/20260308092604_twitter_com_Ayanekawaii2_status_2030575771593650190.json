@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2030575771593650190",
+    "created_at": "2026-03-08T09:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030575771593650190"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030575771593650190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道我的朋友都是怎么消失的了。。和朋友出去吃饭聊到把妇女节叫做女神节的事，她说她妈妈也更喜欢女神节，觉得妇女这个词太老了，讲了很多道理以后还是更能接受“女神节”，然后我就说可能只有她们那一辈的人都死了以后才能改正过来\n说完以后我就后悔了，对于家庭幸福的人来说，说这些也太没情商了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2030575771593650190",
+        "created_at": "2026-03-08T09:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030575771593650190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030575771593650190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我的朋友都是怎么消失的了。。和朋友出去吃饭聊到把妇女节叫做女神节的事，她说她妈妈也更喜欢女神节，觉得妇女这个词太老了，讲了很多道理以后还是更能接受“女神节”，然后我就说可能只有她们那一辈的人都死了以后才能改正过来\n说完以后我就后悔了，对于家庭幸福的人来说，说这些也太没情商了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/双性恋小女孩/友跨/不登校/日语英语学习中/社交苦手/单机中 不骚扰我的人都发财了",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 110,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1664
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}
