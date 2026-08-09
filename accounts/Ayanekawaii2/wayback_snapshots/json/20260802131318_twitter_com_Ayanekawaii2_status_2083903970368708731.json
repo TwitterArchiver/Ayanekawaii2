@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2083903970368708731",
+    "created_at": "2026-08-02T13:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083903970368708731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reject_idv/sta…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/reject_idv/status/2083851086851703152",
+          "start": 64,
+          "url": "https://t.co/QjgHFXQNC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083903970368708731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083851086851703152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "rc牛逼。。之前又是常规赛倒一又是alf转人类的我都以为rc要不行了，结果后面的比赛和季后赛一路连胜，冠军实至名归，太强了🎉🏆 https://t.co/QjgHFXQNC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083851082481147904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtThNAaIAA0sQ9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2083903970368708731",
+        "created_at": "2026-08-02T13:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083903970368708731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reject_idv/sta…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/reject_idv/status/2083851086851703152",
+              "start": 64,
+              "url": "https://t.co/QjgHFXQNC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083903970368708731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083851086851703152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rc牛逼。。之前又是常规赛倒一又是alf转人类的我都以为rc要不行了，结果后面的比赛和季后赛一路连胜，冠军实至名归，太强了🎉🏆 https://t.co/QjgHFXQNC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083851082481147904"
+          ]
+        },
+        "author_id": "1393082449941327873",
+        "conversation_id": "2083851086851703152",
+        "created_at": "2026-08-02T09:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083851086851703152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "RCWIN"
+            },
+            {
+              "end": 83,
+              "start": 73,
+              "tag": "第五人格8arty"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "第五人格IJL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/59fNf9JHFt",
+              "end": 116,
+              "expanded_url": "https://x.com/REJECT_IDV/status/2083851086851703152/photo/1",
+              "media_key": "3_2083851082481147904",
+              "start": 93,
+              "url": "https://t.co/59fNf9JHFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083851086851703152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 111631,
+          "like_count": 3611,
+          "quote_count": 137,
+          "reply_count": 17,
+          "retweet_count": 1301
+        },
+        "reply_settings": "everyone",
+        "text": "🏆CHAMPIONS‼︎!🏆\n\n王座奪還、世界への道は続く──\nThank you for all your support!🫶\n\n#RCWIN #第五人格8arty #第五人格IJL https://t.co/59fNf9JHFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 288,
+          "like_count": 1299,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2851
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T05:55:39.000Z",
+        "description": "@RC_REJECT IDV Div. | 🛒https://t.co/Oqegq7Xy2S | YouTube https://t.co/Das8QF3i6P | TikTok https://t.co/fZUpr2Odfj | FM #RCと魔法のひととき | FA #りじぇあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 119,
+                "tag": "RCと魔法のひととき"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "りじぇあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RC_REJECT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "brand.reject.jp",
+                "end": 46,
+                "expanded_url": "https://brand.reject.jp/",
+                "start": 23,
+                "url": "https://t.co/Oqegq7Xy2S"
+              },
+              {
+                "display_url": "youtube.com/c/REJECTIDV",
+                "end": 80,
+                "expanded_url": "http://youtube.com/c/REJECTIDV",
+                "start": 57,
+                "url": "https://t.co/Das8QF3i6P"
+              },
+              {
+                "display_url": "tiktok.com/@rc_identityv",
+                "end": 113,
+                "expanded_url": "http://tiktok.com/@rc_identityv",
+                "start": 90,
+                "url": "https://t.co/fZUpr2Odfj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/RC_REJECT",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/RC_REJECT",
+                "start": 0,
+                "url": "https://t.co/HsKhnsV9zn"
+              }
+            ]
+          }
+        },
+        "id": "1393082449941327873",
+        "location": "日本",
+        "name": "REJECT 第五人格部門",
+        "pinned_tweet_id": "2083851086851703152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065323347525992448/SeYJhAps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39659,
+          "following_count": 75,
+          "like_count": 14469,
+          "listed_count": 341,
+          "media_count": 2201,
+          "tweet_count": 6846
+        },
+        "url": "https://t.co/HsKhnsV9zn",
+        "username": "REJECT_IDV",
+        "verified": true
+      }
+    ]
+  }
+}

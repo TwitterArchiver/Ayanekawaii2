@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2082697723728515470",
+    "created_at": "2026-07-30T05:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082697723728515470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dongbeibisima8…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/dongbeibisima89/status/2082378015779238172",
+          "start": 16,
+          "url": "https://t.co/YZZQDTIidb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082697723728515470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082378015779238172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "池袋的一些东北菜馆给我的印象： https://t.co/YZZQDTIidb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2082697723728515470",
+        "created_at": "2026-07-30T05:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082697723728515470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dongbeibisima8…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/dongbeibisima89/status/2082378015779238172",
+              "start": 16,
+              "url": "https://t.co/YZZQDTIidb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082697723728515470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082378015779238172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "池袋的一些东北菜馆给我的印象： https://t.co/YZZQDTIidb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916755437535604736",
+        "conversation_id": "2082117466063532295",
+        "created_at": "2026-07-29T08:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082378015779238172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "778677727",
+              "start": 0,
+              "username": "zhinarencs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082378015779238172",
+        "in_reply_to_user_id": "778677727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2772,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082283628554485991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencs8964 东百菜能开得到处就是因为做法简单谁都能做，几乎没有成本，随便弄点冷冻的僵尸肉烂菜叶子加一堆佐料倒锅里，这就是东北菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 290,
+          "like_count": 1311,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T07:24:50.000Z",
+        "description": "管东百逼叫满洲人等于祝福它们死🐴",
+        "id": "1916755437535604736",
+        "location": "1657159890@qq.com",
+        "name": "曲婉婷",
+        "pinned_tweet_id": "1952659583362600971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075924935193804800/0l3QfdSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 54,
+          "like_count": 525,
+          "listed_count": 26,
+          "media_count": 154,
+          "tweet_count": 3052
+        },
+        "url": "",
+        "username": "dongbeibisima89",
+        "verified": false
+      }
+    ]
+  }
+}

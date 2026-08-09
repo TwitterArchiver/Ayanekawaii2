@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2082081779352297765",
+    "created_at": "2026-07-29T09:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082397686641369181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1331567433170243585",
+          "start": 0,
+          "username": "My_NightUnknown"
+        },
+        {
+          "end": 31,
+          "id": "1528798633168347137",
+          "start": 17,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082397686641369181",
+    "in_reply_to_user_id": "1331567433170243585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082116469551485325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@My_NightUnknown @TomoriNao2022 典"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2082081779352297765",
+        "created_at": "2026-07-29T09:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082397686641369181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1331567433170243585",
+              "start": 0,
+              "username": "My_NightUnknown"
+            },
+            {
+              "end": 31,
+              "id": "1528798633168347137",
+              "start": 17,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082397686641369181",
+        "in_reply_to_user_id": "1331567433170243585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082116469551485325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@My_NightUnknown @TomoriNao2022 典"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1331567433170243585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2082081779352297765",
+        "created_at": "2026-07-28T14:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082116469551485325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082116469551485325",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20966,
+          "like_count": 430,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082081779352297765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 这回复不开我也知道在说什么：\n“该，有那么多地方不去非去日本留学。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 286,
+          "like_count": 1288,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2816
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T11:56:50.000Z",
+        "description": "",
+        "id": "1331567433170243585",
+        "name": "陌夜",
+        "pinned_tweet_id": "2027037950245241236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014251869011595266/PDOSlOEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 54,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "My_NightUnknown",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEliU0\ndiscord：https://t.co/g6evdifySc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEliU0"
+              },
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 80,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 57,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 23,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 0,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2078866714859860030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17537,
+          "following_count": 948,
+          "like_count": 11441,
+          "listed_count": 64,
+          "media_count": 2720,
+          "tweet_count": 11067
+        },
+        "url": "https://t.co/g6evdifySc",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

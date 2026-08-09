@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2083557214300864570",
+    "created_at": "2026-08-01T14:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083557214300864570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/needygirl_o/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/needygirl_o/status/2083508049159881045",
+          "start": 22,
+          "url": "https://t.co/ZasOFeNzi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083557214300864570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083508049159881045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "离我家很近但为什么要在我回国的时候开啊😭😭 https://t.co/ZasOFeNzi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083445765909970944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOni4rHbAAAJ-GQ.jpg",
+        "width": 3042
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083445781231812608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOni5kMbwAAPxG4.jpg",
+        "width": 3042
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083445799317557248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOni6nkaUAAqW-y.jpg",
+        "width": 3042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2083557214300864570",
+        "created_at": "2026-08-01T14:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083557214300864570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/needygirl_o/status/2083508049159881045",
+              "start": 22,
+              "url": "https://t.co/ZasOFeNzi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083557214300864570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083508049159881045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "离我家很近但为什么要在我回国的时候开啊😭😭 https://t.co/ZasOFeNzi1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083445765909970944",
+            "3_2083445781231812608",
+            "3_2083445799317557248"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2083508049159881045",
+        "created_at": "2026-08-01T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083508049159881045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/igIwVBnrZb",
+              "end": 197,
+              "expanded_url": "https://x.com/needygirl_o/status/2083508049159881045/photo/1",
+              "media_key": "3_2083445765909970944",
+              "start": 174,
+              "url": "https://t.co/igIwVBnrZb"
+            },
+            {
+              "display_url": "pic.x.com/igIwVBnrZb",
+              "end": 197,
+              "expanded_url": "https://x.com/needygirl_o/status/2083508049159881045/photo/1",
+              "media_key": "3_2083445781231812608",
+              "start": 174,
+              "url": "https://t.co/igIwVBnrZb"
+            },
+            {
+              "display_url": "pic.x.com/igIwVBnrZb",
+              "end": 197,
+              "expanded_url": "https://x.com/needygirl_o/status/2083508049159881045/photo/1",
+              "media_key": "3_2083445799317557248",
+              "start": 174,
+              "url": "https://t.co/igIwVBnrZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083508049159881045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 194,
+                "start": 189,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 213,
+                "start": 195,
+                "tag": "NEEDYGIRLOVERDOSE"
+              }
+            ]
+          },
+          "text": "／\n📢東名阪POP-UP\n　新作ラインナップ公開！\n＼\n\n来週8/8（土）から、POP-UP STOREがスタート！！\n新作グッズに加え、人気の過去グッズも再販予定！\n\nぜひ遊びにきてね！！\n\n📍東京\n2026/8/8（土）～8/16（日）\n営業時間：11:00〜20:00\n場所：OPENBASE SHIBUYA\n東京都渋谷区宇田川町14-13 宇田川町ビルディング 1F\n\n#ニディガ #NEEDYGIRLOVERDOSE"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 19649,
+          "like_count": 561,
+          "quote_count": 29,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "／\n📢東名阪POP-UP\n　新作ラインナップ公開！\n＼\n\n来週8/8（土）から、POP-UP STOREがスタート！！\n新作グッズに加え、人気の過去グッズも再販予定！\n\nぜひ遊びにきてね！！\n\n📍東京\n2026/8/8（土）～8/16（日）\n営業時間：11:00〜20:00\n場所：OPENBASE SHIBUYA\n東京都渋谷区宇田川町14-13 https://t.co/igIwVBnrZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 287,
+          "like_count": 1298,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2849
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2071760635319230817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64020,
+          "following_count": 9,
+          "like_count": 37,
+          "listed_count": 75,
+          "media_count": 772,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

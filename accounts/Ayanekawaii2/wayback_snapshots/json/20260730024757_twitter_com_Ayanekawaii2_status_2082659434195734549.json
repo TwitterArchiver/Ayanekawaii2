@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2082659434195734549",
+    "created_at": "2026-07-30T02:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082659434195734549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kumamoto_fight…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/kumamoto_fight/status/2082450598398767602",
+          "start": 22,
+          "url": "https://t.co/7FsVFh8Fvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082659434195734549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082450598398767602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个熊本熊鞠躬好萌啊看得我竟有一丝触动…… https://t.co/7FsVFh8Fvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2082450591440416769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZZx5UbsAE2KH1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2082659434195734549",
+        "created_at": "2026-07-30T02:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082659434195734549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kumamoto_fight…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kumamoto_fight/status/2082450598398767602",
+              "start": 22,
+              "url": "https://t.co/7FsVFh8Fvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082659434195734549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082450598398767602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个熊本熊鞠躬好萌啊看得我竟有一丝触动…… https://t.co/7FsVFh8Fvu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082450591440416769"
+          ]
+        },
+        "author_id": "916736151989260288",
+        "conversation_id": "2082450598398767602",
+        "created_at": "2026-07-29T12:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082450598398767602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "検索 検索対象 すべて ページ PDF 熊本県では、令和8年熊本地震により被害を受けられた被災者を支援するため、義援金口座を開設しました。 熊本に対する温かいご支援をよろしくお願い申し上げます。 肥後銀行 県庁支店 普通預金 1700669 熊本銀行 （準備中） ゆうちょ銀行 （準備中） 令和8年熊本地震義援金（熊本県） 熊本県知事 木村 敬 （レイワハチネンクマモトジシンギエンキン（クマモトケン）） ※同一金融機関での本支店間の振込手数料の免除については手続き中です。 熊本県では、以下の場所に義援金箱を設置し、義援金の募集を行っています。 直接持参される場合も、同様の場所で受付を行い、その場で領収書を発行します。（熊本県庁の場合は、県庁行政棟新館3階健康福祉政策課） 県庁行政棟本館1階情報プラザ、各広域本部（県央広域本部除 く）及び地域振興局、東京・大阪・福岡事務所の計14か所 平日 午前8時30分から午後5時まで 日本赤十字社熊本県支部及び社会福祉法人熊本県共同募金会においても義援金を募集しています。 義援金は、寄付金控除（個人）や損金算入（法人）の取扱いを受けることができます。 銀行振込の際の利用明細",
+              "display_url": "pref.kumamoto.jp/soshiki/27/274…",
+              "end": 54,
+              "expanded_url": "https://www.pref.kumamoto.jp/soshiki/27/274572.html",
+              "start": 31,
+              "status": 200,
+              "title": "令和8年熊本地震に係る義援金の受付について - 熊本県ホームページ",
+              "unwound_url": "https://www.pref.kumamoto.jp/soshiki/27/274572.html",
+              "url": "https://t.co/hrl78xlMKm"
+            },
+            {
+              "display_url": "pic.x.com/3jIngfGOKS",
+              "end": 170,
+              "expanded_url": "https://x.com/KUMAMOTO_FIGHT/status/2082450598398767602/photo/1",
+              "media_key": "3_2082450591440416769",
+              "start": 147,
+              "url": "https://t.co/3jIngfGOKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082450598398767602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5524,
+          "impression_count": 1608003,
+          "like_count": 42583,
+          "quote_count": 764,
+          "reply_count": 131,
+          "retweet_count": 19649
+        },
+        "reply_settings": "everyone",
+        "text": "熊本県より\n\n令和8年熊本地震に係る\n義援金の受付について\n\nhttps://t.co/hrl78xlMKm\n\n義援金受付期間（予定）\n令和8年(2026年)7月29日 ～10月30日\n\n肥後銀行　県庁支店　普通預金　1700669\n\n令和8年熊本地震義援金（熊本県）　\n熊本県知事　木村　敬 https://t.co/3jIngfGOKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 287,
+          "like_count": 1299,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 2826
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T18:45:05.000Z",
+        "description": "熊本県外で開催される熊本県に関するイベントや物産展を主に紹介しています。リツイートのご協力お願いいたします",
+        "id": "916736151989260288",
+        "location": "japan",
+        "name": "KUMAMOTO FIGHT",
+        "pinned_tweet_id": "2082450598398767602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1210989063353716736/oy7txgST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6706,
+          "following_count": 1118,
+          "like_count": 2492,
+          "listed_count": 41,
+          "media_count": 13196,
+          "tweet_count": 16838
+        },
+        "url": "",
+        "username": "KUMAMOTO_FIGHT",
+        "verified": false
+      }
+    ]
+  }
+}
