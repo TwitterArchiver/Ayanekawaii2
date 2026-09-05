@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2088668871716941960",
+    "created_at": "2026-08-15T16:47:19.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088668871716941960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayanekawaii2/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ayanekawaii2/status/2073050921924534372",
+          "start": 20,
+          "url": "https://t.co/3Talr0I7Wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088668871716941960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073050921924534372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就算离开了这里我也相信终有一天会再见的 https://t.co/3Talr0I7Wf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2088668871716941960",
+        "created_at": "2026-08-15T16:47:19.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088668871716941960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayanekawaii2/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ayanekawaii2/status/2073050921924534372",
+              "start": 20,
+              "url": "https://t.co/3Talr0I7Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088668871716941960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073050921924534372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就算离开了这里我也相信终有一天会再见的 https://t.co/3Talr0I7Wf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2073050921924534372",
+        "created_at": "2026-07-03T14:27:09.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073050921924534372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073050921924534372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是很确信有一天我会再见到你的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要\n🗝️@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2088668871716941960",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 290,
+          "like_count": 1439,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 2917
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

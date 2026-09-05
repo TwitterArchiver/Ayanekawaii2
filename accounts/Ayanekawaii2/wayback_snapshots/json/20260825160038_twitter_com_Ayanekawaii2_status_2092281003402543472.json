@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2092150238706573758",
+    "created_at": "2026-08-25T16:00:38.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092281003402543472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071048854594891776",
+          "start": 0,
+          "username": "yoshiakira24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092281003402543472",
+    "in_reply_to_user_id": "2071048854594891776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092280357727109536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshiakira24 日元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2092150238706573758",
+        "created_at": "2026-08-25T16:00:38.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092281003402543472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071048854594891776",
+              "start": 0,
+              "username": "yoshiakira24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092281003402543472",
+        "in_reply_to_user_id": "2071048854594891776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092280357727109536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshiakira24 日元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071048854594891776",
+        "conversation_id": "2092150238706573758",
+        "created_at": "2026-08-25T15:58:04.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092280357727109536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092280357727109536",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092150238706573758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 我不想努力了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2092281017969389948",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 298,
+          "like_count": 1692,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2984
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T01:52:55.000Z",
+        "description": "この世をば 我が世とぞ思ふ\n 望月の 欠けたることも 無しと思へば\n飞舞教师躺平中 求互fo带我玩\n主推Lovelive！全系列 \n赛马娘/fgo有在玩",
+        "id": "2071048854594891776",
+        "is_identity_verified": false,
+        "location": "伊谢尔伦共和政府",
+        "most_recent_tweet_id": "2092280357727109536",
+        "name": "義詮Kanan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071048854594891776/1785733663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084144156000366592/KSFv4Ylo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 582,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "yoshiakira24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

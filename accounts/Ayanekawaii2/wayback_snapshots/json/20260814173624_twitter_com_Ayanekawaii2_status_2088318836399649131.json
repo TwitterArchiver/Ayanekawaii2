@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2088318836399649131",
+    "created_at": "2026-08-14T17:36:24.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088318836399649131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/life1564847/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/life1564847/status/2087906338567507984",
+          "start": 13,
+          "url": "https://t.co/xD0g9FzUH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088318836399649131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087906338567507984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情。除了我妈视奸我。 https://t.co/xD0g9FzUH7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2088318836399649131",
+        "created_at": "2026-08-14T17:36:24.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088318836399649131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/life1564847/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/life1564847/status/2087906338567507984",
+              "start": 13,
+              "url": "https://t.co/xD0g9FzUH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088318836399649131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087906338567507984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情。除了我妈视奸我。 https://t.co/xD0g9FzUH7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "conversation_id": "2087906338567507984",
+        "created_at": "2026-08-13T14:17:17.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087906338567507984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087906338567507984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 63916,
+          "like_count": 1573,
+          "quote_count": 40,
+          "reply_count": 174,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得被视奸是一件很幸福的事情，因为有人愿意偷偷了解我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要\n🗝️@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2088318836399649131",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 288,
+          "like_count": 1432,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 2908
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。纯发骚。号主很萌谢谢。敢给我发🐦的我把你🐦剁了。",
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088296828769058952",
+        "name": "life",
+        "pinned_tweet_id": "2087040946953216036",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 76,
+          "like_count": 4402,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

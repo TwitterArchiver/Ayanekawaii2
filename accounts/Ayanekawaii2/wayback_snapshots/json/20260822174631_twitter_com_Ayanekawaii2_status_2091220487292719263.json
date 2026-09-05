@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2091220487292719263",
+    "created_at": "2026-08-22T17:46:31.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091220487292719263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091220487292719263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091198524176429270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wtfkanwogansha: 我会远离让我痛苦的一切的 我会幸福的 我会努力幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2091220487292719263",
+        "created_at": "2026-08-22T17:46:31.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091220487292719263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091220487292719263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091198524176429270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wtfkanwogansha: 我会远离让我痛苦的一切的 我会幸福的 我会努力幸福的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "2091198524176429270",
+        "created_at": "2026-08-22T16:19:15.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091198524176429270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091198524176429270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我会远离让我痛苦的一切的 我会幸福的 我会努力幸福的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2091220487292719263",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 292,
+          "like_count": 1586,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2950
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "总想说深刻的话是病你知道吗。",
+        "id": "1847153221900685312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091198524176429270",
+        "name": "ダメ女",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847153221900685312/1767856889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070301092878143488/Pdd_zmmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 617,
+          "like_count": 1326,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "wtfkanwogansha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

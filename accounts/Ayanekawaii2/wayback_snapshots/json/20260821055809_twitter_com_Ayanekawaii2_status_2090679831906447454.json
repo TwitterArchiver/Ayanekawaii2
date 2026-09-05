@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2090679831906447454",
+    "created_at": "2026-08-21T05:58:09.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090679831906447454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ov012456/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ov012456/status/2090427015413612891",
+          "start": 2,
+          "url": "https://t.co/SCeedfQJ2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090679831906447454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090427015413612891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痛 https://t.co/SCeedfQJ2b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2090679831906447454",
+        "created_at": "2026-08-21T05:58:09.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090679831906447454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ov012456/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ov012456/status/2090427015413612891",
+              "start": 2,
+              "url": "https://t.co/SCeedfQJ2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090679831906447454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090427015413612891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痛 https://t.co/SCeedfQJ2b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793300616871325696",
+        "conversation_id": "2090427015413612891",
+        "created_at": "2026-08-20T13:13:33.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090427015413612891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090427015413612891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 44281,
+          "like_count": 1667,
+          "quote_count": 26,
+          "reply_count": 128,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "什么都可以删掉，第一次十指紧扣时微微汗湿的掌心能删掉吗，第一次拥抱时的心脏紧贴在一起的瞬间能删掉吗，第一次互叫对方亲密称呼紧张感能删掉吗，第一次说晚安的幸福感能删掉吗，第一次发现自己离不开你的依赖感能删掉吗，那些一次次被消耗真心的瞬间能删掉吗，曾经的点点滴滴都能删掉吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2090679831906447454",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 290,
+          "like_count": 1538,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 2940
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T15:19:30.000Z",
+        "description": "你对我可曾有过半分真心",
+        "id": "1793300616871325696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090661004359373136",
+        "name": "布偶大王",
+        "pinned_tweet_id": "2022665094891819247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793300616871325696/1770621847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020760557805268992/ehIAwXk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 56,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 917
+        },
+        "url": "",
+        "username": "Ov012456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

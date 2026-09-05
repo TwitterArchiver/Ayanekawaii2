@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2090877683714723880",
+    "created_at": "2026-08-21T19:04:21.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090877683714723880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingyongbaowo/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/qingyongbaowo/status/2090520749828383012",
+          "start": 18,
+          "url": "https://t.co/Ab8KHIFA7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090877683714723880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090520749828383012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是谁问我这个的话我真的会很伤心吧 https://t.co/Ab8KHIFA7n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2090877683714723880",
+        "created_at": "2026-08-21T19:04:21.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090877683714723880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingyongbaowo/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/qingyongbaowo/status/2090520749828383012",
+              "start": 18,
+              "url": "https://t.co/Ab8KHIFA7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090877683714723880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090520749828383012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是谁问我这个的话我真的会很伤心吧 https://t.co/Ab8KHIFA7n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055676697891241984",
+        "conversation_id": "2090520749828383012",
+        "created_at": "2026-08-20T19:26:01.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090520749828383012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090520749828383012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 19543,
+          "like_count": 498,
+          "quote_count": 12,
+          "reply_count": 106,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "比起问\"我们现在是什么关系\"，我更喜欢恶趣味地问\"这是不是我们最后一面\"。因为彼此没有稳定的关系，见你，只是为了见到你，不是为了留住你，不是为了纠缠你最后一面，这是不是我们最后一面?几百公里，几千公里，什么时候可以见面?这是我们见的第几面?第一面会不会是最后一面?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2090877683714723880",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 291,
+          "like_count": 1544,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T15:49:05.000Z",
+        "description": "唉",
+        "id": "2055676697891241984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090822984961515715",
+        "name": "Ror",
+        "pinned_tweet_id": "2090523952183681284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055676697891241984/1783312893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076321561225969664/TIKnVA0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 6,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "qingyongbaowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

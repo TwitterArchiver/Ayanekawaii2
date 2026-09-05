@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091512471521546240"
+      ],
+      "media_source_tweet_id": [
+        "2091512508246904841"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "conversation_id": "2091775705118097658",
+    "created_at": "2026-08-24T06:32:46.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091775705118097658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706622483061686272",
+          "start": 3,
+          "username": "prtygal777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/igaycAxDz7",
+          "end": 46,
+          "expanded_url": "https://x.com/prtygal777/status/2091512508246904841/video/1",
+          "media_key": "13_2091512471521546240",
+          "start": 23,
+          "url": "https://t.co/igaycAxDz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091775705118097658",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091512471521546240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091512508246904841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prtygal777: Lovers https://t.co/igaycAxDz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6783,
+        "height": 1080,
+        "media_key": "13_2091512471521546240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091512471521546240/img/9-BjYEsmiPY_KGPj.jpg",
+        "public_metrics": {
+          "view_count": 5952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091512471521546240/vid/avc1/1436x1080/EVsg_ocLYIGgN23Y.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091512471521546240/vid/avc1/358x270/Q2Yi0tzuT-9Fn4vx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091512471521546240/vid/avc1/478x360/DLRbC-oO8L4Z8Vmx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091512471521546240/vid/avc1/956x720/F_NgY6cYbLA-waWD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091512471521546240/pl/VEY99qE6TagfJt0x.m3u8"
+          }
+        ],
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091512471521546240"
+          ],
+          "media_source_tweet_id": [
+            "2091512508246904841"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2091775705118097658",
+        "created_at": "2026-08-24T06:32:46.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091775705118097658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706622483061686272",
+              "start": 3,
+              "username": "prtygal777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igaycAxDz7",
+              "end": 46,
+              "expanded_url": "https://x.com/prtygal777/status/2091512508246904841/video/1",
+              "media_key": "13_2091512471521546240",
+              "start": 23,
+              "url": "https://t.co/igaycAxDz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091775705118097658",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091512471521546240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091512508246904841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prtygal777: Lovers https://t.co/igaycAxDz7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091512471521546240"
+          ]
+        },
+        "author_id": "1706622483061686272",
+        "conversation_id": "2091512508246904841",
+        "created_at": "2026-08-23T13:06:55.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091512508246904841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/igaycAxDz7",
+              "end": 30,
+              "expanded_url": "https://x.com/prtygal777/status/2091512508246904841/video/1",
+              "media_key": "13_2091512471521546240",
+              "start": 7,
+              "url": "https://t.co/igaycAxDz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091512508246904841",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091512471521546240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 27672,
+          "like_count": 1254,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "Lovers https://t.co/igaycAxDz7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2091775705118097658",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 297,
+          "like_count": 1612,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2957
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-26T10:51:44.000Z",
+        "description": "Free Palestine | Doing It All For Love",
+        "id": "1706622483061686272",
+        "is_identity_verified": false,
+        "location": "DM for credit-removal-promoꨄ︎",
+        "most_recent_tweet_id": "2091732511235690581",
+        "name": "gal౨ৎ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706622483061686272/1731143909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856165117261426688/ybxv-m_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122217,
+          "following_count": 695,
+          "like_count": 58437,
+          "listed_count": 461,
+          "media_count": 4577,
+          "tweet_count": 21046
+        },
+        "url": "",
+        "username": "prtygal777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

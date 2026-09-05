@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2087225396064575790",
+    "created_at": "2026-08-11T17:11:27.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087225396064575790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929464299115679745",
+          "start": 3,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087225396064575790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086905082633912419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Devastated1726: 赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2087225396064575790",
+        "created_at": "2026-08-11T17:11:27.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087225396064575790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929464299115679745",
+              "start": 3,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087225396064575790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086905082633912419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Devastated1726: 赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929464299115679745",
+        "conversation_id": "2086905082633912419",
+        "created_at": "2026-08-10T19:58:39.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086905082633912419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086905082633912419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 172749,
+          "like_count": 1197,
+          "quote_count": 4,
+          "reply_count": 470,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2087225396064575790",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 286,
+          "like_count": 1374,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 2890
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n记录有气无力的生活。\n女孩子来互fo",
+        "id": "1929464299115679745",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2086909835774431469",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2066137333611876366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929464299115679745/1776881957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 136,
+          "like_count": 348,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

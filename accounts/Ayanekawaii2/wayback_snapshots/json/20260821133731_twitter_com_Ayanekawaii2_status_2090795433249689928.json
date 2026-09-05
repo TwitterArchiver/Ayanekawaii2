@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2090795433249689928",
+    "created_at": "2026-08-21T13:37:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090795433249689928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090795433249689928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些门槛妹是给脸给多了吧一天天的日子过的比我还滋润还好意思在那卖惨要钱一副活不下去了的样子给了和过门槛一样的钱也不发图包视频我倒也不是稀罕看这种丑逼拍的安卓机画质抠逼小视频但您连发都不发是真拿我这种好心小女孩当冤大头了？换个男的不得挂你被骂死啊这还说啥了赶紧去给你最爱的男性卖逼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2090795433249689928",
+        "created_at": "2026-08-21T13:37:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090795433249689928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090795433249689928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些门槛妹是给脸给多了吧一天天的日子过的比我还滋润还好意思在那卖惨要钱一副活不下去了的样子给了和过门槛一样的钱也不发图包视频我倒也不是稀罕看这种丑逼拍的安卓机画质抠逼小视频但您连发都不发是真拿我这种好心小女孩当冤大头了？换个男的不得挂你被骂死啊这还说啥了赶紧去给你最爱的男性卖逼吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2090795433249689928",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 291,
+          "like_count": 1542,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 2942
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

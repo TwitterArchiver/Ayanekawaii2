@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2086367350035784083",
+    "created_at": "2026-08-09T15:06:16.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086469115926266283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564935890174361600",
+          "start": 0,
+          "username": "creeper_tcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086469115926266283",
+    "in_reply_to_user_id": "1564935890174361600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086369577555083700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creeper_tcd 我去这么好……我在日本看的那个医生的意思好像是阿普药效太强了先给我开一点药效弱的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2086367350035784083",
+        "created_at": "2026-08-09T15:06:16.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086469115926266283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564935890174361600",
+              "start": 0,
+              "username": "creeper_tcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086469115926266283",
+        "in_reply_to_user_id": "1564935890174361600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086369577555083700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creeper_tcd 我去这么好……我在日本看的那个医生的意思好像是阿普药效太强了先给我开一点药效弱的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564935890174361600",
+        "conversation_id": "2086367350035784083",
+        "created_at": "2026-08-09T08:30:44.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086369577555083700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086369577555083700",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086367350035784083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 ？真的假的我在日本的医生直接给我开俩月这玩意…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2086469115926266283",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 287,
+          "like_count": 1347,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2875
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-31T11:19:33.000Z",
+        "description": "Crtcd. ソラとも。\n20↑ they / them\n漢語 / 日本語 \n写真学生。音ゲーマー。PC DIY愛好者。 \n対立、暁山瑞希好き\nゲーム▷ Minecraft / Arcaea / maimai /",
+        "id": "1564935890174361600",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2086428939896107396",
+        "name": "CreeperTCD",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564935890174361600/1665928814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035641624739643392/mGXkLRi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 809,
+          "like_count": 10104,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "creeper_tcd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
