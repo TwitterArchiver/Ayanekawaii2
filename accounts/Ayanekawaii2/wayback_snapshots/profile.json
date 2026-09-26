@@ -1,11 +1,20 @@
 {
   "name": "萌小月",
   "username": "@Ayanekawaii2",
-  "bio": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+  "bio": "到死为止的人生全部献给我吧@todorokidoya1\n你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
   "location": "不死会相逢",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2042905379848491159",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 27,
+        "start": 13,
+        "username": "todorokidoya1"
+      }
+    ]
+  }
 }
