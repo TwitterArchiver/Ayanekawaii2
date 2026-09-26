@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1786771245750755328",
+    "conversation_id": "2099374899609612581",
+    "created_at": "2026-09-16T07:01:17.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100117805622587517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926202804139421696",
+          "start": 0,
+          "username": "a233166176539"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100117805622587517",
+    "in_reply_to_user_id": "1926202804139421696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099887151827820938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a233166176539 谢谢你呀(*^▽^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2099374899609612581",
+        "created_at": "2026-09-16T07:01:17.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100117805622587517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926202804139421696",
+              "start": 0,
+              "username": "a233166176539"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100117805622587517",
+        "in_reply_to_user_id": "1926202804139421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099887151827820938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a233166176539 谢谢你呀(*^▽^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926202804139421696",
+        "conversation_id": "2099374899609612581",
+        "created_at": "2026-09-15T15:44:45.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099887151827820938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099887151827820938",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099374899609612581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 好萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2100117805622587517",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 323,
+          "like_count": 2221,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 3045
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-24T09:05:27.000Z",
+        "description": "🇯🇵東京",
+        "id": "1926202804139421696",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2099887322418577665",
+        "name": "gara",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024375748749119492/VA37-qMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 141,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "a233166176539",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

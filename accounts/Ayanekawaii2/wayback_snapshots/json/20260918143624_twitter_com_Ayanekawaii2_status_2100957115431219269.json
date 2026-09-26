@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100957106987991040",
+        "3_2100957106958704640",
+        "3_2100957106975506432",
+        "3_2100957106988007424"
+      ]
+    },
+    "author_id": "1786771245750755328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100957115431219269",
+    "created_at": "2026-09-18T14:36:24.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100957115431219269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZ2fO8eaq6",
+          "end": 28,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+          "media_key": "3_2100957106987991040",
+          "start": 5,
+          "url": "https://t.co/TZ2fO8eaq6"
+        },
+        {
+          "display_url": "pic.x.com/TZ2fO8eaq6",
+          "end": 28,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+          "media_key": "3_2100957106958704640",
+          "start": 5,
+          "url": "https://t.co/TZ2fO8eaq6"
+        },
+        {
+          "display_url": "pic.x.com/TZ2fO8eaq6",
+          "end": 28,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+          "media_key": "3_2100957106975506432",
+          "start": 5,
+          "url": "https://t.co/TZ2fO8eaq6"
+        },
+        {
+          "display_url": "pic.x.com/TZ2fO8eaq6",
+          "end": 28,
+          "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+          "media_key": "3_2100957106988007424",
+          "start": 5,
+          "url": "https://t.co/TZ2fO8eaq6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100957115431219269",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100957106987991040"
+      },
+      {
+        "media_key": "3_2100957106958704640"
+      },
+      {
+        "media_key": "3_2100957106975506432"
+      },
+      {
+        "media_key": "3_2100957106988007424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "食饭食饭 https://t.co/TZ2fO8eaq6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100957106987991040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZW4JaAAAxSHi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100957106958704640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZW4CbIAAy7NB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2100957106975506432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZW4GbgAAfSw8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100957106988007424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZW4JaQAAikzD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100957106987991040",
+            "3_2100957106958704640",
+            "3_2100957106975506432",
+            "3_2100957106988007424"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100957115431219269",
+        "created_at": "2026-09-18T14:36:24.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100957115431219269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZ2fO8eaq6",
+              "end": 28,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+              "media_key": "3_2100957106987991040",
+              "start": 5,
+              "url": "https://t.co/TZ2fO8eaq6"
+            },
+            {
+              "display_url": "pic.x.com/TZ2fO8eaq6",
+              "end": 28,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+              "media_key": "3_2100957106958704640",
+              "start": 5,
+              "url": "https://t.co/TZ2fO8eaq6"
+            },
+            {
+              "display_url": "pic.x.com/TZ2fO8eaq6",
+              "end": 28,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+              "media_key": "3_2100957106975506432",
+              "start": 5,
+              "url": "https://t.co/TZ2fO8eaq6"
+            },
+            {
+              "display_url": "pic.x.com/TZ2fO8eaq6",
+              "end": 28,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2100957115431219269/photo/1",
+              "media_key": "3_2100957106988007424",
+              "start": 5,
+              "url": "https://t.co/TZ2fO8eaq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100957115431219269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100957106987991040"
+          },
+          {
+            "media_key": "3_2100957106958704640"
+          },
+          {
+            "media_key": "3_2100957106975506432"
+          },
+          {
+            "media_key": "3_2100957106988007424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食饭食饭 https://t.co/TZ2fO8eaq6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "到死为止的人生全部献给我吧@todorokidoya1\n你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "todorokidoya1"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2100957115431219269",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 322,
+          "like_count": 2274,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
